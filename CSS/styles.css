@@ -1,0 +1,584 @@
+/* Colour meanings
+--colour1 -> menu links
+--colour2 -> headings
+--colour3 -> border drop caps
+--colour4 -> links
+--colour5 -> drop caps 
+*/
+
+/* Colour variables autumn
+:root {
+  --colour1: #454140;
+  --colour2: #bd5734;
+  --colour3: #a79e84;
+  --colour4: #7a3b2e;
+} */
+
+/* Colour testing
+:root {
+} */
+
+/* Colour variables dark */
+:root {
+  --colour1: #0e1a40; 
+  --colour2: #946b2d; 
+  --colour3: #4e587b; 
+  --colour4: #5d5d5d;
+  --colour5: #0e1a40; 
+}
+
+/* Colour varibles summer
+:root {
+  --colour1: #A0204C; 
+  --colour2: #23103A;
+  --colour3: #23103A;
+  --colour4: #543864;
+} */
+
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --colour1: #c56000;
+    --colour2: #ffcc80;
+    --colour3: #ffcc80;
+    --colour4: #ffc046;
+    --colour5: #c56000;
+
+    background: #242424;
+    color: #F5F5F5;
+  }
+  
+  body {
+    background-color: #242424;
+    color: #F5F5F5; 
+  }
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+  }
+}
+
+/* merriweather-regular - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/merriweather-v21-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Merriweather Regular'), local('Merriweather-Regular'),
+       url('fonts/merriweather-v21-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/merriweather-v21-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/merriweather-v21-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/merriweather-v21-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/merriweather-v21-latin-regular.svg#Merriweather') format('svg'); /* Legacy iOS */
+  font-display: swap;
+}
+
+/* merriweather-italic - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/merriweather-v21-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local('Merriweather Italic'), local('Merriweather-Italic'),
+       url('fonts/merriweather-v21-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/merriweather-v21-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/merriweather-v21-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('fonts/merriweather-v21-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/merriweather-v21-latin-italic.svg#Merriweather') format('svg'); /* Legacy iOS */
+  font-display: swap;
+}
+
+/* merriweather-sans-regular - latin */
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/merriweather-sans-v13-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/merriweather-sans-v13-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/merriweather-sans-v13-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/merriweather-sans-v13-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/merriweather-sans-v13-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/merriweather-sans-v13-latin-regular.svg#MerriweatherSans') format('svg'); /* Legacy iOS */
+  font-display: swap;
+}
+
+/* merriweather-sans-italic - latin */
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/merriweather-sans-v13-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/merriweather-sans-v13-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/merriweather-sans-v13-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/merriweather-sans-v13-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('fonts/merriweather-sans-v13-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/merriweather-sans-v13-latin-italic.svg#MerriweatherSans') format('svg'); /* Legacy iOS */
+  font-display: swap;
+}
+
+/* grenze-gotisch-700 - latin-ext_latin */
+@font-face {
+  font-family: 'Grenze Gotisch';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('fonts/grenze-gotisch-v1-latin-ext_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/grenze-gotisch-v1-latin-ext_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  font-display: swap;
+}
+
+/* gfs-didot-regular - greek */
+@font-face {
+  font-family: 'GFS Didot';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/gfs-didot-v10-greek-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/gfs-didot-v10-greek-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/gfs-didot-v10-greek-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/gfs-didot-v10-greek-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/gfs-didot-v10-greek-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/gfs-didot-v10-greek-regular.svg#GFSDidot') format('svg'); /* Legacy iOS */
+  unicode-range: U+1F00, U+1FFF;
+}
+
+a {
+  color: var(--colour4);
+  text-decoration: underline;
+  font-variant: small-caps;
+  font-family: MerriweatherSans;
+  font-size: 18px;
+}
+
+a.denied {
+  color: var(--colour1);
+  text-decoration: line-through;
+  font-family: MerriweatherSans;
+  font-variant: small-caps;
+  cursor: not-allowed;
+  font-size: 20px;
+}
+
+a.menu {
+  color: var(--colour1);
+  font-family: MerriweatherSans;
+  font-variant: small-caps;
+  font-size: 20px;
+}
+
+a.menu a.list {
+  font-size: 18px;
+}
+
+a.menu i {
+  font-family: MerriweatherSans;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h2 {
+  color: var(--colour2);
+  text-decoration: underline;
+  text-decoration-style: double;
+}
+
+
+span.fraktur {
+  font-family: Grenze Gotisch;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ul.square {
+  list-style-type: square;
+}
+
+ul.no_indent {
+  padding: 0;
+  list-style-type: circle;
+}
+
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  margin-bottom: 5px;
+  padding: 0;
+}
+
+li.menu {
+  display: inline;
+}
+
+.menu li:first-of-type::before {
+  content: "⇇ ";
+}
+
+.menu li:first-of-type::after {
+  content: " · ";
+}
+
+.menu li:last-of-type::after {
+  content: " ⇉";
+}
+
+ul.header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li.header {
+  display: inline;
+}
+
+.header li:before {
+  content: "// ";
+  position: relative;
+  right: -1px;
+}
+
+.header li:first-of-type:before {
+  content: url(/media/icons/parthenon.png);
+  position: relative;
+  transform: scale(.5);
+  right: +1px;
+  margin-top: -1px;
+}
+
+.header li:nth-of-type(2):before {
+  content: url(/media/icons/scroll.png);
+  position: relative;
+  transform: scale(.5);
+  right: +1px;
+  margin-top: -1px;
+}
+
+.header li:nth-of-type(3):before {
+  content: url(/media/icons/column.png);
+  position: relative;
+  transform: scale(.5);
+  right: +1px;
+  margin-top: -1px;
+}
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+td.head {
+	text-align: center;
+	color: #001433;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 130%;
+}
+
+b.kapit {
+  font-weight: normal;
+  font-variant: small-caps;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
+img.thumbnail {
+  width: 200px;
+  height: 130px;
+}
+
+.tab {
+  margin-left: 40px;
+}
+
+* {
+  font-family: Merriweather, Merriweather Sans; 
+  box-sizing: border-box;
+  /* cursor: url('/media/icons/quill.png'), auto; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: MerriweatherSans;
+}
+
+.column {
+  text-align: justify;
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.column-center {
+  text-align: justify;
+  justify-items: center;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.chapter {
+  text-align: justify;
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column-2 {
+  text-align: justify;
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+p.blocktext {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify-all;
+  max-width: 800px;
+  padding: 5px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+p.indent {
+  text-indent: 20px;
+  margin-top: -20px;
+}
+
+.article p {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify-all;
+  max-width: 800px;
+  padding: 2.5px;
+}
+
+.article figure {
+  width: 45%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: solid var(--colour3);
+  margin: 1em;
+  padding: 0.3em;
+}
+
+.article figure:nth-child(odd) {
+  float: right;
+}
+
+.article figure:nth-child(even) {
+  float: left;
+}
+
+.article p:first-of-type::first-letter, p.blocktext:first-of-type::first-letter {
+  float: left;
+  line-height: 35px;
+  font-size: 55px;
+  font-family: Merriweather;
+  color: var(--colour5);
+  border: solid var(--colour3);
+  padding-top: 7px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-right: 5px;
+  margin-bottom: -5px;
+}
+
+@media only screen and (max-width: 768px) {
+  [class*="column"] {
+    width: 100%;
+  }
+  [class*="chapter"] {
+    padding: 0px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .article figure {
+    width: 100%;
+    border: none;
+    padding-bottom: 15px;
+    display: inline-block;
+    margin: 0px;
+  }
+
+  .article figure:nth-child(odd) {
+    float: center;
+  }
+
+  .article figure:nth-child(even) {
+    float: center;
+  }
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+   p.blocktext:first-of-type::first-letter {
+     margin-top: 0.05em;
+   }
+}
+
+div.article {
+  text-align: justify;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.footnote {
+  text-align: justify;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.footnote a:last-of-type::after {
+  content: " ↩";
+}
+
+a.footnote {
+  font-size: 0.9em;
+  vertical-align: super;
+}
+
+.article p.blocktext + p.blocktext { /* Maybe nth-of-type(2+n) ? */
+  text-indent: 20px;
+  margin-top: -20px;
+}
+
+.article p + p {
+  text-indent: 20px;
+  margin-top: -20px;
+}
+
+.article img + p {
+  text-indent: 20px;
+  margin-top: -20px;
+}
+
+.article figure + p {
+  text-indent: 20px;
+  margin-top: -20px;
+}
+
+q {
+  quotes: "“" "”" "‘" "’";
+  font-family: Merriweather;
+}
+
+q::before {
+    content: open-quote;
+}
+q::after {
+    content: close-quote;
+}
+
+.article table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.article h2 {
+  text-align: center;
+}
+
+.footnote h2 {
+  text-align: center;
+}
+
+.article h3 {
+  text-align: center;
+}
+
+.article h4 {
+  text-align: center;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+/* CSS Gallery */
+div.gallery {
+  border: 1px solid var(--colour1);
+	margin-bottom: 20px;
+}
+
+div.gallery:hover {
+  border: 1px solid var(--colour3);
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.9%;
+}
+
+.responsive_2 {
+	padding: 0 6px;
+	float: left;
+	width: 49.9%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

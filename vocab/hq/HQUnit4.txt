@@ -1,0 +1,48 @@
+ἀγαθός, ἀγαθή, ἀγαθόν	good
+ἄν (particle)	used in some conditional sentences
+ἄξιος, ἀξία, ἄξιον	worthy, worth (+ gen.)
+ἀνάξιος, ἀνάξιον	unworthy (+ gen.)
+ἀρχή, ἀρχῆς, ἡ	beginning; rule, empire
+γέφυρα, γεφύρας, ἡ	bridge
+διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην	teach
+δίκη, δίκης, ἡ	justice; lawsuit
+ἄδικος, ἄδικον	unjust
+δίκαιος, δικαία, δίκαιον	just
+ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, —, —	be willing, wish
+εἰ (particle)	if
+ἐάν (particle)	if
+ἡμέρα, ἡμέρας, ἡ	day
+θάλαττα, θαλάττας, ἡ	sea
+θάπτω, θάψω, ἕθαψα, —, τέθαμμαι, ἐτάφην	bury
+καίτοι	and further, and yet
+κακός, κακή, κακόν	bad, evil
+καλός, καλή, καλόν	beautiful, noble, good
+μετά (prep.) + gen.	with
+μετά (prep.) + acc.	after
+μοῖρα, μοίρας, ἡ	fate
+μοῦσα, μούσης, ἡ	muse
+νεανίας, νεανίου, ὁ	young man
+ὅπλον, ὅπλου, τό	tool; (pl.) weapons
+πάλαι (adv.)	long ago
+ποιητής, ποιητοῦ, ὁ	poet, author
+πολίτης, πολίτου, ὁ	citizen
+στρατιώτης, στρατιώτου, ὁ	soldier
+σύν (prep.) + dat.	with 
+τάττω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην	draw up in order, station, appoint
+φίλος, φίλη, φίλον	dear, beloved, one's own
+ἄγω, ἄξω, ἤγανον, ἦχα, ἦγμαι, ἤκθην	lead
+ἄλυπος, ἄλυπον	without pain
+βίος, βίου, ὁ	life, means of living
+βλάβη, βλάβης, ἡ	harm
+γάμος, γάμου, ὁ	marriage, wedding
+γνώμη, γνώμης, ἡ	opinion, judgement
+ἡδονή, ἡδονῆς, ἡ	pleasure
+καρπός, καρποῦ, ὁ	fruit
+λύπη, λύπης, ἡ	pain, grief
+νόσος, νόσου, ἡ	sickness
+παράκαιπρος, παράκαιρον	ill-timed
+σεμνός, σεμνή, σεμνόν	august, majestic, honourable
+τίκτω, τέξομαι, ἔτεκον, τέτοκα, —, —	bear, give birth to
+τρόπος, τρόπου, ὁ	way, manner, character
+φέρω, οἴσω, ἤνεγκα/ἤνεκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην	bring, bear, carry; (mid.) win
+χωρίς (prep.) + gen.	without
