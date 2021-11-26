@@ -35,7 +35,7 @@
     <div class="column-2">
       <div class="article">
         <h2>Obtaining your copy</h2>
-				<p></p>
+				<p>The translation is currently still a work in progress. A copy cannot be obtained at present. Check <a href="https://git.marvinjohanning.de/marvinjohanning/">git.marvinjohanning.de</a> for further information.</p>
       </div>
     </div>
   </div>
