@@ -34,6 +34,17 @@
 </div>
 
 <div class="article">
+  <h2>November 27, 2021</h2>
+  <figure style="width: 100%; border: none;">
+    <img src="/media/imgs/updates/gospelnov.jpeg">
+    <figcaption>Working on my website</figcaption>
+  </figure><br>
+  <p>I have finally taken it upon myself to continue working on my website, albeit slowly. As I have been rather busy as of late — both with school and work — and have not really had the inclination to continue working on my book or my website, I have done but very little work on both my website and my new book. I have, however, slowly begun being more productive concerning this as of late — though God knows why that has happened. This does have the, hopefully positive, implication of my website receiving some more updates.</p>
+
+  <p>I highly urge you to check out the page regarding my translation of the <a href="/translations/GNT/gospels/john/index.php">Gospel of John</a>, as I have added my translation — including the original and the transliteration — of the first three chapters of this book. The page containing information about <a href=/books/gospelofjohn.php">my new book</a> has also been updated to include some more in-depth information than it did before. Additionally, all my books can now be found on my own Gitea instance, <a href="https://git.marvinjohanning.de">git.marvinjohanning</a>. Everything found thereon is — as of yet — but a mirror of my GitHub repositories. I do, however, believe that having an off-site backup, so to speak, is advantageous; and should I ever on a whim decide to ditch GitHub — as I have, in the past, ditched GitLab —, my project will continue living on within the above-mentioned domain.</p>
+  
+  <p>I hope you do excuse my absence and I do sincerely hope that I will be able to concentrate more on my website in the upcoming weeks and months; however, as my apprenticeship is nearing its end — and the resulting exams and presentations that accompany its end drawing nearer —, I have my doubts that I will be able to focus on my website as well as I am intending on doing.</p>
+
   <h2>July 30, 2021</h2>
   <figure style="width: 100%; border: none;">
     <img src="/media/imgs/updates/philokalia.png">
