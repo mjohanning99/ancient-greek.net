@@ -53,8 +53,8 @@
 
   <div class="column-2">
     <h2>Read the book</h2>
-    <a href="/media/books/revelation/preview.pdf">Preview of the book</a>
-    <p class="tab">A preview of the e-book / printed book.</p>
+    <a href="/media/books/revelation/revelation.pdf">PDF e-book</a>
+    <p class="tab">The e-book in PDF format</p>
 
     <a href="/media/books/revelation/index.php">Read online</a>
     <p class="tab">Read the HTML version of book online for free.</p>
