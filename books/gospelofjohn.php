@@ -35,7 +35,7 @@
     <div class="column-2">
       <div class="article">
         <h2>Obtaining your copy</h2>
-				<p>The translation is currently still a work in progress. A copy cannot be obtained at present. Check <a href="https://git.marvinjohanning.de/marvinjohanning/">git.marvinjohanning.de</a> for further information.</p>
+				<p>The translation is currently still a work in progress. A copy cannot be obtained at present. Check <a href="https://git.marvinjohanning.de/marvinjohanning/">git.marvinjohanning.de</a> for further information. The Git repository contains the LaTeX source code which can be compiled into the finished document, if you so desire.</p>
       </div>
     </div>
   </div>
