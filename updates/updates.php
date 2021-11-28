@@ -35,7 +35,16 @@
 </div>
 
 <div class="article">
-  <h2>November 27, 2021</h2>
+  <h2>November 28, 2021 — The WebP Revolution</h2>
+  <p>I am constantly looking for new ways of optimising my website and have been toying with the idea of converting all my website’s images to WebP for quite a while now — and I have decided to finally go through with it. Those who use older browsers (or Safari on anything older than Big Sur) mustn’t fear, however, as I have put a fallback in place; this means that, if your browser is unable to display WebP images, it will fall back to the regular JPG image automatically. This ensures both maximum compatability whilst also ensuring that the majority of modern browsers will download the much more effecient WebP format instead, reducing both loading times and bandwidth usage.</p> 
+
+  <p>I sincerely hope that this decision will make my website even faster than it is already and hope that it will encourage new visitors to browse the website for a longer period of time – for having to wait for too long when clicking a new link discourages many a vistor. Page loading times should now be low enough — even on low-bandwidth connections — that waiting times should be negligible.</p>
+
+  <p>Additionally, I have added a few items to the navigation on the website’s header; it now contains links to quickly open my <a href="/projects.php">Current Projects</a> and <a href="/updates/updates.php">Updates</a> pages. This way, finding out what’s currently being worked on and what kinds of improvements the latest update contains should be much easier and more pleasant. </p>
+
+  <p>Furthermore, I have decided to make a PDF version of my latest book — my translation of John’s Revelation — freely available on this website. As BoD has, unfortunately, been unable to publish my book as an e-book — citing formatting issues due to my usage of Greek —, I decided the least I could do is make a PDF available to those who want it. I have also rather sloppily converted the original LaTeX file into and EPUB which you can load onto your e-reader; its formatting is, however, abysmal, and I do not recommend using this if you can at all avoid it. Please note, however, that the printing of the PDF file (as well as the copying of text and other various things) is not allowed. </p>
+
+  <h2>November 27, 2021 — And So It Continues</h2>
   <figure style="width: 100%; border: none;">
     <img src="/media/imgs/updates/gospelnov.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/gospelnov.png'" alt="">
     <figcaption>Working on my website</figcaption>

@@ -112,7 +112,7 @@
 
   <p>Nevertheless, the repository should be helpful for those who wish to download the website for themselves to either host a mirror or to simply have access to it offline. It also acts as a backup, so that, if anything should go wrong, there are versions that I can go back to.</p>
 
-  <p>The repository can be found <a href="https://github.com/mjohanning99/ancient-greek.net">on my GitHub</a>.</p>
+  <p>The repository can be found <a href="https://github.com/mjohanning99/ancient-greek.net">on my GitHub</a> or on my self-hosted <a href="https://git.marvinjohanning.de/marvinjohanning/ancient-greek.net">Gitea instance</a>.</p>
 </div>
 
 <?php include('footer.php'); ?>
