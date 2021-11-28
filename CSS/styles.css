@@ -271,6 +271,22 @@ li.header {
   margin-top: -1px;
 }
 
+.header li:nth-of-type(4):before {
+  content: url(/media/icons/scroll_written.png);
+  position: relative;
+  transform: scale(.5);
+  right: +1px;
+  margin-top: -1px;
+}
+
+.header li:nth-of-type(5):before {
+  content: url(/media/icons/book.png);
+  position: relative;
+  transform: scale(.5);
+  right: +1px;
+  margin-top: -1px;
+}
+
 .split {
   height: 100%;
   width: 50%;
