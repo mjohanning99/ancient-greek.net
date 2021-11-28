@@ -8,7 +8,8 @@
     content="A short article about the reasons for my learning Ancient Greek and also other ancient languages">
   <title>Why should you study the Greek language?</title>
 
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
 
   <?php include('../header.php'); ?><hr>
 </head>

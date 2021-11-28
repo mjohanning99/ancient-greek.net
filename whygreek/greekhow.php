@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description" content="An article about the ways in which I would recommend that you learn the Ancient Greek language — and those that I do not recommend">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <title>How to study the Ancient Greek language</title>
 
   <?php include('../header.php'); ?>

@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description" content="Musings and articles about things in Ancient Greek — from 2020.">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <title>Musings, Articles and Blog — ancient-greek.net</title>
 
   <?php include('header.php'); ?>

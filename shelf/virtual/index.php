@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description" content="Reviews of the books about and in Ancient Greek that I do not own physically.">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <title>My Virtual Shelf — ancient-greek.net</title>
 
   <?php include('header.php'); ?>

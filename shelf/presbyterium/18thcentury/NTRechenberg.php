@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description" content="A review and examination of an original 18th-century copy of Adam Rechenberg’s New Testament">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <title>Adam Rechenberg’s Greek New Testament (1736 ed.) — ancient-greek.net</title>
 
   <?php include('../header.php'); ?>

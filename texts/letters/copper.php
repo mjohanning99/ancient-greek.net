@@ -4,7 +4,8 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+<link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
 <title>First letter — About the copper — ancient-greek.net</title>
 <?php include('../header.php'); ?>
 <hr>

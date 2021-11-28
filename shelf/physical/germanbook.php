@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description" content="A cautionary tale regarding the usage of random books for learning Ancient Greek; even though it might be tempting to just go to the library and get a book, results may vary.">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <title>Learning Greek with a Random Book from the Library — ancient-greek.net</title>
 
   <?php include("header.php"); ?>

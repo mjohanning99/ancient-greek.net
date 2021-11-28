@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description" content="A review about Hansen & Quins’s book “Greek, an Intensive Course”; infamous for its steep difficulty and reliance upon the grammar-translation method">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <title>Hansen & Quinn’s Greek, An Intensive Course — ancient-greek.net</title>
 
   <?php include("header.php"); ?>

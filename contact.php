@@ -5,7 +5,8 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
   <meta name="description" content="Information about how you can get in touch with me.">
-  <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+  <link rel="preload" as="style" href="CSS/styles.css">
+  <link rel="stylesheet" href="CSS/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Contact — ancient-greek.net</title>
 

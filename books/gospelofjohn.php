@@ -4,7 +4,8 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="On here you will find information about my book, a translation of the Gospel of John with plenty of notes and a few illustrations.">
   <title>The Gospel of John: A Modern Translation — ancient-greek.net</title>

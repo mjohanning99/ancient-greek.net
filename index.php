@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description" content="A website about all things Ancient Greek; from the Classical Period to the Byzantine. Original texts, lots of graphics, translations, book reviews &c.">
-  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
+  <link rel="preload" as="style" href="/CSS/styles.css">
+  <link rel="stylesheet" href="/CSS/styles.css">
   <title>Agora (Home page) — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
