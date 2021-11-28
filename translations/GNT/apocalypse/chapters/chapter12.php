@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/dragonwomansun.jpg", width="210", height="210">
+  <img src="/media/imgs/GNT/revtrans/dragonwomansun.webp", width="210", height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/dragonwomansun.jpg'" alt="" width="210" height="210">
   <br>
   <i>The Great Red Dragon and the Woman Clothed with the Sun — 1803 – 1805, Wiliam Blake</i>
 </div>

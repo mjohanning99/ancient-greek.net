@@ -23,7 +23,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/tyre.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/tyre.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/tyre.jpg'" alt="" width="200" height="200">
   <br>
   <i>Ancient columns lie in the submerged Egyptian harbour of Tyre (Lebanon) — <a href="https://commons.wikimedia.org/wiki/User:RomanDeckert">Roman Deckert</a></i>
   <br>

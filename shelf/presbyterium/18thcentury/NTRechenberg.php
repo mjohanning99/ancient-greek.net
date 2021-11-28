@@ -16,7 +16,7 @@
 <div align="center">
   <h1 style="margin-bottom: 0px;">Τὴν Καινὴν Διαθήκην βιβλίῳ παλαιῷ ἀναγιγνωσκώμεθα!</h1>
   <h3>Let us read the New Testament with an old book!</h3>
-  <img src="/media/imgs/NTRechenberg/IMG_0156.JPG", width="300", height="300">
+  <img src="/media/imgs/NTRechenberg/IMG_0156.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" alt="" width="300" height="300">
   <br>
   <i></i>
   <br>
@@ -60,7 +60,7 @@
     <p>Before I begin my examination of various points of interest in the book itself, I would like to begin highlighting some information about the author — or, rather, the publisher of this particular volume of the New Testament, Adam Rechenberg. I have misspelt his name frequently over the course of writing this website, as it is oddly reminiscent of Sherlock Holmes’ <i>The Reichenbach Fall</i>; my brain appears to have the desire to write Adam’s name not as <i>Rechenberg</i>, but rather as <i>Rechenbach</i>. My frequent consultation of the stories of Sherlock Holmes might have caused this issue.</p>
 
     <figure>
-      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.jpg">
+      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp">
       <figcaption>A portrait of Rechenberg, © The Trustees of the British Museum (CC BY-NC-SA 4.0)</figcaption>
     </figure>
 
@@ -82,8 +82,8 @@
     <h3 id="book_title">Title page</h3>
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0177.JPG">
-					<img src="/media/imgs/NTRechenberg/IMG_0177.JPG" alt="Title page with illustration on verso." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0177.webp">
+					<img src="/media/imgs/NTRechenberg/IMG_0177.webp" alt="Title page with illustration on verso." width="600" height="400">
 				</a>
 				<div class="desc">Title page with illustration on verso.</div>
 			</div>
@@ -91,8 +91,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0181.JPG">
-					<img src="/media/imgs/NTRechenberg/IMG_0181.JPG" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0181.webp">
+					<img src="/media/imgs/NTRechenberg/IMG_0181.webp" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400">
 				</a>
 				<div class="desc">Place of printing author and date of publishing.</div>
 			</div>
@@ -100,8 +100,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0191.JPG">
-					<img src="/media/imgs/NTRechenberg/IMG_0191.JPG" alt="Closeup of illustration." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0191.webp">
+					<img src="/media/imgs/NTRechenberg/IMG_0191.webp" alt="Closeup of illustration." width="600" height="400">
 				</a>
 				<div class="desc">Closeup of illustration.</div>
 			</div>
@@ -109,8 +109,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0195.JPG">
-					<img src="/media/imgs/NTRechenberg/IMG_0195.JPG" alt="Closeup of Bible quote on illustration." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0195.webp">
+					<img src="/media/imgs/NTRechenberg/IMG_0195.webp" alt="Closeup of Bible quote on illustration." width="600" height="400">
 				</a>
 				<div class="desc">Closeup of Bible quote on illustration.</div>
 			</div>

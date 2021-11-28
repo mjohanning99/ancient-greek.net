@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ Θεός …</h1>
   <i>The Revelation of Jesus Christ, which God gave him …</i>
   <br><br>
-  <img src="/media/imgs/GNT/FourthAngel.jpg", width="250", height="250">
+  <img src="/media/imgs/GNT/FourthAngel.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/FourthAngel.jpg'" alt="" width="250" height="250">
   <br>
   <i>The Fourth Angel sounds his trumpet, Apocalypse 8 — circa 950. (Commentaria in Apocalypsin)</i>
   <br>

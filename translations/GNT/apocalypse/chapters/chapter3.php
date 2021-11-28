@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/laodicealetter.jpeg", width="200", height="200">
+  <img src="/media/imgs/GNT/revtrans/laodicealetter.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/laodicealetter.jpg'" alt="" width="200" height="200">
   <br>
   <i>Das Sendschreiben an die Gemeinde von Laodizea (John writes to the Church at Laodicea) — 1000, Bamberger Apokalypse</i>
 </div>

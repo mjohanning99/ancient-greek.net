@@ -23,7 +23,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/CroesusPortrait.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/CroesusPortrait.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/CroesusPortrait.jpg'" alt="" width="200" height="200">
   <br>
   <i>Portrait of Croesus, Attic red-figure amphora, painted ca. 500–490 BC.</i>
   <br>

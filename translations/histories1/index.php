@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε …</h1>
   <i>Herodotus of Halicarnassus here presents his research …</i>
   <br><br>
-  <img src="/media/imgs/herodbust.jpg", width="200", height="200">
+  <img src="/media/imgs/herodbust.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodbust.jpg'" alt="" width="200" height="200">
   <br>
   <i>Bust of Herodotus’</i>
   <br>

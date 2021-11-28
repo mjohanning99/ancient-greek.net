@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Ἁι τοῦ Κλεοφίλου μεταφράσεις</h1>
   <i>Marvin's translations</i>
   <br><br>
-  <img src="/media/imgs/StJerome.jpg", width="250", height="250">
+  <img src="/media/imgs/StJerome.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/StJerome.jpg'" alt="" width="250" height="250">
   <br>
   <i>St. Jerome (translated the Bible into Latin) — Jan Matsys, 1537</i>
 </div>

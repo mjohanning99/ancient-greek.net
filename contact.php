@@ -19,7 +19,7 @@
   <h1 style="margin-bottom: 0px;">Contact</h1>
   <h3 style="margin: 0">Write me a letter or an email</h3>
   <br>
-  <img src="/media/imgs/cossacks_letter.jpg", width="300", height="300">
+  <img src="/media/imgs/cossacks_letter.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/cossacks_letter.jpg'" alt="" width="300" height="300">
   <br>
   <i>The Zaporozhye Cossacks Replying to the Sultan — 1878 – 1891, Ilya Repin</i>
   <br>

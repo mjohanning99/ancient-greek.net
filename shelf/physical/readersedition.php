@@ -16,7 +16,7 @@
 <div align="center">
   <h1 style="margin-bottom: 0px;">Τὴν Καινὴν Διαθήκην βοηθείᾳ γραμματικῇ ἀναγιγνωσκώμεθα!</h1>
   <h3>Let us read the New Testament with grammatical help!</h3>
-  <img src="/media/imgs/readers/gntreader1.jpg", width="400", height="400">
+  <img src="/media/imgs/readers/gntreader1.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/readers/gntreader1.jpg'" alt="" width="400" height="400">
   <br>
   <i></i>
   <br>
@@ -40,7 +40,7 @@
 
     <figure>
       <img src="">
-      <figcaption><img src="/media/imgs/readers/gntreader2.jpg", width="400", height="400">Parsed vocabulary a page</figcaption>
+      <figcaption><img src="/media/imgs/readers/gntreader2.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/readers/gntreader2.jpg'" alt="" width="400" height="400">Parsed vocabulary a page</figcaption>
     </figure>
 
     <p><q>But in what manner,</q> you may ask, <q>is this edition superior to any other?</q> And it is, indeed, a question well worth asking, considering the fact that there are hundreds — and perhaps, though I did not check, thousands — of different editions of the GNT from various publishers. Therefore, I find it prudent to state that I am by no means claiming this to be the be-all and end-all of all editions of the GNT; rather, I have found it one of the most enjoyable books to read thus far in my, admittedly rather short journey of studying the Ancient Greek language and it all comes down to a mere handful of aspects.</p>

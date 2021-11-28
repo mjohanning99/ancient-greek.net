@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/Menschensohn.jpg", width="200", height="200">
+  <img src="/media/imgs/GNT/revtrans/Menschensohn.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/Menschensohn.jpg'" alt="" width="200" height="200">
   <br>
   <i>Menschensohn (Son of Man) — 1933, Gebhardt Fugel</i>
 </div>

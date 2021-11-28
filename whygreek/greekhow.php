@@ -38,7 +38,7 @@
     <p>Learning a language at school often entails the following: being required to sit in an oft-noisy room filled with other pupils who, mostly, do not want to be there anymore than you do; listening to the often very unengaging teaching of teachers who have been doing the job for a significant amount of time and have, thus, slowly begun hating both the subject they teach and the students; and doing the work I mentioned at the beginning of this article. Is it really surprising, therefore, that most students do not thrive in such an environment and believe themselves to be incapable of learning a language?</p>
 
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/notesgreek.jpg">
+      <img src="/media/imgs/notesgreek.webp">
       <figcaption>Writing notes is common when learning a language.</figcaption>
     </figure>
 
@@ -51,7 +51,7 @@
     <p>The <q>language classes</q> — and I am very hesitant to calling them that — most pupils are exposed to, thus, generally have the effect of discouraging them rather than <i>encouraging</i> them to learn a language and enjoy doing so. Being required to take what we called <i>vocabulary tests</i> wherein you are asked to recall the one German translation of an English word you had previously learnt and not getting any points when you provide a <i>different</i> — but still correct — translation of said word is also a matter which undoubtedly affects students’ will to learn a language significantly.</p>
 
     <figure style="float: left; margin-top: 0px;">
-      <img src="/media/imgs/verb.jpg">
+      <img src="/media/imgs/verb.webp">
       <figcaption>Please remember this list of endings out of context, it will be on a test tomorrow!<sup><a href="https://ancientgreek.pressbooks.com/chapter/28/">source</a></sup></figcaption>
     </figure>
 
@@ -65,7 +65,7 @@
     <p>As I have frequently made clear on this website, I am a strong advocate of reading things and this is especially true when it comes to acquiring a second-language. It has not always been this way, as I used to be an advocate of the traditional <i>grammar-translation method</i> of learning a language, which — as the name implies — encompasses the things I now quite vehemently advocate <i>against</i> doing when learning a language. The reason for my changing my mind is the fact that all those languages which, I attempted to learn using this method, I have never been able to actually learn. As soon as I began following a different school of language learning — the title of this section — I began to see much more rapid improvements in my reading and even composition ability. But what do ex- and intensive reading entail? And what is the often-called <q>natural method</q> of learning a language?</p>
 
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/athenazenatural.jpg">
+      <img src="/media/imgs/athenazenatural.webp">
       <figcaption>The Italian version of Athenaze is an attempt at an Ørberg-style natural language learning method for Ancient Greek.</figcaption>
     </figure>
 

@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Τὸ πρεσβυτέριον</h1>
   <i>The Presbyterium — The Council of Elders</i>
   <br><br>
-  <img src="/media/imgs/presbyterium.jpg", width="300", height="300">
+  <img src="/media/imgs/presbyterium.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/presbyterium.jpg'" alt="" width="300" height="300">
   <br>
   <i>Libreria Bardón — PromoMadrid, author Max Alexander (CC BY-SA 2.0)</i>
 </div>

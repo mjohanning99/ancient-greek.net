@@ -16,7 +16,7 @@
 <div align="center">
   <h1 style="margin-bottom: 0px;">Μετὰ βιβλίου τινὸς Γερμανίαθεν ταύτην τὴν γλῶτταν μὴ μάθῃς</h1>
   <h3>Do not learn this language with some book from Germany</h3>
-  <img src="/media/imgs/greekgerman/greekgerman6.jpg", width="400", height="400">
+  <img src="/media/imgs/greekgerman/greekgerman6.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/greekgerman/greekgerman6.jpg'" alt="" width="400" height="400">
   <br>
 </div>
 
@@ -30,7 +30,7 @@
     <h2>The abysmality of the mystery book</h2>
     <p>As you may know, I had previously toyed with the idea of studying Ancient Greek and decided to simply walk into my local library in Bielefeld and pick out a book that I thought might be adequate — it wasn’t. Unfortunately, this attempt of learning Ancient Greek was in October of 2019 and thus, at the time of writing this, a year ago; and whilst I did take a handful of photos of the book and the notes I took, I did not take a photo of the book’s cover and am, therefore, unable to actually tell you what its name was. My library also does not appear to save what books you have previously lent and thus makes finding out what the book was nigh-impossible. I could, in theory, walk to the library and scour through all of the books on Ancient Greek — of which there weren’t many —, but because of the currently rising SARS-CoV-2 cases here in Germany and my city as well, I have decided not to do so. </p>
     <figure>
-      <img src="/media/imgs/greekgerman/greekgerman4.jpg">
+      <img src="/media/imgs/greekgerman/greekgerman4.webp">
       <figcaption>Sentences from the first chapter</figcaption>
     </figure>
     <p>Should I ever find out its name again, I will amend this page with the book’s title and a few more lines of information. As I presently stands, however, I am unable to provide you with any in-depth information about the book; I will, however, be writing in great detail about what made me want to throw this book into a corner.</p>
@@ -45,7 +45,7 @@
     <h2>How not to structure a textbook</h2>
       <p>All of the following is speaking merely from memory as I have — as mentioned above — not yet been able to find out this book’s name. Nevertheless, I remember the general structure of the book and the notes I took help me contextualise everything; and both of these things paint a truly dark picture.</p>
       <figure style="float: left;">
-        <img src="/media/imgs/greekgerman/greekgerman3.jpg">
+        <img src="/media/imgs/greekgerman/greekgerman3.webp">
         <figcaption>Some vocabulary from the first chapter</figcaption>
       </figure>
       <p>Indeed, I was unable to go much beyond the first chapter as the way the way the author <q>structured</q> his book — if indeed one may call it a <q>structure</q> at all — was rather disorderly. Indeed, he introduces rather strange vocabulary and very advanced grammatical concepts right away and he also appears to expect the <i>μαθητής</i> to read Greek poetry in the first chapter of the book — a rather gargantuan task if you ask me.</p>

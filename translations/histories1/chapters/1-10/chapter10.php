@@ -23,7 +23,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/UnforgivingServant.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/UnforgivingServant.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/UnforgivingServant.jpg'" alt="" width="200" height="200">
   <br>
   <i>Croesus Receiving Tribute from a Lydian Peasant — Claude Vignon (1629)</i>
   <br>

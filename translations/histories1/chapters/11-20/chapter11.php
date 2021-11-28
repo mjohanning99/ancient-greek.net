@@ -23,7 +23,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/GymnasiumSardisInside.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/GymnasiumSardisInside.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/GymnasiumSardisInside.jpg'" alt="" width="200" height="200">
   <br>
   <i>Greek gymnasium in Sardes from the inside by <a href="https://commons.wikimedia.org/wiki/User_talk:Raicem">Raicem</a></i>
   <br>

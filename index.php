@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Welcome to ancient-greek.net</h1>
   <h3 style="margin: 0;">Information about the language and culture of the people of Ancient Greece</h3>
   <br>
-  <img src="/media/imgs/alcibiades.jpg", width="350", height="350" alt="Alcibiades Being Taught by Socrates — 1776, François-André Vincent">
+  <img src="/media/imgs/alcibiades.webp", width="350", height="350" onerror="this.onerror=null; this.src='/media/imgs/alcibiades.jpg'" alt="" width="350" height="350" alt="Alcibiades Being Taught by Socrates — 1776, François-André Vincent">
   <br>
   <i>Alcibiades Being Taught by Socrates — 1776, François-André Vincent</i>
   <br>

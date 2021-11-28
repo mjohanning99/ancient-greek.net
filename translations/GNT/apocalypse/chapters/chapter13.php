@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/beastfromthesea.jpg", width="300", height="300">
+  <img src="/media/imgs/GNT/revtrans/beastfromthesea.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/beastfromthesea.jpg'" alt="" width="300" height="300">
   <br>
   <i>The Beast from the Sea — 1550, Augsburger Wunderzeichenbuch</i>
 </div>

@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Συγγραφαὶ ἐμοῦ</h1>
   <i>My own writings</i>
   <br><br>
-  <img src="/media/imgs/my_writing.jpg", width="350", height="350">
+  <img src="/media/imgs/my_writing.webp", width="350", height="350" onerror="this.onerror=null; this.src='/media/imgs/my_writing.jpg'" alt="" width="350" height="350">
   <br>
   <i>An excerpt of one of my translations from 2020 from H&Q.</i>
   <br><br>

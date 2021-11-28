@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/ephesuschurch.jpg", width="250", height="250">
+  <img src="/media/imgs/GNT/revtrans/ephesuschurch.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/ephesuschurch.jpg'" alt="" width="250" height="250">
   <br>
   <i>The Angel gives John the Letter for the Church of Ephesus — 1047, Facundus</i>
 </div>

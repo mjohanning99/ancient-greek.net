@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/namesworthy.jpg", width="250", height="250">
+  <img src="/media/imgs/GNT/revtrans/namesworthy.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/namesworthy.jpg'" alt="" width="250" height="250">
   <br>
   <i>Reading the Names of the Worthy — 1265 – 1270, Unknown English artist</i>
 </div>

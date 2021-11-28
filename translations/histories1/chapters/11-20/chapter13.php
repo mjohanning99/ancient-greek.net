@@ -23,7 +23,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/VeduteVonDelphi.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/VeduteVonDelphi.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/VeduteVonDelphi.jpg'" alt="" width="200" height="200">
   <br>
   <i>Vedute von Delphi mit einer Opferprozession (View of Delphi with Sacrificial Procession) — Claude Lorrain (17th century).</i>
   <br>

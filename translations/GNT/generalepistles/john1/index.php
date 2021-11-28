@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Ἡ πρώτη τοῦ Ἰωάννου ἐπιστολή</h1>
   <i>The First Epistle of John</i>
   <br><br>
-  <img src="/media/imgs/GNT/generalepistles/john1/johnpoisoncup.jpg", width="250", height="250">
+  <img src="/media/imgs/GNT/generalepistles/john1/johnpoisoncup.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/john1/johnpoisoncup.jpg'" alt="" width="250" height="250">
   <br>
   <i><q>St. John the Evangelist</q> — Alonso Cano, 1635 - 1637</i>
   <br>

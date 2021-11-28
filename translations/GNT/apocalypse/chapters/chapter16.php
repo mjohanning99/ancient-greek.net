@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/bowleuphrates.jpg", width="200", height="200">
+  <img src="/media/imgs/GNT/revtrans/bowleuphrates.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/bowleuphrates.jpg'" alt="" width="200" height="200">
   <br>
   <i>A Bowl Being Poured onto the Euphrates River — 1800, anonymous Russian Old Believer</i>
 </div>

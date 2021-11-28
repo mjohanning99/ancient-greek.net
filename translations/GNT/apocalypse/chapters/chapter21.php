@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/newjerusalem.jpg", width="200", height="200">
+  <img src="/media/imgs/GNT/revtrans/newjerusalem.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/newjerusalem.jpg'" alt="" width="200" height="200">
   <br>
   <i>John being shown the New Jerusalem — 1636 – 1637, Alonso Cano</i>
 </div>

@@ -22,9 +22,9 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/SardisGymnasium.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/SardisGymnasium.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/SardisGymnasium.jpg'" alt="" width="200" height="200">
   <br>
-  <i>The Bath-Gymnasium complex at Sardis, late 2nd - early 3rd century AD, Sardis, Turkey — <a href="https://commons.wikimedia.org/wiki/File:The_Bath-Gymnasium_complex_at_Sardis,_late_2nd_-_early_3rd_century_AD,_Sardis,_Turkey_(16477799584).jpg">Carole Raddato</a></i>
+  <i>The Bath-Gymnasium complex at Sardis, late 2nd - early 3rd century AD, Sardis, Turkey — <a href="https://commons.wikimedia.org/wiki/File:The_Bath-Gymnasium_complex_at_Sardis,_late_2nd_-_early_3rd_century_AD,_Sardis,_Turkey_(16477799584).webp">Carole Raddato</a></i>
   <br>
 </div>
 

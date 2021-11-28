@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/christpantokrator.jpg", width="250", height="250">
+  <img src="/media/imgs/GNT/revtrans/christpantokrator.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/christpantokrator.jpg'" alt="" width="250" height="250">
   <br>
   <i>Господь Вседержитель (The Lord Almighty) — 1874 Nikolay Koshelev</i>
 </div>

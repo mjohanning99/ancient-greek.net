@@ -274,7 +274,7 @@ On translating ancient texts</h2>
 <h2 class="unnumbered" id="linguistic-peculiarities-the-unusual-vernacular-of-the-apocalypse">Linguistic Peculiarities<br />
  The unusual vernacular of the Apocalypse</h2>
 <div class="wrapfigure">
-<p> <img src="images/linguisticpeculiarities/dragonsevenheads.jpg" style="width:50.0%" alt="image" /></p>
+<p> <img src="images/linguisticpeculiarities/dragonsevenheads.webp" style="width:50.0%" alt="image" /></p>
 </div>
 <p>Before we commence delving into the translation of the Apocalypse, I decided it would be of interest to showcase a handful of the key peculiarities of this particular book of the Bible. I will, thus, present to you those linguistic features I found noteworthy and explain the reasons behind my adding them here.</p>
 <p>I have been reading the Apocalypse of John — also known simply as Revelation in English — with great eagerness, as its subject matter easily makes it one of the most suspenseful books one can read in the New Testament. It is filled to the brim with colourful and intense imagery but also rather strange linguistic phenomena that appear to be rather unique to this particular author. Despite its being the last book of the New Testament, I find it is unparalleled in terms of actual content and makes for a most enjoyable read — its subject matter (i. e. the end of the world) notwithstanding.</p>
@@ -284,7 +284,7 @@ On translating ancient texts</h2>
 <p>Indeed, his often rather unusual — and, at times, even entirely incorrect — usage of the Greek language and its grammar has lead many people to claim that the his prose is outright bad. I had asked a question on a forum regarding the language used in the Revelation and wanted to know whether it was as bad as so many people are claiming it to be; and I received rather varied replies. This was before I had begun reading it and the only things I had heard about it at the time were complaints regarding its low-quality prose.</p>
 <p>Because of this, I had been putting off reading the Apocalypse, as I had been deeming it unworthy of my time to read such a lowly piece of text — for, truly, what would be the point in reading a text if, at worst, it will simply degrade your Greek? Nevertheless, the fact that it is is included in the canon of the New Testament is what finally made me realise that the early Christians must have thought it a text worthy to be included — a judgement that not many other texts have passed. I, thus, set aside my prejudice — the one which I received by reading the very vocal opinions of others online — and simply began reading; and, lo and behold, its grammatical quirks are completely overshadowed by its suspenseful and intriguing subject matter.</p>
 <div class="wrapfigure">
-<p> <img src="images/linguisticpeculiarities/fallenstar.jpg" style="width:50.0%" alt="image" /></p>
+<p> <img src="images/linguisticpeculiarities/fallenstar.webp" style="width:50.0%" alt="image" /></p>
 </div>
 <p>Therefore, in addition to the simple desire of explaining and analysing aforesaid quirks, I am writing the following text in the hopes that people might be able to look past its strange and sometimes incorrect composition and see it for what it is: a brilliantly — albeit not eloquently — composed text written by a non-native speaker of the Greek language. And because his personal, linguistic traits have not been (entirely) rewritten by the subsequent copiers of his works in an effort to correct his work, we can, in turn, gain a unique insight into the person who wrote the last book of the New Testament.</p>
 <p>Indeed, I should begin with a short explanation of aforesaid linguistic phenomena. Ancient Greek, as any language, has a set of rules which govern how the language functions, called grammar. A diversion from said rules will either lead to misunderstanding or no understanding at all; but if aforementioned diversion is one that is not too great, it can, often-times, still be understood by the reader — and the latter is what we find in the Apocalypse of John.</p>
@@ -312,7 +312,7 @@ On translating ancient texts</h2>
 <h3 class="unnumbered" id="usage-of-the-nominative-after-a-declined-word">Usage of the nominative after a declined word</h3>
 <p>Another strange feature is his frequent usage of the nominative following a noun declined in a different case. For example, in Rev. 1:5, the following sentence can be found: “καὶ ἀπὸ Ἰησοῦ Χριστοῦ, ὁ μάρτυς ὁ πιστός (kai apo Iēsou Christou, ho martys ho pistos).” Herein, a genitive noun — Ἰησοῦ Χριστοῦ, lit. of Jesus Christ — is followed by another noun and an adjective — both of which refer to aforementioned genitive — declined not in the genitive case, but in the nominative.</p>
 <div class="wrapfigure">
-<p> <img src="images/linguisticpeculiarities/fugelangelfromheaven.jpg" style="width:50.0%" alt="image" /></p>
+<p> <img src="images/linguisticpeculiarities/fugelangelfromheaven.webp" style="width:50.0%" alt="image" /></p>
 </div>
 <p>Thus, the grammatically correct form of this passage would be “καὶ ἀπὸ Ἰησοῦ Χριστοῦ, τοῦ μάρτυρος τοῦ πιστοῦ (kai apo Iēsou Christou, tou martyros tou pistou)”, wherein the adjective and noun, following Jesus’ name declined in the genitive, are, too, declined in the genitive case.</p>
 <p>Indeed, other languages with grammatical cases and gender, such as German, do the exact same thing, albeit in the dative rather than the genitive in this particular instance: “und von Jesu Christo, dem Zeugen dem treuen […]” instead of “[…] der Zeuge der treue”. Nevertheless, German could, potentially, render the following noun and adjective in the nominative if the sentence were changed slightly, such as can be found in the Einheitsübersetzung 2016: “und von Jesus Christus; er ist der treue Zeuge”, lit. and from Jesus Christ; he is the loyal witness.</p>
@@ -349,7 +349,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“MENSCHENSOHN” — GEBHARD FUGEL, 1933</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/fugelmenschensohn.jpg" style="width:98.0%" alt="image" /></p>
+<p><img src="images/illustrations/fugelmenschensohn.webp" style="width:98.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -363,7 +363,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>THE ANGEL GIVES JOHN THE LETTER FOR THE CHURCH OF EPHESUS — 1047, FACUNDUS</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/letterephesus.jpg" style="width:90.0%" alt="image" /></p>
+<p><img src="images/illustrations/letterephesus.webp" style="width:90.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -377,7 +377,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“CHRISTUS ALS GAST” — CARL RAHL, <span class="math inline">≈</span>1865</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/carlrahlchristushaus.jpg" style="width:95.0%" alt="image" /></p>
+<p><img src="images/illustrations/carlrahlchristushaus.webp" style="width:95.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -391,7 +391,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“ГОСПОДЬ ВСЕДЕРЖИТЕЛЬ” — NIKOLAY KOSHELEV, 1874</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/christpantokrator.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/christpantokrator.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -419,7 +419,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“DRIE APOCALYPTISCHE RUITERS” — WILLEM ADOLFS, 1943</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/adolfshorsemen.jpg" style="width:92.0%" alt="image" /></p>
+<p><img src="images/illustrations/adolfshorsemen.webp" style="width:92.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -433,7 +433,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“APOCALYPSE FLAMANDE” — CENTURY</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/angelsholdingwinds.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/angelsholdingwinds.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -447,7 +447,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“OPENING OF THE SEVENTH SEAL” — JOHN MARTIN, 1837</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/johnmartinseventhseal.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/johnmartinseventhseal.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -461,7 +461,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“AND I SAW A STAR FALL FROM HEAVEN” — JOHN HENRY STOCK, 1902</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/stockfallenstar.jpg" style="width:96.0%" alt="image" /></p>
+<p><img src="images/illustrations/stockfallenstar.webp" style="width:96.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -475,7 +475,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“THE ANGEL WITH THE BOOK” — JOHN MARTIN, 1837</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/johnmartinangelbook.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/johnmartinangelbook.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -489,7 +489,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>JOHN MEASURING THE TEMPLE — BEATUS OF LIÉBANA, CIRCA 950 AD</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/facundusmeasuringtemple.jpg" style="width:95.0%" alt="image" /></p>
+<p><img src="images/illustrations/facundusmeasuringtemple.webp" style="width:95.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -503,7 +503,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“THE GREAT RED DRAGON AND THE WOMAN CLOTHED WITH THE SUN” — WILLIAM BLAKE, BETWEEN 1803 – 1805</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/blakedragonwoman.jpeg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/blakedragonwoman.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -517,7 +517,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“THE NUMBER OF THE BEAST IS 666” — WILLIAM BLAKE, 1805</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/blakebeastnumber.jpeg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/blakebeastnumber.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -531,7 +531,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“GERICHTSANKÜNDIGUNG” — GEBHARD FUGEL, 1933</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/fugelgericht.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/fugelgericht.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -545,7 +545,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“ZORNSCHALEN” — GEBHARD FUGEL, 1933</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/fugelzornschalen.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/fugelzornschalen.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -559,7 +559,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“ARMAGEDDON” — NICHOLAS ROERICH, 1935</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/roericharmageddon.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/roericharmageddon.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -573,7 +573,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“GROSSE BABYLON” — GEHARD FUGEL, 1933</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/fugelprostitute.jpg" style="width:90.0%" alt="image" /></p>
+<p><img src="images/illustrations/fugelprostitute.webp" style="width:90.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -587,7 +587,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“BABYLON FALLEN” — GUSTAVE DORÉ, 1866</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/dorebabylon.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/dorebabylon.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -601,7 +601,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“SCENE FROM THE APOCALYPSE” — FRANCIS DANBY, 1829</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/danbyapocalypse.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/danbyapocalypse.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -615,7 +615,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“THE LAST JUDGEMENT” — JOHN MARTIN, 1853</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/johnmartinjudgement.jpg" style="width:85.0%" alt="image" /></p>
+<p><img src="images/illustrations/johnmartinjudgement.webp" style="width:85.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -629,7 +629,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“THE CELESTIAL CITY AND THE RIVER OF BLISS” — JOHN MARTIN, 1841</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/johnmartinnewjerusalem.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/johnmartinnewjerusalem.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <div class="pages">
 <div class="Rightside">
@@ -643,7 +643,7 @@ On obtaining a copy, compilation and license information</h2>
 <p>“ILLUSTRATION OF REVELATION 22:17” — JOSEPH MARTIN KRONHEIM, 1880</p>
 </div>
 <div class="center">
-<p><img src="images/illustrations/kronheimquote.jpg" style="width:100.0%" alt="image" /></p>
+<p><img src="images/illustrations/kronheimquote.webp" style="width:100.0%" alt="image" /></p>
 </div>
 <h1 id="appendix"><span class="smallcaps">Appendix</span></h1>
 <h2 class="unnumbered" id="the-greek-alphabet-from-alpha-to-omega">The Greek Alphabet<br />

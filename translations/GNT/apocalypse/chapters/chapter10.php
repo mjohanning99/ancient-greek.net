@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/angelbook.jpg", width="200", height="200">
+  <img src="/media/imgs/GNT/revtrans/angelbook.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelbook.jpg'" alt="" width="200" height="200">
   <br>
   <i>The Angel Holding the Book — Benjamin West, 1797</i>
 </div>

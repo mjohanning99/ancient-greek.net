@@ -16,7 +16,7 @@
 <hr>
 
 <div align="center">
-    <img src="/media/books/gospelofjohn/images/tannerjesuswater.jpg", width="250", height="300">
+    <img src="/media/books/gospelofjohn/images/tannerjesuswater.webp", width="250", height="300" onerror="this.onerror=null; this.src='/media/books/gospelofjohn/images/tannerjesuswater.jpg'" alt="" width="250" height="300">
     <br>
     <span>The Gospel of John</span>
     <br>

@@ -37,7 +37,7 @@
     </blockquote>
     <p>What the author wants to showcase by his last statement is one of the reasons I wanted to learn Greek instead of Latin, as Greek literature quite frequently utilises constructions that were in common use in regular speech and does not use highly refined prose as in an epic or poetry — though the latter, obviously, do exist. This makes the experience of reading actual Greek texts — especially the dialogues — akin to actually <i>hearing</i> the people speak. One did not sit down hours upon hours to perfect one's prose; instead, it is the ordinary vernacular of the (educated) people.</p>
     <figure>
-      <img src="/media/imgs/sprechensie/sprechensie2.jpg">
+      <img src="/media/imgs/sprechensie/sprechensie2.webp">
       <figcaption>Microfiche</figcaption>
     </figure>
     <p>And whilst I am sure such literature exists in Latin as well (Cicero’s <i>Tusculanae Disputationes</i> comes to mind as being similar, for rather obvious reason), I do believe that it occurs much less frequently than it does in Greek. I was therefore quite rather delighted to find this little book — <i>Büchlein</i> — which provides you with quite a large number of useful vernacular phrases.</p>
@@ -85,7 +85,7 @@
     <p>Indeed, a book containing conversations in Attic Greek would be somewhat incomplete without aforementioned phrases being included, so let us take a look at some of them and see whether they really are useful or whether they can be tossed aside as being antiquated or of no practical use whatsoever.</p>
 
     <figure>
-      <img src="/media/imgs/sprechensie/sprechensie4.jpg">
+      <img src="/media/imgs/sprechensie/sprechensie4.webp">
       <figcaption>Come here! (and another 2020 classic, <q>I want to go to the hairdresser’s</q>)</figcaption>
     </figure>
 

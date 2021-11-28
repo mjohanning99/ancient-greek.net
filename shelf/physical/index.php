@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Τὰ βιβλία μου τῷ τὴν γλῶτταν μαθεῖν καὶ ἀναγνῶσαι</h1>
   <i>My books for learning and reading the language</i>
   <br><br>
-  <img src="/media/imgs/shelf.jpg", width="400", height="400">
+  <img src="/media/imgs/shelf.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/shelf.jpg'" alt="" width="400" height="400">
   <br>
 </div>
 

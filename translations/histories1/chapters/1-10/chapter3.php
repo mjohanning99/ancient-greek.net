@@ -23,7 +23,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/priam.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/priam.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/priam.jpg'" alt="" width="200" height="200">
   <br>
   <i>Priam killed by Neoptolemus, son of Achilles, detail of an Attic black-figure amphora, ca. 520 BC–510 BC.</a></i>
   <br>

@@ -17,7 +17,7 @@
   <h1 style="margin-bottom: 0;">Περὶ τοῦ Χριστιανισμοῦ συγγραφαί μου</h1>
   <i>My writings about Christianity</i>
   <br><br>
-  <img src="/media/imgs/apostle_paul_rembrandt.jpg", width="250", height="250">
+  <img src="/media/imgs/apostle_paul_rembrandt.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/apostle_paul_rembrandt.jpg'" alt="" width="250" height="250">
   <br>
   <i>Apostle Paul — 1633, Rembrandt</i>
   <br><br>

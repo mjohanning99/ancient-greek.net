@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/riveroflife.jpeg", width="300", height="300">
+  <img src="/media/imgs/GNT/revtrans/riveroflife.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/riveroflife.jpg'" alt="" width="300" height="300">
   <br>
   <i>The Celestial City and the River of Bliss — 1841, John Martin</i>
 </div>

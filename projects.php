@@ -19,7 +19,7 @@
 <div align="center">
     <h1 style="margin-bottom: 0;">My projects</h1>
     <br>
-    <img src="/media/imgs/paul_writing.jpg", width="280", height="150">
+    <img src="/media/imgs/paul_writing.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/paul_writing.jpg'" alt="" width="280" height="150">
     <br>
     <i>Saint Paul Writing His Epistles — 1618 – 1620, Valentin de Boulogne</i>
 </div>

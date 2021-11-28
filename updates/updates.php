@@ -20,7 +20,7 @@
     <h1 style="margin-bottom: 0;">Updates</h1>
     <h3 style="margin: 0;">May the territory expand</h3>
     <br>
-    <img src="/media/imgs/atticredfigured.jpg", width="250", height="250">
+    <img src="/media/imgs/atticredfigured.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" alt="" width="250" height="250">
     <br>
     <i>Rider, Attic red-figured cup — Middle of 5<sup>th</sup> century BC</i>
 </div>
@@ -37,7 +37,7 @@
 <div class="article">
   <h2>November 27, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/gospelnov.jpeg">
+    <img src="/media/imgs/updates/gospelnov.webp">
     <figcaption>Working on my website</figcaption>
   </figure><br>
   <p>I have finally taken it upon myself to continue working on my website, albeit slowly. As I have been rather busy as of late — both with school and work — and have not really had the inclination to continue working on my book or my website, I have done but very little work on both my website and my new book. I have, however, slowly begun being more productive concerning this as of late — though God knows why that has happened. This does have the, hopefully positive, implication of my website receiving some more updates.</p>

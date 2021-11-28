@@ -16,7 +16,7 @@
   <h3 style="margin-bottom: 0;">Διδαχὴ κυρίου διὰ τῶν δώδεκα ἀποστόλων τοῖς ἔθνεσιν</h3>
   <i>The teaching of the Lord as presented to the nations (gentiles) through the twelve apostles</i>
   <br><br>
-  <img src="/media/imgs/rev2217.jpg", width="200", height="200">
+  <img src="/media/imgs/rev2217.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/rev2217.jpg'" alt="" width="200" height="200">
   <br>
   <i>Revelation 22-17, similar to a prayer found in the Didache</i>
   <br>

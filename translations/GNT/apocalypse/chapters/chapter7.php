@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/engelmitsiegel.jpg", width="300", height="300">
+  <img src="/media/imgs/GNT/revtrans/engelmitsiegel.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/engelmitsiegel.jpg'" alt="" width="300" height="300">
   <br>
   <i>Engel mit Siegel (An Angel with a Seal) — 1933, Gebhard Fugel</i>
 </div>

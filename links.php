@@ -20,7 +20,7 @@
     <h1 style="margin-bottom: 0;">Links</h1>
     <h3 style="margin: 0;">Enter another realm …</h3>
     <br>
-    <img src="/media/imgs/lotdaughters.jpg", width="200", height="200">
+    <img src="/media/imgs/lotdaughters.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/lotdaughters.jpg'" alt="" width="200" height="200">
     <br>
     <i>Lot and His Daughters — 1496 – 1499, Albrecht Dürer</i>
 </div>

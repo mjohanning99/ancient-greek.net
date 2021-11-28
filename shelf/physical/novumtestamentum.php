@@ -14,7 +14,7 @@
 <div align="center">
   <h1 style="margin-bottom: 0px;">Τὴν Καινὴν Διαθήκην ἀναγιγνωσκώμεθα!</h1>
   <h3>Let us read the New Testament!</h3>
-  <img src="/media/imgs/novum/john.jpg", width="400", height="400">
+  <img src="/media/imgs/novum/john.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/novum/john.jpg'" alt="" width="400" height="400">
   <br>
   <i>The Gospel of John in its original language</i>
   <br>
@@ -30,7 +30,7 @@
     <p>This is mostly due to the aforesaid fact that the New Testament — and the entire Bible, for that matter — are written in a somewhat simple-to-grasp manner with lots of repetitions. I am by no means saying that one will be able to read the Bible fully without any issues whatsoever after only a minor amount of time spent stuying, but it is, I would argue, amongst the easier texts that can be read. This is undoubtedly because of the type of Greek it has been written in — namely Koine — which utilises a much simplified grammar when compared to Attic. </p>
 
     <figure>
-      <img src="/media/imgs/novum/novumcover.jpg">
+      <img src="/media/imgs/novum/novumcover.webp">
       <figcaption>The book's cover</figcaption>
     </figure>
 

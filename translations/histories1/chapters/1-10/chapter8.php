@@ -23,7 +23,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/GygesTablet.jpg", width="200", height="200">
+  <img src="/media/imgs/herodotus/GygesTablet.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/GygesTablet.jpg'" alt="" width="200" height="200">
   <br>
   <i>Fragment of a clay tablet, an account of the Egyptian campaigns of Ashurbanipal, King of Assyria (668-627 BC) and his reception of an embassy from Gyges from the <a href="https://www.britishmuseum.org/collection/object/W_K-2675">British Museum</a>.</i>
   <br>

@@ -24,7 +24,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/angelstandinginthesun.jpg", width="210", height="210">
+  <img src="/media/imgs/GNT/revtrans/angelstandinginthesun.webp", width="210", height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelstandinginthesun.jpg'" alt="" width="210" height="210">
   <br>
   <i>The Angel standing in the Sun — 1910, Henry John Stock</i>
 </div>

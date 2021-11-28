@@ -16,7 +16,7 @@
   <h3 style="margin-bottom: 0px;">Herodotus’ Histories</h3>
   <i>Circa 450 BC</i>
   <br><br>
-  <img src="/media/imgs/herodhistories.jpg", width="400", height="400">
+  <img src="/media/imgs/herodhistories.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/herodhistories.jpg'" alt="" width="400" height="400">
   <br>
   <i>… ὦτα γὰρ τυγχάνει ἀνθρώποισι ἐόντα ἀπιστότερα ὀφθαλμῶν …</i>
   <br>
@@ -39,7 +39,7 @@
     <p>It should, thus, be of no surprise to anyone that a book such as this might be of great importance and, as always, reading it in its original language greatly enhances one’s reading experience. Additionally, his Greek, although different from what most intermediate students are used to — as we shall more fully explore soon —, is of a very simple sort which should be easy enough for an intermediate student to understand with the help of a commentary and perhaps dictionary. Nonetheless, a few people seem to consider Herodotus <a href="https://archive.is/Z5R46">not worthwhile reading</a>, a sentiment I cannot at all share.</p>
 
     <figure style="float: left; margin-top: 0px;">
-      <img src="/media/imgs/herodold.jpg">
+      <img src="/media/imgs/herodold.webp">
       <figcaption>Early 15<sup>th</sup> century copy of the <i>Histories</i>.</figcaption>
     </figure>
 
@@ -48,7 +48,7 @@
     <p>There are a good number of additional phonetical changes, but there are also a handful of grammatical changes that will definitely throw someone who hasn’t had a lot of exposure to this dialect off at his first seeing it. Many of these, I would argue, can be quite easily and fairly quickly adapted to, such as its relative pronouns (<i>ὅς</i> etc. in Attic) being the same as the articles. It does create some rare occasions wherein you are confused as to the existence of an article in a particular sentence where there should most definitely not be one, when you realise that it is, in fact, the relative pronoun — something that, as a German speaker, I should be used to.</p>
 
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/battleofsalamis.jpg">
+      <img src="/media/imgs/battleofsalamis.webp">
       <figcaption>19<sup>th</sup> century depiction of the <i>Battle of Salamis</i>, an event described by Herodotus (Wilhelm von Kaulbach).</figcaption>
     </figure>
 
@@ -76,7 +76,7 @@
       </blockquote>
 
       <figure style="float: right; margin-top: 0px;">
-        <img src="/media/imgs/herodbust.jpg">
+        <img src="/media/imgs/herodbust.webp">
         <figcaption>Bust of Herodotus.</figcaption>
       </figure>
 
@@ -95,7 +95,7 @@
       <p>The problem of reading translated texts becomes very evident when you speak both the original language of it and the language it was translated into; and I find it especially noticable with such old texts. Ancient Greek and English, whilst being distantly related, are languages that are quite different grammatically and in terms of vocabulary; translating the vernacular of one language to the other literally often yields results that sound stilted and awkward, just as it would be literally translating German vernacular into English and vice-versa.</p>
 
       <figure style="float: left; margin-top: 0px;">
-        <img src="/media/imgs/herodhistories20.jpg">
+        <img src="/media/imgs/herodhistories20.webp">
         <figcaption>Page 20 of Geoffrey Steadman's reader of the first book of the series.</figcaption>
       </figure>
 

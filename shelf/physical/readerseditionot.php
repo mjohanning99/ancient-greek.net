@@ -15,7 +15,7 @@
 <div align="center">
   <h1 style="margin-bottom: 0px;">Ἡ μετάφρασις τῶν Ἑβδομήκοντα</h1>
   <h3>The Translation of the Seventy</h3>
-  <img src="/media/imgs/septuaginta/septuaginta_both.jpg", width="400", height="400">
+  <img src="/media/imgs/septuaginta/septuaginta_both.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/septuaginta/septuaginta_both.jpg'" alt="" width="400" height="400">
   <br>
   <i></i>
   <br>
@@ -60,7 +60,7 @@
     <p>Ask any stranger you might find on the street what the Septuaginta is, and the answer would most likely be the real-life equivalent of someone you are chatting to on the Internet sending you a horde of question marks — namely confusion; and this is not only because it is a rather bizarre thing to do — though Jehovah’s Witnesses practice something similar to what I described —, but also because the majority of the population will not have heard about it. Indeed, if one had never heard the word pronounced in English, even its pronunciation might be somewhat of a mystery and its meaning even more so; so what is this book?</p>
 
     <figure>
-      <figcaption><img src="/media/imgs/septuaginta/manandwoman.jpg", width="400", height="400">An extract from the early portion of Genesis</figcaption>
+      <figcaption><img src="/media/imgs/septuaginta/manandwoman.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/septuaginta/manandwoman.jpg'" alt="" width="400" height="400">An extract from the early portion of Genesis</figcaption>
     </figure>
 
     <p>In very simple — but, nonetheless correct — terms, the Septuaginta merely is the Ancient Greek translation of the Hebrew Bible, including the Tanach, the Torah, the Talmud, some Deuterocanonical books and apocrypha. Its name stems from the legend behind its creation, which claims that Ptolemy II Philadelphus, at the request of the librarian of the Library of Alexandria, hired six scholars of each of the twelve Jewish tribes, sent them from Jerusalem to Egypt and had them translate the Bible into Greek. The main source for this legend the <i>Letter to Philocrates</i>, in which the writer of the letter mentions the above-stated claims. Modern-day scholars believe that it was written between the 3<sup>rd</sup> and 2<sup>nd</sup> centuries BCE.</p>
@@ -162,7 +162,7 @@
     <p>After having discussed and analysed the Septuaginta itself, let us now turn our attention towards the one and only reader’s edition that exists for it. As I am sure you are aware, I am a fan of <i>reader’s editions</i> of Ancient Greek texts, such as the GNT reader which I have reviewed on the website previously. It should, therefore, not be too big of a surprise to find out that I have finally — after wanting to buy this masterpiece for over half a year — managed to buy <i>Septuaginta: A Reader’s Edition</i>. It was published by both <i>Hendrickson Publishers</i> and the <i>Deutsche Bibelgesellschaft</i> (German Bible Society) in 2018. The creators of this work, however, were Gregory R. Lanier and William A. Ross, both of the University of Cambridge. The textual basis is Alfred Rahlfs’ edition of the Septuagint, first published in 1935.</p>
 
     <figure>
-      <figcaption><img src="/media/imgs/septuaginta/title.jpg", width="400", height="400">Title page</figcaption>
+      <figcaption><img src="/media/imgs/septuaginta/title.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/septuaginta/title.jpg'" alt="" width="400" height="400">Title page</figcaption>
     </figure>
 
     <p>Its layout is, in many aspects, very similar to that of the GNT reader I talked about previously, though the size of this reader is, understandably, much greater. It should also be evident, especially once you have looked at the image at the very top of this page, that this edition of the Old Testament comes in two volumes; the first contains <i>Genesis</i> through <i>5 Maccabees</i>; and the second one contains <i>Psalms</i> through <i>Bel and the Dragon</i>.</p>
@@ -174,7 +174,7 @@
     <p>Honestly, I personally find this thicker paper very enjoyable to handle, especially considering the fact that many Bibles I own feel quite <i>flimsy</i>, making you afraid that the wrong glance at it would break it immediately. Unfortunately, I do not have the exact grammage for the paper used in the GNT reader, but I find that the paper used in that particular book is slightly thicker than that used in the Septuaginta.</p>
 
     <figure style="float: left;">
-      <figcaption><img src="/media/imgs/septuaginta/psalms.jpg", width="400", height="400">3<sup>rd</sup> book of the Psalms.</figcaption>
+      <figcaption><img src="/media/imgs/septuaginta/psalms.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/septuaginta/psalms.jpg'" alt="" width="400" height="400">3<sup>rd</sup> book of the Psalms.</figcaption>
     </figure>
   </div>
 
@@ -192,7 +192,7 @@
     <p>The creators of this reader’s edition did an excellent job at creating an easy-to-use apparatus; they clearly oriented themselves by the GNT reader I have already mentioned, but did certain things differently — some of these changes are advantageous and others are regrettable. In this chapter, I will be exploring the differences between the two approaches in more detail.</p>
 
     <figure style="float: left;">
-      <figcaption><img src="/media/imgs/septuaginta/apparatus.jpg", width="400", height="400">Textual apparatus.</figcaption>
+      <figcaption><img src="/media/imgs/septuaginta/apparatus.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/septuaginta/apparatus.jpg'" alt="" width="400" height="400">Textual apparatus.</figcaption>
     </figure>
 
     <h3 id="includedvocab">The Included Vocabulary</h3>
