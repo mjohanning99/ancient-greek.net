@@ -76,7 +76,7 @@
   <p>But what about actual content that might be found on this page? There are numerous things here, actually, and the amount of categories keeps growing. Mainly, however, you will be able to look at my shelves — both physical and virtual — to see what kinds of books I am using to learn the language and read reviews about them; you will be able to read original ancient texts with transliterations and translations; you can find my own compositions in Ancient Greek; and numerous other things, such as my blog or some articles.</p>
 
   <figure style="float: right; margin-top: 0px;">
-    <img src="/media/imgs/creationbosch.webp">
+    <img src="/media/imgs/creationbosch.webp" onerror="this.onerror=null; this.src='/media/imgs/creationbosch.jpg'" alt="">
     <figcaption><q>Creation</q> on the exterior (shutters) of The Garden of Earthly Delights — 1480 – 1490, Hieronymus Bosch</figcaption>
   </figure>
 
