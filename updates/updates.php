@@ -37,7 +37,7 @@
 <div class="article">
   <h2>November 27, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/gospelnov.webp">
+    <img src="/media/imgs/updates/gospelnov.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/gospelnov.png'" alt="">
     <figcaption>Working on my website</figcaption>
   </figure><br>
   <p>I have finally taken it upon myself to continue working on my website, albeit slowly. As I have been rather busy as of late — both with school and work — and have not really had the inclination to continue working on my book or my website, I have done but very little work on both my website and my new book. I have, however, slowly begun being more productive concerning this as of late — though God knows why that has happened. This does have the, hopefully positive, implication of my website receiving some more updates.</p>
@@ -48,7 +48,7 @@
 
   <h2>July 30, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/philokalia.png">
+    <img src="/media/imgs/updates/philokalia.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/philokalia.png'" alt="">
     <figcaption>Nicely typeset edition of one of my letters</figcaption>
   </figure><br>
   <p>The entirety of the Apocalypse of John is now available on my website! Additionally, I have updated the <a href="projects.php">projects page</a> so that it now has two sections, one for current, and still on-going, projects; and one for projects that have been finished. As you may have noticed, I have begun a new project, namely the translation of the Gospel of John — this particular project will (or should, in theory) play out in the same manner as that of the Apocalypse of John; I shall write the translation, publish it here and publish it as a physical book as well. I have yet to write something, but you may already check out the newly created page for the Gospel of John <a href="/translations/GNT/gospels/john/index.php">right here</a>.
@@ -57,7 +57,7 @@
 
   <h2>July 29, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/book.png">
+    <img src="/media/imgs/updates/book.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/book.png'" alt="">
     <figcaption>Title pages of my book</figcaption>
   </figure><br>
   <p>I have finally finished my book! Yes indeed, my book containing my own translation of the Apocalypse of John is finally done; considering the text I translated was rather short, I find that it has taken me longer than I had initially expected — but after a month of working on my translation and the design and typesetting of my book, I can finally proclaim that it has, indeed, been finished.</p>
@@ -66,7 +66,7 @@
 
   <h2>June 29, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/darkmode.png">
+    <img src="/media/imgs/updates/darkmode.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/darkmode.png'" alt="">
     <figcaption>Dark mode</figcaption>
   </figure><br>
   <p>I have finally managed to continue working on my website and have begun implementing a dark mode. It is still being worked on and improved, but it already automatically enables whenever your device‘s theme is set to a dark one. I was able to accomplish this using pure CSS, fortunately, and did not have to resort to my dreaded Javascript just for a dark mode.</p>
