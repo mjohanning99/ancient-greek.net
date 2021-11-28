@@ -4,12 +4,12 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+  <link rel="stylesheet" type="text/css" href="/CSS/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="An occasionally updated page containing information about new things added.">
   <title>Updates – ancient-greek.net</title>
 
-  <?php include('header.php'); ?>
+  <?php include('../header.php'); ?>
   <hr>
 </head>
 
@@ -119,7 +119,7 @@
   <p>I have also been working on SEO (Search Engine Optimisation) with tips I received by the helpful owner of <a href="https://koshka.love">Koshka’s Kingdom</a> and have been seeing some tiny impact already. Indeed, as I am using Cloudflare as my DNS, I am able to see how many unique vistors my site gets in a day — and that number has, since the site’s creation, been steadily growing. I am hoping that by the addition of meta tags and titles, I will be able to increase that number further.</p>
 </div>
 
-<?php include('footer.php'); ?>
+<?php include('../footer.php'); ?>
 
 </body>
 </html>

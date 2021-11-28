@@ -41,7 +41,7 @@
     <h3><a href="links.php" class="menu">Links</a></h3>
     <p>Links to helpful and interesting websites about Ancient Greek and other things I find interesting.</p>
 
-    <h3><a href="updates.php" class="menu">Updates</a></h3>
+    <h3><a href="/updates/updates.php" class="menu">Updates</a></h3>
     <p>A page containing updates to my website and my projects; I recommend checking it regularly to see what’s new.</p>
   </div>
 
