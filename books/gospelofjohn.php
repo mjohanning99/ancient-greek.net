@@ -52,6 +52,9 @@
     <h2>Read the book</h2>
     <a href="/media/books/gospelofjohn/preview.pdf">Preview of the book</a>
     <p class="tab">A preview of the e-book / printed book.</p>
+
+    <a href="/translations/GNT/gospels/john/index.php">Read online</a>
+    <p class="tab">Read the HTML version of book online for free.</p>
   </div>
 </div>
 
