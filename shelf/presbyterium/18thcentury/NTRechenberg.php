@@ -44,6 +44,7 @@
           <ol>
               <li><a href="#book_title">Title page</a></li>
               <li><a href="#book_preface">Prefaces and Prologues</a></li>
+              <li><a href="#book_map">The Map of the Holy Land</a></li>
           </ol>
         </ol>
       </div>
@@ -152,8 +153,89 @@
     <p>All in all, I find the illustration rather nice and the attention to detail — regarding the short Bible quotes upon which the illustration is based — remarkable.</p>
 
     <h3 id="book_preface">Prefaces and Prologues</h3>
-	</div>
+		<div class="responsive_2">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/preface/preface_1.webp">
+					<img src="/media/imgs/NTRechenberg/preface/preface_1.webp" alt="The preface of the first edition (in Latin)" width="600" height="400">
+				</a>
+				<div class="desc">The preface of the first edition (in Latin)</div>
+			</div>
+		</div>
 
+		<div class="responsive_2">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/preface/prologue_1.webp">
+					<img src="/media/imgs/NTRechenberg/preface/prologue_1.webp" alt="The prologue of Paul the Apostle" width="600" height="400">
+				</a>
+				<div class="desc">The prologue of Paul the Apostle</div>
+			</div>
+		</div>
+
+  <p>What follows is the preface written in Latin and a prologue written in Greek, with the latter being titled as follows: —</p>
+
+  <blockquote>
+    <b>Greek</b>: ΠΡΟΛΟΓΟΣ ΠΑΥΛΟΥ ΑΠΟΣΤΟΛΟΥ ΠΡΟΤΑΣΣΟΜΕΝΟΣ ΤΗΣ ΒΙΒΛΟΥ<br />
+    <b>Translit.</b>: PROLOGOS PAULOU APOSTOLOU PROTASSOMENOS TĒS BIBLOU <br />
+    <b>Translat.</b>: Prologue of Paul the Apostle, prefixed to the Bible / book
+  </blockquote>
+
+  <p>As I am unfortunately unfamiliar with that prologue and the font is still somewhat difficult for me to decipher, I cannot really read what is written here. I am also somewhat unsure regarding my translation, as I have never come across the participle <i>προτασσόμενος</i>; as <i>προτάσσω</i>, however, means <q>to prefix</q> or <q>to place in front of</q>, I am fairly certain its mediopassive participle has a similar meaning and that my translation of <q>prefixed</q> is adequate. </p>
+
+  <p>The Latin preface (the <q>Præfatio editionis prioris</q>, Preface of the first edition) contains a short Greek quote underneath its title which is as follows: —
+
+  <blockquote>
+    <b>Greek</b>: Χάριν καὶ εἰρήνην ἀπὸ Θεοῦ Πατρὸς καὶ Κυρίου Ἰησοῦ Χριστοῦ<br />
+    <b>Translit.</b>: Charin kai eirēnēn apo Theou Patros kai Kyriou Iēsou Christou<br />
+    <b>Translat.</b>: Grace and peace from God (our) Father and the Lord Jesus Christ.
+  </blockquote>
+
+  <p>This appears to be a strangely shortened version of Galatians 1:3; and additionally, both the words for <q>grace</q> and <q>peace</q> are declined in the accusative case in this particular shortened version — and I see absolutely no reason for their being in anything but the nominative. It would make sense if, perhaps, one placed a verb such as <q>I give</q> (δίδωμι) in front of the sentence — but this has not been done here. Though one may argue that it was simply left out.</p>
+
+  <p>I would very much like to dwell on the topic of discussing the preface and prologue, but as the preface is written in Latin and the prologue, unfortunately, not entirely understandable to me, I have decided to move on to something that is, though but marginally, related to the prologue — the aforementioned map.</p>
+
+  <h3 id="book_map">The Map</h3>
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_1.webp">
+					<img src="/media/imgs/NTRechenberg/map/map_1.webp" alt="An overview of the map" width="600" height="400">
+				</a>
+				<div class="desc">An overview</div>
+			</div>
+		</div>
+    
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_2.webp">
+					<img src="/media/imgs/NTRechenberg/map/map_2.webp" alt="The name of the place being depicted" width="600" height="400">
+				</a>
+				<div class="desc">The region’s name</div>
+			</div>
+		</div>
+
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_3.webp">
+					<img src="/media/imgs/NTRechenberg/map/map_3.webp" alt="A legend" width="600" height="400">
+				</a>
+				<div class="desc">The key of the map</div>
+			</div>
+		</div>
+
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_4.webp">
+					<img src="/media/imgs/NTRechenberg/map/map_4.webp" alt="Closeup of some of the map" width="600" height="400">
+				</a>
+				<div class="desc">Closeup of the map</div>
+			</div>
+		</div>
+
+    <p>One thing that immediately struck me and that had me fascinated from the beginning was a fold-out map hidden within one of Paul’s prologues. I was shocked at how well-preserved it was, considering how often it must have been folded and unfolded over the years; though I do confess I was particularly careful whilst handling it, for it felt as if it would rip apart if I so much as looked at it from an angle it did not deem worthy enough. </p>
+
+    <p>The map is very detailled and contains the names of countless regions and cities all over what it calls <q>Palæstina oder: Das Gelobte Land</q> (Palestine or: The Promised Land). The Mediterranean is also present and labelled as <q>Das Große oder Mitellændische Meer</q>, though it would nowadays usually be referred to simply as <q>Mittelmeer</q>.
+	</div>
+    
+  <!-- Foonote stuff -->
   <div class="footnote">
     <h2>Footnotes</h2>
     <p id="footnote_1">[1] Interestingly enough, the <a href="https://www.deutsche-biographie.de/pnd116373164.html">deutsche-biographie.de</a> website actually mentions some of his teachers’ names, which I found rather intriguing. Amongst these are Rappolt, Thomasius and Frankenstein (yes, indeed) who were teachers of the philosophical subjects;  and Scherzer, Kromayer and Geyer were teachers of theology. I was particularly surprised seeing the name of <i>Frankenstein</i> here. <a href="#footnote_1_ref">Back to text</a></p>
