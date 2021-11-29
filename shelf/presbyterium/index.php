@@ -42,7 +42,7 @@
 
   <div class="column">
     <h2>18<sup>th</sup> century</h2>
-    <h3><a href="#" class="denied">Novum Testamentum Graece — Adam Rechenberg, 1736</a><!-- <img src="/media/icons/new_1.png" width="20">--></h3>
+    <h3 class="new"><a class="menu" href="18thcentury/NTRechenberg.php">Novum Testamentum Graece — Adam Rechenberg, 1736</a></h3>
     <p>A small edition of the Greek New Testament published by the German theologist Adam Rechenberg.</p>
   </div>
 </div>

@@ -53,12 +53,20 @@
     background-color: #242424;
     color: #F5F5F5; 
   }
+
+  blockquote {
+    background: #000000;
+  }
 }
 
 /* Light mode */
 @media (prefers-color-scheme: light) {
   body {
     background-color: white;
+  }
+
+  blockquote {
+    background: #f9f9f9;
   }
 }
 
@@ -253,6 +261,14 @@ li.header {
   transform: scale(.5);
   right: +1px;
   margin-top: -1px;
+}
+
+h3.new::after {
+  background: url(/media/icons/new.png) right center no-repeat;
+  vertical-align: middle;
+  background-size: 20px auto;
+  padding-left: 25px;
+  content: "";
 }
 
 .header li:nth-of-type(2):before {
@@ -537,7 +553,6 @@ q::after {
 }
 
 blockquote {
-  background: #f9f9f9;
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;

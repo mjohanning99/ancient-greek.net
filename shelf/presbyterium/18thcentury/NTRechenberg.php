@@ -14,8 +14,8 @@
 </head>
 
 <div align="center">
-  <h1 style="margin-bottom: 0px;">Τὴν Καινὴν Διαθήκην βιβλίῳ παλαιῷ ἀναγιγνωσκώμεθα!</h1>
-  <h3>Let us read the New Testament with an old book!</h3>
+  <h1 style="margin-bottom: 0px;">Adam Rechenberg’s New Testament</h1>
+  <h3>Adam Rechenberg’s New Testament discussed in detail and with lots of illustrations</h3>
   <img src="/media/imgs/NTRechenberg/IMG_0156.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" alt="" width="300" height="300">
   <br>
   <i></i>
@@ -46,7 +46,9 @@
               <li><a href="#book_preface">Prefaces and Prologues</a></li>
               <li><a href="#book_map">The Map of the Holy Land</a></li>
               <li><a href="#book_testament">The New Testament</a></li>
+              <li><a href="#book_notes">The Mystery of Notes and Squiggles</a></li>
           </ol>
+					<li><a href="#conclusion">Conclusion</a></li>
         </ol>
       </div>
     </div>
@@ -62,7 +64,7 @@
     <p>Before I begin my examination of various points of interest in the book itself, I would like to begin highlighting some information about the author — or, rather, the publisher of this particular volume of the New Testament, Adam Rechenberg. I have misspelt his name frequently over the course of writing this website, as it is oddly reminiscent of Sherlock Holmes’ <i>The Reichenbach Fall</i>; my brain appears to have the desire to write Adam’s name not as <i>Rechenberg</i>, but rather as <i>Rechenbach</i>. My frequent consultation of the stories of Sherlock Holmes might have caused this issue.</p>
 
     <figure>
-      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.'" alt="">
+      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.jpg'" alt="">
       <figcaption>A portrait of Rechenberg, © The Trustees of the British Museum (CC BY-NC-SA 4.0)</figcaption>
     </figure>
 
@@ -198,7 +200,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_1.jpg">
-					<img src="/media/imgs/NTRechenberg/map/map_1" alt="An overview of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_1.jpg'" alt="An overview of the map" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/map/map_1.webp" alt="An overview of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_1.jpg'" alt="An overview of the map" width="600" height="400">
 				</a>
 				<div class="desc">An overview</div>
 			</div>
@@ -267,9 +269,65 @@
 
     <p>The text of the New Testament itself is pretty unremarkable as far as I was able to tell; sure, there are some differences between this edition and the 28<sup>th</sup> edition of the Novum Testamentum Graece (NA 28) or the UBS 5; but unless you are attempting to do a philological or theological study on these texts, the difference between the two is negligible.</p>
 
-    <p>The pages in general are in great condition, all things considered, but there are various holes or blotches that can be spotted on a handful of pages; though this is to be expected from a book of this age. The text, barring the unusual font I still have to get used to, is also very legible and everything can be read with ease. 
-  	</div>
-    
+    <p>The pages in general are in great condition, all things considered, but there are various holes or blotches that can be spotted on a handful of pages; though this is to be expected from a book of this age. The text, barring the unusual font<a class="footnote" href="#footnote_4" id="footnote_4_ref">Note [4]</a> I still have to get used to, is also very legible and everything can be read with ease.</p>
+
+    <p>But as this is, as I have previous mentioned, simply an edition of the New Testament, there is not much more to say; therefore, let us now proceed to a more interesting part of this book.</p>
+
+    <h3 id="book_notes">The Mystery of Notes and Squiggles</h3>
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/notes/notes1.jpg">
+        <img src="/media/imgs/NTRechenberg/notes/notes1.webp" alt="Front noted #1" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/notes/notes1.jpg'" alt="Front notes #1" width="600" height="400">
+				</a>
+				<div class="desc">Front notes #1</div>
+			</div>
+		</div>
+
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/notes/notes2.jpg">
+					<img src="/media/imgs/NTRechenberg/notes/notes2.webp" alt="Front notes #2" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/notes/notes2.jpg'" alt="Front notes #2" width="600" height="400">
+				</a>
+				<div class="desc">Front notes #2</div>
+			</div>
+		</div>
+
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/notes/notes3.jpg">
+					<img src="/media/imgs/NTRechenberg/notes/notes3.webp" alt="Front notes #3" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/notes/notes3.jpg'" alt="Front notes #3" width="600" height="400">
+				</a>
+				<div class="desc">Front notes #3</div>
+			</div>
+		</div>
+
+		<div class="responsive">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/notes/notes4.jpg">
+					<img src="/media/imgs/NTRechenberg/notes/notes4.webp" alt="Back notes" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/notes/notes4.jpg'" alt="Back notes" width="600" height="400">
+				</a>
+				<div class="desc">Back notes</div>
+			</div>
+		</div>
+    <p>Another thing that I immediately noticed were a variety of strange and rather mysterious notes and squiggles in the front and back of the book. Unfortunately, I am unable to make up a large amount of what has been written down here, mostly due to the person‘s handwriting; I do, however, believe that the majority of notes are actually German.</p>
+
+    <p>Front notes #2, for example, quite clearly shows the name of a man which I believe to be either <i>Christophernis</i> or <i>Christophonis Adamus Halbmeyer</i> which is most certainly a German — though perhaps Dutch as well — name. He even appears to have erased part of his name after realising it wouldn’t fit on the page entirely, as you can see a very faint black writing reading <q>Ada</q> directly behind his first name. He must have erased it and continued to write his name on the line beneath.</p>
+
+    <p>Directly beneath this name one can find yet another name belonging to what appears to be the same family: <i>Johanis Adam Halbmeyer</i>. The handwriting is similar enough, but I do not know for certain if it was written by the same person or by someone else; I almost believe that the same person wrote both names, as the handwriting really is remarkably similar. Directly beneath Johanis‘ name, there appear two black blotches of ink on the paper which are trying to hide yet another name which, I believe, once again contains the name <q>Adam</q>; it is, however, rather difficult to decipher. </p>
+
+    <p>The bottom of the page, which can be seen on <i>Front notes #2</i>, contains the name we also encountered at the top of the page but written in Greek this time: Χριστοφ αδαμ ἁλβμαιερ (sic). The <q>a</q> in <q>Adam</q> is curiously missing a breathing mark and the iotas all have dots on top of them as they would in the Latin script.</p>
+
+    <p>The page also contains various squiggles and zig-zaggy lines, presumably jotted down to test or <q>start</q> a pen — it is the same thing that I tend to do as well, though I do not misuse my books for such a purpose.</p>
+
+    <p>The opposite page contains the names of various Greek letters written in a rather nice-looking handwriting and yet further squiggles and lines. I am not entirely certain why they would have been written down here and why only a small handful of them were written down as opposed to the entire lot; though who knows? This could have simply been a bored student squiggling around in his book.</p>
+
+    <p>The back contains what appear to be notes of some kind, although they are completely unintelligible to me and I could not even venture a guess regarding the language these notes were written in. Curiously, however, the notes appear to go <i>underneath</i> the blue cover, making me believe that the paper / cardboard these notes are written on was used for something different before it was placed in this book. And once again, this page also contains various squiggles.</p>
+    </div>
+
+    <div class="article">
+      <h2 id="conclusion">Conclusion</h2>
+      <p>All in all, I found this book extraordinarily interesting to study and examine; there are so many quirks and notes and interesting pieces of information that make it very intriguing — and the various and, in my opinion, often rather mysterious notes really add a certain personality to this book. It is always interesting to know to be the owner of an item that is one of its kind.</p>
+    </div>
   <!-- Foonote stuff -->
   <div class="footnote">
     <h2>Footnotes</h2>
@@ -278,6 +336,8 @@
     <p id="footnote_2">[2] The word <q>Leusdeni</q> that appears here is, in actuality, the genitive form of the name <q>Leusden</q>, belonging to a very prominent Dutch theologian of the 17<sup>th</sup> century. His full name was Johannes Leusden and he wrote a substantial amount of books on the Bible and even published his own <i>Biblia Hebraica</i>. <a href="#footnote_2_ref">Back to text</a></p>
 
     <p id="footnote_3">[3] There are, despite what many may believe, a large number of different blackletter typesfaces and which one was used depends on the year a certain publication was released and — I am sure — the preference of the author; I am also sure that certain printing presses only had one set of letters, so those had to be used no matter what the author would have preferred. Fraktur is one of the most popular German blackletter fonts and I am thus quite certain it is what has been used here as well; though it could also be Schwabacher. <a href="#footnote_3_ref">Back to text</a></p>
+    
+    <p id="footnote_4">[4] Although this has but little to do with this particular book, I wanted to briefly mention a fanstastic little package for LaTeX titled <a href="https://ctan.org/pkg/philokalia?lang=en">philokalia</a>. It provides a great and interesting font for Ancient Greek and also contains nice Greek drop capitals which I have used extensively in my books; I highly recommend you take a look at this.<a href="#footnote_4_ref">Back to text</a></p>
   </div>
 </body>
 
