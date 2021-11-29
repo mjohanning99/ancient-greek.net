@@ -62,7 +62,7 @@
     <p>Before I begin my examination of various points of interest in the book itself, I would like to begin highlighting some information about the author — or, rather, the publisher of this particular volume of the New Testament, Adam Rechenberg. I have misspelt his name frequently over the course of writing this website, as it is oddly reminiscent of Sherlock Holmes’ <i>The Reichenbach Fall</i>; my brain appears to have the desire to write Adam’s name not as <i>Rechenberg</i>, but rather as <i>Rechenbach</i>. My frequent consultation of the stories of Sherlock Holmes might have caused this issue.</p>
 
     <figure>
-      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.jpg'" alt="">
+      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.'" alt="">
       <figcaption>A portrait of Rechenberg, © The Trustees of the British Museum (CC BY-NC-SA 4.0)</figcaption>
     </figure>
 
@@ -85,7 +85,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0177.jpg">
-					<img src="/media/imgs/NTRechenberg/IMG_0177.webp" alt="Title page with illustration on verso." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0177.webp'" alt="Title page with illustration on verso." width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/IMG_0177" alt="Title page with illustration on verso." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0177.jpg'" alt="Title page with illustration on verso." width="600" height="400">
 				</a>
 				<div class="desc">Title page with illustration on verso.</div>
 			</div>
@@ -94,7 +94,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0181.jpg">
-					<img src="/media/imgs/NTRechenberg/IMG_0181.webp" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0181.webp'" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/IMG_0181" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0181.jpg'" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400">
 				</a>
 				<div class="desc">Place of printing author and date of publishing.</div>
 			</div>
@@ -103,7 +103,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0191.jpg">
-					<img src="/media/imgs/NTRechenberg/IMG_0191.webp" alt="Closeup of illustration." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0191.webp'" alt="Closeup of illustration." width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/IMG_0191" alt="Closeup of illustration." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0191.jpg'" alt="Closeup of illustration." width="600" height="400">
 				</a>
 				<div class="desc">Closeup of illustration.</div>
 			</div>
@@ -112,7 +112,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0195.jpg">
-					<img src="/media/imgs/NTRechenberg/IMG_0195.webp" alt="Closeup of Bible quote on illustration." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0195.webp'" alt="Closeup of Bible quote on illustration." width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/IMG_0195" alt="Closeup of Bible quote on illustration." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0195.jpg'" alt="Closeup of Bible quote on illustration." width="600" height="400">
 				</a>
 				<div class="desc">Closeup of Bible quote on illustration.</div>
 			</div>
@@ -157,7 +157,7 @@
 		<div class="responsive_2">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/preface/preface_1.jpg">
-					<img src="/media/imgs/NTRechenberg/preface/preface_1.webp" alt="The preface of the first edition (in Latin)" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/preface/preface_1.webp'" alt="The preface of the first edition (in Latin)" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/preface/preface_1" alt="The preface of the first edition (in Latin)" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/preface/preface_1.jpg'" alt="The preface of the first edition (in Latin)" width="600" height="400">
 				</a>
 				<div class="desc">The preface of the first edition (in Latin)</div>
 			</div>
@@ -166,7 +166,7 @@
 		<div class="responsive_2">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/preface/prologue_1.jpg">
-					<img src="/media/imgs/NTRechenberg/preface/prologue_1.webp" alt="The prologue of Paul the Apostle" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/preface/prologue_1.webp'" alt="The prologue of Paul the Apostle" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/preface/prologue_1" alt="The prologue of Paul the Apostle" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/preface/prologue_1.jpg'" alt="The prologue of Paul the Apostle" width="600" height="400">
 				</a>
 				<div class="desc">The prologue of Paul the Apostle</div>
 			</div>
@@ -198,7 +198,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_1.jpg">
-					<img src="/media/imgs/NTRechenberg/map/map_1.webp" alt="An overview of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_1.webp'" alt="An overview of the map" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/map/map_1" alt="An overview of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_1.jpg'" alt="An overview of the map" width="600" height="400">
 				</a>
 				<div class="desc">An overview</div>
 			</div>
@@ -207,7 +207,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_2.jpg">
-					<img src="/media/imgs/NTRechenberg/map/map_2.webp" alt="The name of the place being depicted" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_2.webp'" alt="The name of the place being depicted" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/map/map_2" alt="The name of the place being depicted" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_2.jpg'" alt="The name of the place being depicted" width="600" height="400">
 				</a>
 				<div class="desc">The region’s name</div>
 			</div>
@@ -216,7 +216,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_3.jpg">
-					<img src="/media/imgs/NTRechenberg/map/map_3.webp" alt="A legend" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_3.webp'" alt="A legend" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/map/map_3" alt="A legend" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_3.jpg'" alt="A legend" width="600" height="400">
 				</a>
 				<div class="desc">The key of the map</div>
 			</div>
@@ -225,7 +225,7 @@
 		<div class="responsive">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_4.jpg">
-					<img src="/media/imgs/NTRechenberg/map/map_4.webp" alt="Closeup of some of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_4.webp'" alt="Closeup of some of the map" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/map/map_4" alt="Closeup of some of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_4.jpg'" alt="Closeup of some of the map" width="600" height="400">
 				</a>
 				<div class="desc">Closeup of the map</div>
 			</div>
@@ -249,7 +249,7 @@
 		<div class="responsive_2">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/nt/new_testament1.jpg">
-					<img src="/media/imgs/NTRechenberg/nt/new_testament1.webp" alt="The preface of the first edition (in Latin)" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/nt/new_testament1.webp'" alt="The preface of the first edition (in Latin)" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/nt/new_testament1" alt="The preface of the first edition (in Latin)" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/nt/new_testament1.jpg'" alt="The preface of the first edition (in Latin)" width="600" height="400">
 				</a>
 				<div class="desc">The preface of the first edition (in Latin)</div>
 			</div>
@@ -258,7 +258,7 @@
 		<div class="responsive_2">
 			<div class="gallery">
 				<a target="_blank" href="/media/imgs/NTRechenberg/nt/new_testament2.jpg">
-					<img src="/media/imgs/NTRechenberg/nt/new_testament2.webp" alt="The prologue of Paul the Apostle" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/nt/new_testament2.webp'" alt="The prologue of Paul the Apostle" width="600" height="400">
+					<img src="/media/imgs/NTRechenberg/nt/new_testament2" alt="The prologue of Paul the Apostle" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/nt/new_testament2.jpg'" alt="The prologue of Paul the Apostle" width="600" height="400">
 				</a>
 				<div class="desc">The prologue of Paul the Apostle</div>
 			</div>
