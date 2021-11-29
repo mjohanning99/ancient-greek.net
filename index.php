@@ -55,7 +55,7 @@
     <p>On here you will find information regarding the books I own only <i>virtually</i>.</p>
 
     <h3><a href="shelf/presbyterium/index.php" class="menu">The Presbyterium</h3></a>
-    <p>The Presbyterium (<q>The Council of Elders</q>) contains information about old and ancient books that I own.</p>
+    <p>The Presbyterium (<q>The Council of Elders</q>) contains information about old and ancient books that I own.</p> <!-- <img src="/media/icons/new_1.png" width="20"></h3> -->
   </div>
 
   <div class="column">

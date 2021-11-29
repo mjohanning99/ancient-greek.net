@@ -27,7 +27,7 @@
     <div class="column-2">
       <div class="article">
         <h2>Rechenberg’s New Testament</h2>
-        <p>In the following article, I will be examining the oldest book I currently — as of June 20, 2021 — have in my collection, namely Adam Rechenberg’s edition of the Greek New Testament. I have extensively documented various features of this book — and, most importantly, of this particular edition that I own — and will showcase those in this article, alongside some explanations and observations. </p>
+        <p>In the following article, I will be examining the oldest book I currently — as of November 2021 — have in my collection, namely Adam Rechenberg’s edition of the Greek New Testament. I have extensively documented various features of this book — and, most importantly, of this particular edition that I own — and will showcase those in this article, alongside some explanations and observations. </p>
       </div>
     </div>
 
@@ -45,6 +45,7 @@
               <li><a href="#book_title">Title page</a></li>
               <li><a href="#book_preface">Prefaces and Prologues</a></li>
               <li><a href="#book_map">The Map of the Holy Land</a></li>
+              <li><a href="#book_testament">The New Testament</a></li>
           </ol>
         </ol>
       </div>
@@ -61,7 +62,7 @@
     <p>Before I begin my examination of various points of interest in the book itself, I would like to begin highlighting some information about the author — or, rather, the publisher of this particular volume of the New Testament, Adam Rechenberg. I have misspelt his name frequently over the course of writing this website, as it is oddly reminiscent of Sherlock Holmes’ <i>The Reichenbach Fall</i>; my brain appears to have the desire to write Adam’s name not as <i>Rechenberg</i>, but rather as <i>Rechenbach</i>. My frequent consultation of the stories of Sherlock Holmes might have caused this issue.</p>
 
     <figure>
-      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp">
+      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.jpg'" alt="">
       <figcaption>A portrait of Rechenberg, © The Trustees of the British Museum (CC BY-NC-SA 4.0)</figcaption>
     </figure>
 
@@ -83,8 +84,8 @@
     <h3 id="book_title">Title page</h3>
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0177.webp">
-					<img src="/media/imgs/NTRechenberg/IMG_0177.webp" alt="Title page with illustration on verso." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0177.jpg">
+					<img src="/media/imgs/NTRechenberg/IMG_0177.webp" alt="Title page with illustration on verso." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0177.webp'" alt="Title page with illustration on verso." width="600" height="400">
 				</a>
 				<div class="desc">Title page with illustration on verso.</div>
 			</div>
@@ -92,8 +93,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0181.webp">
-					<img src="/media/imgs/NTRechenberg/IMG_0181.webp" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0181.jpg">
+					<img src="/media/imgs/NTRechenberg/IMG_0181.webp" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0181.webp'" alt="Place of printing (Lipsiæ, Leipig), author and date of publishing." width="600" height="400">
 				</a>
 				<div class="desc">Place of printing author and date of publishing.</div>
 			</div>
@@ -101,8 +102,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0191.webp">
-					<img src="/media/imgs/NTRechenberg/IMG_0191.webp" alt="Closeup of illustration." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0191.jpg">
+					<img src="/media/imgs/NTRechenberg/IMG_0191.webp" alt="Closeup of illustration." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0191.webp'" alt="Closeup of illustration." width="600" height="400">
 				</a>
 				<div class="desc">Closeup of illustration.</div>
 			</div>
@@ -110,8 +111,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0195.webp">
-					<img src="/media/imgs/NTRechenberg/IMG_0195.webp" alt="Closeup of Bible quote on illustration." width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/IMG_0195.jpg">
+					<img src="/media/imgs/NTRechenberg/IMG_0195.webp" alt="Closeup of Bible quote on illustration." width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0195.webp'" alt="Closeup of Bible quote on illustration." width="600" height="400">
 				</a>
 				<div class="desc">Closeup of Bible quote on illustration.</div>
 			</div>
@@ -155,8 +156,8 @@
     <h3 id="book_preface">Prefaces and Prologues</h3>
 		<div class="responsive_2">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/preface/preface_1.webp">
-					<img src="/media/imgs/NTRechenberg/preface/preface_1.webp" alt="The preface of the first edition (in Latin)" width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/preface/preface_1.jpg">
+					<img src="/media/imgs/NTRechenberg/preface/preface_1.webp" alt="The preface of the first edition (in Latin)" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/preface/preface_1.webp'" alt="The preface of the first edition (in Latin)" width="600" height="400">
 				</a>
 				<div class="desc">The preface of the first edition (in Latin)</div>
 			</div>
@@ -164,8 +165,8 @@
 
 		<div class="responsive_2">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/preface/prologue_1.webp">
-					<img src="/media/imgs/NTRechenberg/preface/prologue_1.webp" alt="The prologue of Paul the Apostle" width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/preface/prologue_1.jpg">
+					<img src="/media/imgs/NTRechenberg/preface/prologue_1.webp" alt="The prologue of Paul the Apostle" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/preface/prologue_1.webp'" alt="The prologue of Paul the Apostle" width="600" height="400">
 				</a>
 				<div class="desc">The prologue of Paul the Apostle</div>
 			</div>
@@ -196,8 +197,8 @@
   <h3 id="book_map">The Map</h3>
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_1.webp">
-					<img src="/media/imgs/NTRechenberg/map/map_1.webp" alt="An overview of the map" width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_1.jpg">
+					<img src="/media/imgs/NTRechenberg/map/map_1.webp" alt="An overview of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_1.webp'" alt="An overview of the map" width="600" height="400">
 				</a>
 				<div class="desc">An overview</div>
 			</div>
@@ -205,8 +206,8 @@
     
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_2.webp">
-					<img src="/media/imgs/NTRechenberg/map/map_2.webp" alt="The name of the place being depicted" width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_2.jpg">
+					<img src="/media/imgs/NTRechenberg/map/map_2.webp" alt="The name of the place being depicted" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_2.webp'" alt="The name of the place being depicted" width="600" height="400">
 				</a>
 				<div class="desc">The region’s name</div>
 			</div>
@@ -214,8 +215,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_3.webp">
-					<img src="/media/imgs/NTRechenberg/map/map_3.webp" alt="A legend" width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_3.jpg">
+					<img src="/media/imgs/NTRechenberg/map/map_3.webp" alt="A legend" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_3.webp'" alt="A legend" width="600" height="400">
 				</a>
 				<div class="desc">The key of the map</div>
 			</div>
@@ -223,8 +224,8 @@
 
 		<div class="responsive">
 			<div class="gallery">
-				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_4.webp">
-					<img src="/media/imgs/NTRechenberg/map/map_4.webp" alt="Closeup of some of the map" width="600" height="400">
+				<a target="_blank" href="/media/imgs/NTRechenberg/map/map_4.jpg">
+					<img src="/media/imgs/NTRechenberg/map/map_4.webp" alt="Closeup of some of the map" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/map/map_4.webp'" alt="Closeup of some of the map" width="600" height="400">
 				</a>
 				<div class="desc">Closeup of the map</div>
 			</div>
@@ -232,8 +233,38 @@
 
     <p>One thing that immediately struck me and that had me fascinated from the beginning was a fold-out map hidden within one of Paul’s prologues. I was shocked at how well-preserved it was, considering how often it must have been folded and unfolded over the years; though I do confess I was particularly careful whilst handling it, for it felt as if it would rip apart if I so much as looked at it from an angle it did not deem worthy enough. </p>
 
-    <p>The map is very detailled and contains the names of countless regions and cities all over what it calls <q>Palæstina oder: Das Gelobte Land</q> (Palestine or: The Promised Land). The Mediterranean is also present and labelled as <q>Das Große oder Mitellændische Meer</q>, though it would nowadays usually be referred to simply as <q>Mittelmeer</q>.
-	</div>
+    <p>The map is very detailled and contains the names of countless regions and cities all over what it calls <q>Palæstina oder: Das Gelobte Land</q> (Palestine or: The Promised Land). The Mediterranean is also present and labelled as <q>Das Große oder Mitellændische Meer</q>, though it would nowadays usually be referred to simply as <q>Mittelmeer</q>.</p>
+
+    <p>Towns, mountains and various other things can be immediately identified by a small depiction of houses or a hill — and there are countless of these. Simply open the closeup image above and see for yourself.</p>
+
+    <p>Personally, I found it staggering that a fold-up map glued onto one of the pages of a 300 year-old book would be this detailled and well-preserved; and whilst there are, indeed, a handful of blemishes and holes, I would not have been able to guess its age correctly had I simply been shown the map without any context.</p>
+
+    <p>Furthermore, various numbers are placed all around certain locations on the map and the name of the place they are referring to can be found at the very bottom of the map; their names are, as is the rest of the map, written in German using a standard — for the time — blackletter typeface, most likely simply Fraktur (though I am, by no means, an expert on typefaces and their names).<a class="footnote" href="#footnote_3" id="footnote_3_ref">Note [3]</a></p>
+
+    <p>All in all, I must admit that I found the map one of the most interesting — if not <i>the</i> most interesting — parts of this book; its discovery was totally unexpected to me and I was most delighted to find this small piece of art work so well-preserved in this book.</p>
+
+    <p>I could probably continue adding remarks about this map and study it in details, but I fear it would simply make this already rather lengthy article even longer — why, even too long for what it is worth. Should I receive requests to cover this map in more detail, I shall; but for the time being, I will leave it at this.</p>
+
+    <h3 id="book_testament">The New Testament</h3>
+		<div class="responsive_2">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/nt/new_testament1.jpg">
+					<img src="/media/imgs/NTRechenberg/nt/new_testament1.webp" alt="The preface of the first edition (in Latin)" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/nt/new_testament1.webp'" alt="The preface of the first edition (in Latin)" width="600" height="400">
+				</a>
+				<div class="desc">The preface of the first edition (in Latin)</div>
+			</div>
+		</div>
+
+		<div class="responsive_2">
+			<div class="gallery">
+				<a target="_blank" href="/media/imgs/NTRechenberg/nt/new_testament2.jpg">
+					<img src="/media/imgs/NTRechenberg/nt/new_testament2.webp" alt="The prologue of Paul the Apostle" width="600" height="400" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/nt/new_testament2.webp'" alt="The prologue of Paul the Apostle" width="600" height="400">
+				</a>
+				<div class="desc">The prologue of Paul the Apostle</div>
+			</div>
+		</div>
+    <p>Why indeed, one may have already forgotten that the book we are currently discussing is a copy of the Greek New Testament; and as such, this is what makes up the bulk of the volume. Thus, we shall now briefly examine this particular edition of the New Testament, although I will not have much to remark about it — it is, quite simply put, an edition of the New Testament as most others and what makes it remarkable is what I have already discussed and what I shall — in later chapters — conntinue to discuss.</p>
+  	</div>
     
   <!-- Foonote stuff -->
   <div class="footnote">
@@ -241,6 +272,8 @@
     <p id="footnote_1">[1] Interestingly enough, the <a href="https://www.deutsche-biographie.de/pnd116373164.html">deutsche-biographie.de</a> website actually mentions some of his teachers’ names, which I found rather intriguing. Amongst these are Rappolt, Thomasius and Frankenstein (yes, indeed) who were teachers of the philosophical subjects;  and Scherzer, Kromayer and Geyer were teachers of theology. I was particularly surprised seeing the name of <i>Frankenstein</i> here. <a href="#footnote_1_ref">Back to text</a></p>
 
     <p id="footnote_2">[2] The word <q>Leusdeni</q> that appears here is, in actuality, the genitive form of the name <q>Leusden</q>, belonging to a very prominent Dutch theologian of the 17<sup>th</sup> century. His full name was Johannes Leusden and he wrote a substantial amount of books on the Bible and even published his own <i>Biblia Hebraica</i>. <a href="#footnote_2_ref">Back to text</a></p>
+
+    <p id="footnote_3">[3] There are, despite what many may believe, a large number of different blackletter typesfaces and which one was used depends on the year a certain publication was released and — I am sure — the preference of the author; I am also sure that certain printing presses only had one set of letters, so those had to be used no matter what the author would have preferred. Fraktur is one of the most popular German blackletter fonts and I am thus quite certain it is what has been used here as well; though it could also be Schwabacher. <a href="#footnote_3_ref">Back to text</a></p>
   </div>
 </body>
 
