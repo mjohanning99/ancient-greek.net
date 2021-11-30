@@ -15,7 +15,7 @@
 
 <div class="heading-greek">
   <h1>Adam Rechenberg’s New Testament</h1>
-  <h3></h3>
+  <h3>Ἡ τοῦ Ἀδάμ Ῥέχενβεργ Καινὴ Διαθήκη</h3>
   <i>Adam Rechenberg’s New Testament discussed in detail and with lots of illustrations</i>
   <img src="/media/imgs/NTRechenberg/IMG_0156.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" alt="" width="300" height="300">
 </div>
