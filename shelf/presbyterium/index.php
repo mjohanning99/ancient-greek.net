@@ -13,13 +13,11 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Old Ancient Greek Books — The Presbyterium</h1>
-  <h3 style="margin-bottom: 0;">Τὸ πρεσβυτέριον</h3>
+<div class="heading-greek">
+  <h1>Old Ancient Greek Books — The Presbyterium</h1>
+  <h3>Τὸ πρεσβυτέριον</h3>
   <i>The Presbyterium — The Council of Elders</i>
-  <br><br>
   <img src="/media/imgs/presbyterium.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/presbyterium.jpg'" alt="" width="300" height="300">
-  <br>
   <i>Libreria Bardón — PromoMadrid, author Max Alexander (CC BY-SA 2.0)</i>
 </div>
 

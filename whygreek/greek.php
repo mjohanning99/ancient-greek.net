@@ -14,10 +14,10 @@
   <?php include('../header.php'); ?><hr>
 </head>
 
-<div align="center">
-  <h1>Τὴν ἀρχαίαν Ἑλληνικὴν γλῶτταν δι’ ἃς αἰτίας μανθάνῃς;</h1>
+<div class="heading-greek">
+  <h1>Why should you study Ancient Greek?</h1>
+  <h3>Τὴν ἀρχαίαν Ἑλληνικὴν γλῶτταν δι’ ἃς αἰτίας μανθάνῃς;</h3>
   <i>Why should you study the Ancient Greek language?</i>
-  <br>
 </div>
 
 <body>

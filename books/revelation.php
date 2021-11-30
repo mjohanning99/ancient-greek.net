@@ -15,14 +15,12 @@
 <?php include('../header.php'); ?>
 <hr>
 
-<div align="center">
-    <img src="/media/imgs/coverrevelation.webp", width="250", height="300" onerror="this.onerror=null; this.src='coverrevelation.png'" alt="" width="250" height="300">
-    <br>
-    <span>The Apocalypse of John</span>
-    <br>
-    <i style="font-size: smaller;">A Modern Illustrated Translation with Notes and the Original Greek Text</i>
-    <br>
-    <span style="font-variant: small-caps;"><u>ISBN</u>: 978-3-7543-2897-2</span>
+<div class="heading-greek">
+  <h1>The Apocalypse of John — A Modern Translation</h1>
+  <h3>Ἡ Ἀποκάλυψις τοῦ Ἰωάννου — Μετάφρασις καινὴ ζωγράφημασι καὶ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>
+  <i>The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text</i>
+  <img src="/media/imgs/coverrevelation.webp", width="250", height="300" onerror="this.onerror=null; this.src='coverrevelation.png'" alt="" width="250" height="300">
+  <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-7543-2897-2</i>
 </div>
 
 <div class="column-center">

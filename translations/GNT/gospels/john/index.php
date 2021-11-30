@@ -13,14 +13,12 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Τὸ εὐαγγέλιον κατὰ Ἰωάννην</h1>
+<div class="heading-greek">
+  <h1>The Gospel of John — Translation and Transliteration</h1>
+  <h3>Τὸ εὐαγγέλιον κατὰ Ἰωάννην</h3>
   <i>The Gospel according to John</i>
-  <br><br>
   <img src="/media/imgs/GNT/gospels/johntheevangelist.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/johntheevangelist.jpg'" alt="" width="300" height="300">
-  <br>
   <i><q>St. John the Evangelist</q> — Vladimir Borovikovsky, 1804 - 1809</i>
-  <br>
 </div>
 
 <body>

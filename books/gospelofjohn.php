@@ -15,14 +15,12 @@
 <?php include('../header.php'); ?>
 <hr>
 
-<div align="center">
-    <img src="/media/books/gospelofjohn/images/tannerjesuswater.webp", width="250", height="300" onerror="this.onerror=null; this.src='/media/books/gospelofjohn/images/tannerjesuswater.jpg'" alt="" width="250" height="300">
-    <br>
-    <span>The Gospel of John</span>
-    <br>
-    <i style="font-size: smaller;">A Modern Translation with Notes and the Original Greek Text</i>
-    <br>
-    <span style="font-variant: small-caps;"><u>ISBN</u>: 978-3-XXXX-XXXX-X (TBD)</span>
+<div class="heading-greek">
+  <h1>The Gospel of John — A Modern Translation</h1>
+  <h3>Τὸ εὐαγγέλιον κατὰ Ἰωάννην — Μετάφρασις καινὴ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>
+  <i>The Apocalypse of John — A Modern Translation with Notes and the Original Greek Text</i>
+  <img src="/media/books/gospelofjohn/images/tannerjesuswater.webp", width="250", height="300" onerror="this.onerror=null; this.src='/media/books/gospelofjohn/images/tannerjesuswater.jpg'" alt="" width="250" height="300">
+  <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-XXXX-XXXX-X (TBD)</i>
 </div>
 
 <div class="column-center">

@@ -12,10 +12,10 @@
 <hr>
 </head>
 
-<div align="center">
-  <h1>Τὶ οὐκέτι μανθάνω τὴν τῆς Αἰγύπτου τῆς γλῶτταν;</h1>
+<div class="heading-greek">
+  <h1>Why am I no longer studying Ancient Greek?</h1>
+  <h3>Τὶ οὐκέτι μανθάνω τὴν τῆς Αἰγύπτου τῆς γλῶτταν;</h3>
   <i>Why am I no longer studying Ancient Egyptian?</i>
-  <br>
 </div>
 
 <body>

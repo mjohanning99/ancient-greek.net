@@ -13,10 +13,10 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Αἱ ἐπιστολαὶ Κλεοφίλου</h1>
+<div class="heading-greek">
+  <h1>Letters written in Ancient Greek</h1>
+  <h3>Αἱ ἐπιστολαὶ Κλεοφίλου</h3>
   <i>Marvin's letters</i>
-  <br><br>
 </div>
 
 <body>

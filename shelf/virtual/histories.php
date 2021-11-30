@@ -11,15 +11,12 @@
 <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Ἱστορίαι Ἡροδότου</h1>
-  <h3 style="margin-bottom: 0px;">Herodotus’ Histories</h3>
-  <i>Circa 450 BC</i>
-  <br><br>
+<div class="heading-greek">
+  <h1>Herodotus’ Histories — A Review</h1>
+  <h3>Ἱστορίαι Ἡροδότου</h3>
+  <i>Herodotus’ Histories — circa 450 BC</i>
   <img src="/media/imgs/herodhistories.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/herodhistories.jpg'" alt="" width="400" height="400">
-  <br>
   <i>… ὦτα γὰρ τυγχάνει ἀνθρώποισι ἐόντα ἀπιστότερα ὀφθαλμῶν …</i>
-  <br>
 </div>
 
 <body>

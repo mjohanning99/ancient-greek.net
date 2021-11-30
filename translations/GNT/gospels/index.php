@@ -13,14 +13,12 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Τὰ εὐαγγέλια Ἰησοῦ Χριστοῦ</h1>
+<div class="heading-greek">
+  <h1>The Gospels — Translation and Transliteration</h1>
+  <h3>Τὰ εὐαγγέλια Ἰησοῦ Χριστοῦ</h3>
   <i>The good news of Jesus Christ</i>
-  <br><br>
   <img src="/media/imgs/GNT/gospels/bedegospel.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/bedegospel.jpg'" alt="" width="300" height="300">
-  <br>
   <i><q>The Venerable Bede translating the Gospel of John on his deathbed</q> — J. Doyle Penrose, 1902</i>
-  <br>
 </div>
 
 <body>

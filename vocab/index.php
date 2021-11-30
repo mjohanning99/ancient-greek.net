@@ -13,10 +13,10 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Ὁι τῆς Ἑλληνικῆς γλώττης λόγοι παιδευθῆναι.</h1>
-  <i>To be taught the words of the Greek language.</i>
-  <br><br>
+<div class="heading-greek">
+  <h1>Ancient Greek Vocabulary Lists</h1>
+  <h3>Ὁι τῆς Ἑλληνικῆς γλώττης λόγοι παιδευθῆναι</h3>
+  <i>To be taught the words of the Greek language</i>
 </div>
 
 <body>

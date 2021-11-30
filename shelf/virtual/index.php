@@ -13,12 +13,11 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Τὰ βιβλία μου τὰ εἰκονικὰ τῷ τὴν γλῶτταν μαθεῖν καὶ ἀναγνῶσαι</h1>
+<div class="heading-greek">
+  <h1>My Ancient Greek Books (Digital)</h1>
+  <h3>Τὰ βιβλία μου τὰ εἰκονικὰ τῷ τὴν γλῶτταν μαθεῖν καὶ ἀναγνῶσαι</h3>
   <i>My virtual (false) books for learning and reading the language</i>
-  <br><br>
   <img src="/media/imgs/reimer_librarian.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/reimer_librarian.jpg'" alt="" width="250" height="250">
-  <br>
   <i>In the Library — 1850 – 1866, Georg Reimer</i>
 </div>
 

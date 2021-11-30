@@ -13,14 +13,12 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Αἱ καθολικαὶ ἐπιστολαί</h1>
+<div class="heading-greek">
+  <h1>The General Epistles — Translation and Transliteration</h1>
+  <h3>Αἱ καθολικαὶ ἐπιστολαί</h3>
   <i>The Catholic (or General) Epistles</i>
-  <br><br>
   <img src="/media/imgs/GNT/generalepistles/manwritingletter.webp", width="280", height="280" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/manwritingletter.jpg'" alt="" width="280" height="280">
-  <br>
   <i><q>Briefschrijvende jongeman bij geopend venster</q> — Gabriël Metsu, 1665</i>
-  <br>
 </div>
 
 <body>

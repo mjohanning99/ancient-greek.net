@@ -11,9 +11,10 @@
 <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Ἆρ’ ἀττικίζεις;</h1>
-  <h3>Do you speak Attic?</h3>
+<div class="heading-greek">
+  <h1>Sprechen Sie Attisch? — A Review</h1>
+  <h3>Ἆρ’ ἀττικίζεις;</h3>
+  <i>Do you speak Attic?</i>
 </div>
 
 <body>

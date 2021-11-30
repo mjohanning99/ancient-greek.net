@@ -13,13 +13,11 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Adam Rechenberg’s New Testament</h1>
-  <h3>Adam Rechenberg’s New Testament discussed in detail and with lots of illustrations</h3>
+<div class="heading-greek">
+  <h1>Adam Rechenberg’s New Testament</h1>
+  <h3></h3>
+  <i>Adam Rechenberg’s New Testament discussed in detail and with lots of illustrations</i>
   <img src="/media/imgs/NTRechenberg/IMG_0156.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" alt="" width="300" height="300">
-  <br>
-  <i></i>
-  <br>
 </div>
 
 <div class="column-center">

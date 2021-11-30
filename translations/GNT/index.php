@@ -13,14 +13,12 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Μετάφρασις Κλεοφίλου τῆς Καινῆς Διαθήκης</h1>
+<div class="heading-greek">
+  <h1>The Greek New Testament — Translation and Transliteration</h1>
+  <h3>Μετάφρασις Κλεοφίλου τῆς Καινῆς Διαθήκης</h3>
   <i>Marvin’s translation of the New Testament</i>
-  <br><br>
   <img src="/media/imgs/GNT/DoNotJudge.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/DoNotJudge.jpg'" alt="" width="250" height="250">
-  <br>
   <i>Do not judge, so that you will not, yourselves, be judged (Mat. 7:1).</i>
-  <br>
 </div>
 
 <body>

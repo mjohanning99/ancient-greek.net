@@ -7,20 +7,18 @@
   <meta name="description" content="A modern translation of the most suspenseful book of the New Testament: The Revelation">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <title>Revelation — Translation and Transliteration — ancient-greek.net</title>
+  <title>Revelation of John — Translation and Transliteration — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ Θεός …</h1>
+<div class="heading-greek">
+  <h1>The Revelation of John — Translation and Transliteration</h1>
+  <h3>Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ Θεός …</h3>
   <i>The Revelation of Jesus Christ, which God gave him …</i>
-  <br><br>
   <img src="/media/imgs/GNT/FourthAngel.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/FourthAngel.jpg'" alt="" width="250" height="250">
-  <br>
   <i>The Fourth Angel sounds his trumpet, Apocalypse 8 — circa 950. (Commentaria in Apocalypsin)</i>
-  <br>
 </div>
 
 <body>
