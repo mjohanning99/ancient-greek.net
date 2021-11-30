@@ -12,8 +12,9 @@
 <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">Συγγραφαὶ ἐμοῦ</h1>
+<div class="heading-greek">
+  <h1>Ancient Greek Documents</h1>
+  <h3>Συγγραφαὶ ἐμοῦ</h3>
   <i>My own writings</i>
   <br><br>
 </div>

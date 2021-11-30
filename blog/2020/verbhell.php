@@ -7,7 +7,7 @@
 <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
 
-<?php include('../header.php'); ?>
+<?php include('header.php'); ?>
 <hr>
 </head>
 

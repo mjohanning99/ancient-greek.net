@@ -52,10 +52,13 @@
     <p>On here you will find information regarding the books I physically own.</p>
 
     <h3><a href="shelf/virtual/index.php" class="menu">My virtual shelf</h3></a>
-    <p>On here you will find information regarding the books I own only <i>virtually</i>.</p>
+    <p>On here you will find information regarding the books I own only <i>virtually</i>. </p>
 
     <h3 class="new"><a href="shelf/presbyterium/index.php" class="menu">The Presbyterium</h3></a>
     <p>The Presbyterium (<q>The Council of Elders</q>) contains information about old and ancient books that I own.</p></h3>
+
+    <h3><a href="shelf/programs/index.php" class="denied">Programs and Apps</h3></a>
+    <p>This page contains information about useful programs or apps that I use that aid me in my learning of Ancient Greek. (WIP)</p></h3>
   </div>
 
   <div class="column">
