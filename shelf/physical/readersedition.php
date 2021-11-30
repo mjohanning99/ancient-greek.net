@@ -13,13 +13,11 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Τὴν Καινὴν Διαθήκην βοηθείᾳ γραμματικῇ ἀναγιγνωσκώμεθα!</h1>
-  <h3>Let us read the New Testament with grammatical help!</h3>
+<div class="heading-greek">
+  <h1>The Greek New Testament. A Reader’s Edition — Review</h1>
+  <h3>Τὴν Καινὴν Διαθήκην βοηθείᾳ γραμματικῇ ἀναγιγνωσκώμεθα!</h1>
+  <i>Let us read the New Testament with grammatical help!</i>
   <img src="/media/imgs/readers/gntreader1.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/readers/gntreader1.jpg'" alt="" width="400" height="400">
-  <br>
-  <i></i>
-  <br>
 </div>
 
 <body>

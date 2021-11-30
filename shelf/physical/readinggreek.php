@@ -11,11 +11,11 @@
 <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Τὸ τὴν Ἑλληνικὴν γλῶτταν ἀναγνῶσαι βοηθείᾳ γραμματικῇ</h1>
-  <h3>Reading Greek with grammatical help</h3>
-  <img src="/media/imgs/readingtext.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/readingtext.jpg'" alt="" width="400" height="400">
-  <br>
+<div class="heading-greek">
+  <h1>JACT’s Reading Greek — Review</h1>
+  <h3>Τὸ τὴν Ἑλληνικὴν γλῶτταν ἀναγνῶσαι βοηθείᾳ γραμματικῇ</h3>
+  <i>Reading Greek with grammatical help</i>
+  <img src="/media/imgs/readingtext.webp", width="401", height="400" onerror="this.onerror=null; this.src='/media/imgs/readingtext.jpg'" alt="" width="400" height="400">
 </div>
 
 <body>

@@ -11,13 +11,12 @@
 <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Τὴν Καινὴν Διαθήκην ἀναγιγνωσκώμεθα!</h1>
-  <h3>Let us read the New Testament!</h3>
+<div class="heading-greek">
+  <h1>Nestle-Aland’s Novum Testamentum Graece — Review</h1>
+  <h3>Τὴν Καινὴν Διαθήκην ἀναγιγνωσκώμεθα!</h3>
+  <i>Let us read the New Testament!</i>
   <img src="/media/imgs/novum/john.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/novum/john.jpg'" alt="" width="400" height="400">
-  <br>
   <i>The Gospel of John in its original language</i>
-  <br>
 </div>
 
 <body>

@@ -12,13 +12,11 @@
 <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Ἡ μετάφρασις τῶν Ἑβδομήκοντα</h1>
-  <h3>The Translation of the Seventy</h3>
+<div class="heading-greek">
+  <h1>Septuaginta: a Reader’s Edition — Review</h1>
+  <h3>Ἡ μετάφρασις τῶν Ἑβδομήκοντα</h3>
+  <i>The Translation of the Seventy</i>
   <img src="/media/imgs/septuaginta/septuaginta_both.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/septuaginta/septuaginta_both.jpg'" alt="" width="400" height="400">
-  <br>
-  <i></i>
-  <br>
 </div>
 
 <div class="column-center">

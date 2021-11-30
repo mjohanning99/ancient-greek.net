@@ -13,9 +13,10 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Τὸ σὺν τῷ βιβλίῳ ἐντόνῳ τῆς γλώττης μανθάνειν.</h1>
-  <h3>The studying of the language with the <i>intense book</i>.</h3>
+<div class="heading-greek">
+  <h1>Hansen and Quinn’s Greek, An Intensive Course</h1>
+  <h3>Τὸ σὺν τῷ βιβλίῳ ἐντόνῳ τῆς γλώττης μανθάνειν</h3>
+  <i>The studying of the language with the</i>
 </div>
 
 <body>

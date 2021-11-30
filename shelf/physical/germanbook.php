@@ -13,11 +13,11 @@
   <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Μετὰ βιβλίου τινὸς Γερμανίαθεν ταύτην τὴν γλῶτταν μὴ μάθῃς</h1>
-  <h3>Do not learn this language with some book from Germany</h3>
+<div class="heading-greek">
+  <h1>Gerhard Fink’s Die Griechische Sprache</h1>
+  <h3>Μετὰ βιβλίου τινὸς Γερμανίαθεν ταύτην τὴν γλῶτταν μὴ μάθῃς</h3>
+  <i>Do not learn this language with some book from Germany</i>
   <img src="/media/imgs/greekgerman/greekgerman6.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/greekgerman/greekgerman6.jpg'" alt="" width="400" height="400">
-  <br>
 </div>
 
 <body>

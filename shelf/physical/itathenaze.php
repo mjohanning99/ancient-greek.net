@@ -2,20 +2,21 @@
 <html>
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="description" content="A review of the Italian edition of Athenaze.">
+  <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-<title>The Italian Athenaze — ancient-greek.net</title>
-<?php include('header.php'); ?>
+  <title>The Italian Athenaze — ancient-greek.net</title>
+  <?php include('header.php'); ?>
 <hr>
 </head>
 
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Ἴωμεν Ἀθήναζε! Μετὰ βιβλίου τινὸς Ἰταλίαθεν τὴν γλῶτταν μανθάνωμεν;</h1>
-  <h3>Let's go to Athens! Should we be learning the language with a book from Italy?</h3>
+<div class="heading-greek">
+  <h1>Italian Athenaze — Review</h1>
+  <h3>Ἴωμεν Ἀθήναζε! Μετὰ βιβλίου τινὸς Ἰταλίαθεν τὴν γλῶτταν μανθάνωμεν;</h3>
+  <i>Let's go to Athens! Should we be learning the language with a book from Italy?</i>
   <img src="/media/imgs/athenazetitle.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/athenazetitle.jpg'" alt="" width="400" height="400">
-  <br>
 </div>
 
 <body>

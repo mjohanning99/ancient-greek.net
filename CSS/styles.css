@@ -614,3 +614,30 @@ div.desc {
   display: table;
   clear: both;
 }
+
+div.heading-greek {
+  text-align: center;
+}
+
+.heading-greek h1:nth-of-type(1) {
+  margin-bottom: 0px;
+}
+
+.heading-greek h3:nth-of-type(1) {
+  margin-bottom: 0px;
+}
+
+.heading-greek i:nth-of-type(1) {
+  content: "";
+  display: block;
+  height: 1em;
+  margin-bottom: 20px;
+}
+
+.heading-greek i:nth-of-type(2) {
+  content: "";
+  display: block;
+  height: 1em;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}

@@ -7,14 +7,15 @@
   <meta name="description" content="The Presbyterium — Reviews of books that are old (before 21st century).">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <title>The Presbyterium — ancient-greek.net</title>
+  <title>Old Ancient Greek Books — The Presbyterium — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
   <hr>
 </head>
 
 <div align="center">
-  <h1 style="margin-bottom: 0;">Τὸ πρεσβυτέριον</h1>
+  <h1 style="margin-bottom: 0;">Old Ancient Greek Books — The Presbyterium</h1>
+  <h3 style="margin-bottom: 0;">Τὸ πρεσβυτέριον</h3>
   <i>The Presbyterium — The Council of Elders</i>
   <br><br>
   <img src="/media/imgs/presbyterium.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/presbyterium.jpg'" alt="" width="300" height="300">
