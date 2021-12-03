@@ -22,25 +22,27 @@
 </div>
 
 <body>
-  <div class="row">
-    <div class="column-2">
-      <h2>The Apocalypse</h2>
-        <div class="article">
-          <p class="blocktext">The Apocalypse — an Ancient Greek word meaning <i>Revelation</i> — of John is probably one of the most suspenseful — if not the most suspenseful — book of the New Testament. It is filled to the brim with rather outworldly experiences and visions and includes many extraordinary figures and events, such as a dragon with seven heads and the Second Coming. </p>
+  <div class="column-center">
+    <div class="row">
+      <div class="column-2">
+        <h2>The Apocalypse</h2>
+          <div class="article">
+            <p class="blocktext">The Apocalypse — an Ancient Greek word meaning <i>Revelation</i> — of John is probably one of the most suspenseful — if not the most suspenseful — book of the New Testament. It is filled to the brim with rather outworldly experiences and visions and includes many extraordinary figures and events, such as a dragon with seven heads and the Second Coming. </p>
 
-          <p>The style in which it was written is a somewhat simple one and I have met a handful of people that outright claim the language of the Apocalypse to be outright bad; and whilst, indeed, it is not the most eloquently written Greek of the New Testament — if eloquence were an award it would, undoubtedly, be given to <i>Hebrews</i> — the exciting and suspenseful content make up for its lack of linguistic prestige.</p>
+            <p>The style in which it was written is a somewhat simple one and I have met a handful of people that outright claim the language of the Apocalypse to be outright bad; and whilst, indeed, it is not the most eloquently written Greek of the New Testament — if eloquence were an award it would, undoubtedly, be given to <i>Hebrews</i> — the exciting and suspenseful content make up for its lack of linguistic prestige.</p>
 
-          <p>And even though it is the very last book of the New Testament, because of the aforementioned peculiarities of it, I have decided to translate first of all.</p>
-  
-          <p>You can find more information about this spectacular book of the New Testament in my <a href="/blog/2021/apocalypseanalysis.php">Observations by an Intermediate Student</a>. The textual basis of the Ancient Greek text is from <a href="https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B9%CF%82_%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85">Wikisource.</a></p>
+            <p>And even though it is the very last book of the New Testament, because of the aforementioned peculiarities of it, I have decided to translate first of all.</p>
+    
+            <p>You can find more information about this spectacular book of the New Testament in my <a href="/blog/2021/apocalypseanalysis.php">Observations by an Intermediate Student</a>. The textual basis of the Ancient Greek text is from <a href="https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B9%CF%82_%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85">Wikisource.</a></p>
+          </div>
         </div>
+
+      <div class="column-2">
+        <h2>Get the book!</h2>
+          <div class="article">
+            <p>My translation of the Apocalypse of John has now been compiled into a book containing twenty-two full-page and full-colour illustrations, the original Greek text and my translation on opposite pages with aligned paragraphs — so that you can always and quickly refer to the original text without being lost — and a detailled introduction to John’s language. More information can be found <a href="/books/revelation.php">here</a>.
+          </div>
       </div>
-
-    <div class="column-2">
-      <h2>Get the book!</h2>
-        <div class="article">
-          <p>My translation of the Apocalypse of John has now been compiled into a book containing twenty-two full-page and full-colour illustrations, the original Greek text and my translation on opposite pages with aligned paragraphs — so that you can always and quickly refer to the original text without being lost — and a detailled introduction to John’s language. More information can be found <a href="/books/revelation.php">here</a>.
-        </div>
     </div>
   </div>
 </div>
