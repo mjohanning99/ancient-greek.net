@@ -17,7 +17,7 @@
   <h1>Programs for Studying Ancient Greek</h1>
   <h3></h3>
   <i></i>
-  <img src="/media/imgs/apps/heading.webp", width="320", height="320" onerror="this.onerror=null; this.src='/media/imgs/apps/heading.jpg'" alt="" width="300" height="300">
+  <img src="/media/imgs/apps/heading.webp", width="320", height="320" onerror="this.onerror=null; this.src='/media/imgs/apps/heading.jpg'" alt="" width="320" height="320">
   <i>My computer with a program for reading the Bible</i>
 </div>
 
@@ -29,6 +29,8 @@
 <div class="row">
   <div class="column">
     <h2>Reading</h2>
+    <h3><a href="#" class="denied">Attikos</a></h3>
+    <p>A great little program for iOS and M1 Macs that allows you to read a variety of Ancient Greek texts.</p>
   </div>
 
   <div class="column">
