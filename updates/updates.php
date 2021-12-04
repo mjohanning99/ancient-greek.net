@@ -35,6 +35,15 @@
 </div>
 
 <div class="article">
+  <h2>December 4, 2021 — A New Home</h2>
+  <figure style="width: 100%; border: none;">
+    <img src="/media/imgs/updates/newhome.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/newhome.jpg'" width="550" alt="">
+    <figcaption>My website’s new home</figcaption>
+  </figure><br>
+  <p>Following my recently having upgraded my Internet connection speed to 1 Gbit/s, I decided it was time to move away my website from a third-party hoster and host it myself — and I have now done so. It now resides on the Raspberry Pi you can see in the image just below this update’s title. I have always been someone to prefer independence — not only regarding my website but life in general — and decided that this would be the next logical step in my website’s achieving of independence from third parties. Unfortunately, I am, of course, still dependent on my ISP and the power grid, but I hope to add an additional layer of independence by adding a fallback Internet connection via LTE and a small power bank in case of a power outage. And whilst my current setup is, of course, by no means professional, I am hoping to build upon it and improve it with time so that, at the end, I shall have a mostly independent server setup.</p>
+
+  <p>Additionally, I have finally managed to add the first book to my <a href="/shelf/presbyterium/index.php">Presbyterium</a> and, thus, highly encourage you to read it. There are lots of images and a lot of things to read about the oldest book I have in my possession, dating from the beginning of the 17<sup>th</sup> century. Furthermore, I have begun working on a new <q>shelf</q>, which shall house various programs and apps I have found helpful in my learning of Ancient Greek.</p>
+
   <h2>November 28, 2021 — The WebP Revolution</h2>
   <p>I am constantly looking for new ways of optimising my website and have been toying with the idea of converting all my website’s images to WebP for quite a while now — and I have decided to finally go through with it. Those who use older browsers (or Safari on anything older than Big Sur) mustn’t fear, however, as I have put a fallback in place; this means that, if your browser is unable to display WebP images, it will fall back to the regular JPG image automatically. This ensures both maximum compatability whilst also ensuring that the majority of modern browsers will download the much more effecient WebP format instead, reducing both loading times and bandwidth usage.</p> 
 
