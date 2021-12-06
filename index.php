@@ -7,7 +7,7 @@
   <meta name="description" content="A website about all things Ancient Greek; from the Classical Period to the Byzantine. Original texts, lots of graphics, translations, book reviews &c.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <title>Agora (Home page) — ancient-greek.net</title>
+  <title>Agora (Home page) — ancient-greek.net (Ancient Greek)</title>
 
   <?php include('header.php'); ?>
   <hr>

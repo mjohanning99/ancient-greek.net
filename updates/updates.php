@@ -35,6 +35,12 @@
 </div>
 
 <div class="article">
+  <h2>December 6th, 2021 — Webrings</h2>
+  <p>Before I begin with my talking about webrings, I would like to address the Germans: </p>
+  <p>Fröhlichen Nikolaustag euch allen! Ich hoffe, es fand sich etwas Interessantes in euren Stiefeln — wenn ihr denn dieser Tradition noch folgt. Ich selbst hatte, aufgrund dessen, dass ich schon seit Längerem alleine wohne, weder einen Stiefel vor meine Tür gestellt noch irgendetwas vom Nikolaus erhalten. Ich schreibe das Update hier ausnahmsweise auf Deutsch, da ich mir unsicher bin, wie weitverbreitet das „Feiern“ des Nikolaustags im Rest der Welt ist.</p>
+  <p>With that out of the way — let’s talk about webrings. They used to be a rather popular method linking together websites that were, in one way or another, related to one another; and whilst they have become less and less popular over the years, there are still a variety of webrings still actively maintained – and I am planning on joining a couple.</p>
+  <p>As you may have noticed in this website’s footer, I have already successfully joined on of them, the <a href="http://yesterweb.org">Yesterweb Webring</a>. I am still trying to figure out a better way of adding the link to my website, but it shall reside in the footer for the time being until I can find a superior method of doing it.</p>
+  
   <h2>December 4, 2021 — A New Home</h2>
   <figure style="width: 100%; border: none;">
     <img src="/media/imgs/updates/newhome.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/newhome.jpg'" width="550" alt="">
