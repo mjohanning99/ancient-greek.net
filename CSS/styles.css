@@ -168,6 +168,7 @@
   font-family: 'Vollkorn';
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
   src: url('/CSS/fonts/vollkorn-v13-greek-regular.eot'); /* IE9 Compat Modes */
   src: local(''),
        url('/CSS/fonts/vollkorn-v13-greek-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -182,6 +183,7 @@
   font-family: 'Vollkorn';
   font-style: italic;
   font-weight: 400;
+  font-display: swap;
   src: url('/CSS/fonts/vollkorn-v13-greek-italic.eot'); /* IE9 Compat Modes */
   src: local(''),
        url('/CSS/fonts/vollkorn-v13-greek-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
