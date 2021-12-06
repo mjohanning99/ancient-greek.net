@@ -10,7 +10,11 @@
   <title>Agora (Home page) — ancient-greek.net (Ancient Greek)</title>
 
   <?php include('header.php'); ?>
-  <div class="separator greek-font"><img src="/media/icons/amphora.png" width="16px" height="16px" style="padding-bottom: 5px; padding-right: 2px;">ΕΛΛΗΝΙΖΩΜΕΝ, Ω ΦΙΛΕ ΜΟΥ<img src="/media/icons/amphora.png" width="16px" height="16px" style="padding-bottom: 5px; padding-left: 2px;"></div>
+  <div class="separator greek-font">
+    <img src="/media/icons/triskele.png">
+      ΕΛΛΗΝΙΖΩΜΕΝ, Ω ΦΙΛΕ ΜΟΥ
+    <img src="/media/icons/triskele.png">
+  </div>
 </head>
 
 <div align="center">
@@ -31,7 +35,11 @@
 </div>
 
 
-<div class="separator greek-font"><img src="/media/icons/grapes.png" width="16px" height="16px" style="padding-bottom: 5px; padding-right: 2px;">ΔΙΑΠΟΡΕΥΕ ΤΗΝ ΑΓΟΡΑΝ<img src="/media/icons/grapes.png" width="16px" height="16px" style="padding-bottom: 5px; padding-left: 2px;"></div>
+<div class="separator greek-font">
+  <img src="/media/icons/uvas.png">
+    ΔΙΑΠΟΡΕΥΕ ΤΗΝ ΑΓΟΡΑΝ
+  <img src="/media/icons/uvas.png">
+</div>
 
 
 <div class="row">
