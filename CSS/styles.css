@@ -57,6 +57,10 @@
   blockquote {
     background: #000000;
   }
+  .separator::before,
+  .separator::after {
+    border-bottom: 1px solid white;
+  }
 }
 
 /* Light mode */
@@ -67,6 +71,10 @@
 
   blockquote {
     background: #f9f9f9;
+  }
+  .separator::before,
+  .separator::after {
+    border-bottom: 1px solid #000;
   }
 }
 
@@ -689,7 +697,6 @@ div.heading-greek {
 .separator::after {
   content: '';
   flex: 1;
-  border-bottom: 1px solid #000;
 }
 
 .separator:not(:empty)::before {
