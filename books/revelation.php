@@ -60,6 +60,6 @@
 </div>
 
 
-<?php include('../footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </body>
 </html>

@@ -10,11 +10,13 @@
   <title>Agora (Home page) — ancient-greek.net (Ancient Greek)</title>
 
   <?php include('header.php'); ?>
-  <div class="separator greek-font">
+  <fieldset class="separator-styled radius">
+    <legend align="center">
     <img src="/media/icons/triskele.png">
       ΕΛΛΗΝΙΖΩΜΕΝ, Ω ΦΙΛΕ ΜΟΥ
     <img src="/media/icons/triskele.png">
-  </div>
+    </legend>
+  </fieldset>
 </head>
 
 <div align="center">
@@ -33,7 +35,6 @@
 
   <p>This website — as its name may have already made you realise — contains countless pages regarding the Ancient Greek language and country. <br>It is not, however, entirely focussed on the Classical Period of Greece (a period spanning roughly 200 years between the fifth and fourth centuries BC), but rather anything Greek-related spanning from the Classical Period up until the Byzantine. <br>The website’s main focus is the Ancient Greek language, however, and the majority of the information you find here will be about the language. For a more detailed overview, I would highly recommend you visit the <a href="about.php">About page</a>.</p>
 </div>
-
 
 <div class="separator greek-font">
   <img src="/media/icons/uvas.png">
@@ -120,6 +121,6 @@
 </body>
 
 <footer>
-  <?php include('footer.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </footer>
 </html>

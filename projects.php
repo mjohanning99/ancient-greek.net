@@ -11,15 +11,16 @@
   <title>My projects – ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <div class="separator">
-    <img src="/media/icons/amphora-2.png">
-      ΤΙ ΠΡΑΤΤΩ ΝΥΝ;
-    <img src="/media/icons/amphora-2.png">
-  </div>
+  <fieldset class="separator-styled radius">
+    <legend align="center">
+      <img src="/media/icons/amphora-2.png">
+        ΤΙ ΠΡΑΤΤΩ ΝΥΝ;
+      <img src="/media/icons/amphora-2.png">
+    </legend>
+  </fieldset>
 </head>
 
 <body>
-
 <div class="heading-greek">
     <h1>My projects</h1>
     <h3>Τίνες εἰσὶν ἁι βουλαί μου;</h3>
@@ -66,7 +67,7 @@
 </div>
 
 
-<?php include('footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 
 </body>
 </html>

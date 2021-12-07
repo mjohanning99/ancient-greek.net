@@ -11,11 +11,13 @@
   <title>Contact — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <div class="separator">
-    <img src="/media/icons/amphora.png">
-    ΔΙΑΛΕΓΩΜΕΝ
-    <img src="/media/icons/amphora.png">
-  </div>
+  <fieldset class="separator-styled radius">
+    <legend align="center">
+      <img src="/media/icons/amphora.png">
+        ΔΙΑΛΕΓΩΜΕΝ
+      <img src="/media/icons/amphora.png">
+    <legend align="center">
+  </fieldset>
 </head>
 
 <body>
@@ -60,6 +62,6 @@
   </div>
 </div>
 
-<?php include('footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </body>
 </html>

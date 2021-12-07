@@ -11,11 +11,13 @@
   <title>About — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <div class="separator">
-    <img src="/media/icons/grapes.png">
-      ΛΕΓΩ ΠΕΡΙ ΕΜΑΥΤΟΥ
-    <img src="/media/icons/grapes.png">
-  </div>
+  <fieldset class="separator-styled radius">
+    <legend align="center">
+      <img src="/media/icons/grapes.png">
+        ΛΕΓΩ ΠΕΡΙ ΕΜΑΥΤΟΥ
+      <img src="/media/icons/grapes.png">
+    </legend>
+  </fieldset>
 </head>
 
 <body>
@@ -69,7 +71,7 @@
 
   <p>I began my studies in the summer of 2020 and have been studying the language every day ever since. There is still a lot that I have to learn — and I doubt that I will ever learn <i>enough</i> —, but that is precisely what makes the Greek language so fascinating.</p>
 
-  <p>When I am not learning Greek, I like listening to music; working on my websites; watching TV (mostly documentaries or science fiction series, such as Babylon 5 or Star Trek); photography; reading (mostly old novels or science fiction); taking walks; and numerous other things. If you wish to read about some of my other hobbies, I highly encourage you to visit <a href="https://marvinjohanning.de">marvinjohanning.de</a>.
+  <p>When I am not learning Greek, I like listening to music; working on my websites; watching TV (mostly documentaries or science fiction series, such as Babylon 5 or Star Trek or some Anime); photography; reading (mostly old novels or science fiction); taking walks; and numerous other things. If you wish to read about some of my other hobbies, I highly encourage you to visit <a href="https://marvinjohanning.de">marvinjohanning.de</a>.
 </div>
 
 <div class="article">
@@ -125,7 +127,7 @@
   <p>The repository can be found <a href="https://github.com/mjohanning99/ancient-greek.net">on my GitHub</a> or on my self-hosted <a href="https://git.marvinjohanning.de/marvinjohanning/ancient-greek.net">Gitea instance</a>.</p>
 </div>
 
-<?php include('footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 
 </body>
 </html>

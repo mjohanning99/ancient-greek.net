@@ -61,6 +61,12 @@
   .separator::after {
     border-bottom: 1px solid white;
   }
+  .separator-styled {
+      border-color: solid white;
+  }
+  .separator-styled legend {
+    color: white;
+  }
 }
 
 /* Light mode */
@@ -75,6 +81,12 @@
   .separator::before,
   .separator::after {
     border-bottom: 1px solid #000;
+  }
+  .separator-styled {
+      border-color: #000;
+  }
+  .separator-styled legend {
+    color: #000;
   }
 }
 
@@ -393,7 +405,6 @@ img.thumbnail {
   font-family: Merriweather, Merriweather Sans; 
   box-sizing: border-box;
   /* cursor: url('/media/icons/quill.png'), auto; */
-  10140–1018F
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -576,6 +587,7 @@ q {
 q::before {
     content: open-quote;
 }
+
 q::after {
     content: close-quote;
 }
@@ -585,19 +597,11 @@ q::after {
   margin-right: auto;
 }
 
-.article h2 {
-  text-align: center;
-}
-
 .footnote h2 {
   text-align: center;
 }
 
-.article h3 {
-  text-align: center;
-}
-
-.article h4 {
+.article h2, .article h3, .article h4 {
   text-align: center;
 }
 
@@ -644,13 +648,6 @@ div.desc {
 	width: 49.9%;
 }
 
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
 @media only screen and (max-width: 500px) {
   .responsive {
     width: 49.999%;
@@ -668,11 +665,7 @@ div.heading-greek {
   text-align: center;
 }
 
-.heading-greek h1:nth-of-type(1) {
-  margin-bottom: 0px;
-}
-
-.heading-greek h3:nth-of-type(1) {
+.heading-greek h1:nth-of-type(1), .heading-greek h3:nth-of-type(1) {
   margin-bottom: 0px;
 }
 
@@ -713,19 +706,64 @@ div.heading-greek {
   font-family: "Vollkorn";
 }
 
-.separator img {
-  width: 18px;
-  padding-bottom: 5px;
-}
-
-.separator img.no {
+.separator-styled img {
   padding-bottom: 0px;
 }
 
-.separator img:nth-of-type(1) {
+.separator img {
+  padding-bottom: 5px;
+}
+
+img.no {
+  padding-bottom: 0px;
+}
+
+[class*="separator"] img {
+  width: 18px;
+}
+
+[class*="separator"] img:nth-of-type(1) {
   padding-right: 2px;
 }
 
-.separator img:nth-of-type(2) {
+[class*="separator"] img:nth-of-type(2) {
   padding-left: 2px;
+}
+
+[class*="separator"] {
+  font-family: "Vollkorn";
+}
+
+.separator-styled {
+    border-left: none;
+    border-right: none;
+    text-align: center;
+}
+
+.separator-styled.double {
+    border-style: double;
+    border-top-width: 6px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+.separator-styled legend {
+    padding-inline-start: 8px;
+    padding-inline-end: 8px;
+    background: transparent;
+    font-weight: normal;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Vollkorn";
+  }
+
+.separator-styled.radius {
+    border-bottom: none;
+    border-radius: 12px;
+}
+
+.separator-styled.test {
+  border-top: 0px;
+  border-radius: 12px;
 }

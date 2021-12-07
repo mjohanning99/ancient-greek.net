@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
@@ -11,11 +11,13 @@
   <title>Updates – ancient-greek.net</title>
 
   <?php include('../header.php'); ?>
-  <div class="separator">
-    <img src="/media/icons/mandolin.png">
-      ΑΝΑΓΙΓΝΟΣΚΩΜΕΝ ΤΑΣ ΑΓΓΕΛΙΑΣ 
-    <img src="/media/icons/mandolin.png">
-  </div>
+  <fieldset class="separator-styled radius">
+    <legend align="center">
+      <img src="/media/icons/mandolin.png">
+        ΑΝΑΓΙΓΝΟΣΚΩΜΕΝ ΤΑΣ ΑΓΓΕΛΙΑΣ 
+      <img src="/media/icons/mandolin.png">
+    </legend>
+  </fieldset>
 </head>
 
 <body>
@@ -153,7 +155,7 @@
   <p>I have also been working on SEO (Search Engine Optimisation) with tips I received by the helpful owner of <a href="https://koshka.love">Koshka’s Kingdom</a> and have been seeing some tiny impact already. Indeed, as I am using Cloudflare as my DNS, I am able to see how many unique vistors my site gets in a day — and that number has, since the site’s creation, been steadily growing. I am hoping that by the addition of meta tags and titles, I will be able to increase that number further.</p>
 </div>
 
-<?php include('../footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 
 </body>
 </html>
