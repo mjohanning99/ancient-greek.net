@@ -5,12 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
 <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
+<link rel="stylesheet" href="/CSS/styles.css">
 <title>Why am I no longer studying Ancient Egyptian?</title>
 
 <?php include('../header.php'); ?>
-<hr>
 </head>
+
+<fieldset class="separator-styled radius">
+  <legend align="center">
+    <img src="/media/icons/hieroglyphs.png">
+      Η ΓΛΩΤΤΗ ΤΗΣ ΑΙΓΥΠΤΟΥ
+    <img src="/media/icons/hieroglyphs.png">
+  </legend>
+</fieldset>
 
 <div class="heading-greek">
   <h1>Why am I no longer studying Ancient Egyptian?</h1>

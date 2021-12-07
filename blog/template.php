@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="/CSS/styles.css">
 
 <?php include('../header.php'); ?>
-<hr>
+
 </head>
 
 <div align="center">

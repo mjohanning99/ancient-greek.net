@@ -11,8 +11,16 @@
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
 
-  <?php include('../header.php'); ?><hr>
+  <?php include('../header.php'); ?>
 </head>
+
+<fieldset class="separator-styled radius">
+  <legend align="center">
+    <img src="/media/icons/grapes-2.png">
+      ΜΑΝΘΑΝΩΜΕΝ
+    <img src="/media/icons/grapes-2.png">
+  </legend>
+</fieldset>
 
 <div class="heading-greek">
   <h1>Why should you study Ancient Greek?</h1>

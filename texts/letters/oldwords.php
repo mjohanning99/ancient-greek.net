@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="/CSS/styles.css">
 <title>Fourth letter — About listening to the words of the Ancients — ancient-greek.net</title>
 <?php include('../header.php'); ?>
-<hr>
+
 </head>
 
 <div align="center">

@@ -10,7 +10,7 @@
   <title>Adam Rechenberg’s Greek New Testament (1736 ed.) — ancient-greek.net</title>
 
   <?php include('../header.php'); ?>
-  <hr>
+  
 </head>
 
 <div class="heading-greek">

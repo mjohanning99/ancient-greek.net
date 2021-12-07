@@ -10,7 +10,7 @@
   <title>Hansen & Quinn’s Greek, An Intensive Course — ancient-greek.net</title>
 
   <?php include("header.php"); ?>
-  <hr>
+  
 </head>
 
 <div class="heading-greek">

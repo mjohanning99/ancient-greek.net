@@ -9,7 +9,7 @@
 <title>Didache Translation — Chapter 2</title>
 
 <?php include('../header.php'); ?>
-<hr>
+
 </head>
 
 <div align="center">

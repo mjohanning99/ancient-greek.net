@@ -10,7 +10,7 @@
   <title>Learning Greek with a Random Book from the Library — ancient-greek.net</title>
 
   <?php include("header.php"); ?>
-  <hr>
+  
 </head>
 
 <div class="heading-greek">

@@ -8,3 +8,4 @@
   <li class="header"><a href="/blog/index.php">Blog — Overview</a> </li>
   <li class="header"><a href="/blog/2021/index.php">Blog — 2021</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

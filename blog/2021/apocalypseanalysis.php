@@ -9,7 +9,6 @@
 <title>An Amateur Analysis of the Apocalypse of John (Revelation) — Observations by an Intermediate Student</title>
 
 <?php include('header.php'); ?>
-<hr>
 </head>
 
 <div align="center">

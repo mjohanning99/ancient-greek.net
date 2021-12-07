@@ -7,3 +7,4 @@
   <br>
   <li class="header"><a href="/blog/index.php">Blog — Overview</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

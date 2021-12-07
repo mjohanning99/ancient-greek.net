@@ -8,3 +8,4 @@
   <li class="header"><a href="/translations/index.php">Translations — Overview</a> </li>
   <li class="header"><a href="/translations/didache/index.php">Translations — Didache</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

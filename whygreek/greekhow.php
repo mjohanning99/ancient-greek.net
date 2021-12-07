@@ -10,8 +10,15 @@
   <title>How to study the Ancient Greek language</title>
 
   <?php include('../header.php'); ?>
-  <hr>
 </head>
+
+<fieldset class="separator-styled radius">
+  <legend align="center">
+    <img src="/media/icons/grapes-2.png">
+      ΜΑΝΘΑΝΩΜΕΝ
+    <img src="/media/icons/grapes-2.png">
+  </legend>
+</fieldset>
 
 <div class="heading-greek">
   <h1>How to study Ancient Greek?</h1>

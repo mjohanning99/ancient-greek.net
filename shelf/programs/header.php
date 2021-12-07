@@ -7,3 +7,4 @@
   <br>
   <li class="header"><a href="/shelf/programs/index.php">Apps & Programs — Overview</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

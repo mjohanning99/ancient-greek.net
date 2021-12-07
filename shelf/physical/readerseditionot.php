@@ -9,7 +9,6 @@
 <title>Septuaginta — The Greek Old Testament — Reader’s Edition and General Overview — ancient-greek.net</title>
 
 <?php include('header.php'); ?>
-<hr>
 </head>
 
 <div class="heading-greek">

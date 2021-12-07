@@ -11,7 +11,6 @@
   <title>Links – ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
 </head>
 
 <body>

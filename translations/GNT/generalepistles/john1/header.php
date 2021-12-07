@@ -10,3 +10,4 @@
   <li class="header"><a href="/translations/GNT/generalepistles/index.php">Translations — General Epistles</a></li>
   <li class="header"><a href="/translations/GNT/generalepistles/john1/index.php">Translations — 1 John</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

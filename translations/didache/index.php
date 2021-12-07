@@ -9,7 +9,6 @@
 <title>The Didache — Translation and Transliteration — ancient-greek.net</title>
 
 <?php include('header.php'); ?>
-<hr>
 </head>
 
 <div class="heading-greek">

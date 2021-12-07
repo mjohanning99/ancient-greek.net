@@ -10,3 +10,4 @@
   <li class="header"><a href="/translations/GNT/gospels/index.php">Translations — Gospels</a></li>
   <li class="header"><a href="/translations/GNT/gospels/john/index.php">Translations — Gospel of John</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

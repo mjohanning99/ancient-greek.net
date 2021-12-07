@@ -9,3 +9,4 @@
   <li class="header"><a href="/translations/GNT/index.php">Translations — GNT</a></li>
   <li class="header"><a href="/translations/GNT/gospels/index.php">Translations — Gospels</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

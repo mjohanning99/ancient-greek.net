@@ -8,7 +8,6 @@
   <link rel="stylesheet" href="/CSS/styles.css">
 <title>JACT’s Reading Greek — ancient-greek.net</title>
 <?php include('header.php'); ?>
-<hr>
 </head>
 
 <div class="heading-greek">

@@ -10,7 +10,6 @@
   <title>Programs and Apps for Learning Ancient Greek — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
 </head>
 
 <div class="heading-greek">

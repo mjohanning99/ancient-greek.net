@@ -10,7 +10,6 @@
   <title>Marvin’s Greek Letters — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
 </head>
 
 <div class="heading-greek">

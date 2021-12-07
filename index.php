@@ -120,7 +120,5 @@
 </div>
 </body>
 
-<footer>
-  <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
-</footer>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>

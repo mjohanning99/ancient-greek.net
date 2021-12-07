@@ -10,7 +10,6 @@
   <title>The Epistles — Translation and Transliteration — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
 </head>
 
 <div class="heading-greek">

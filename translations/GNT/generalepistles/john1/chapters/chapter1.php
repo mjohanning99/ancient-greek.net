@@ -10,7 +10,7 @@
   <title>First Epistle of John Translation — Chapter 1</title>
 
   <?php include('../header.php'); ?>
-  <hr>
+  
 </head>
 
 <div align="center">

@@ -10,7 +10,7 @@
   <title>Revelation Translation — Chapter 16</title>
 
   <?php include('../header.php'); ?>
-  <hr>
+  
 </head>
 
 <div align="center">

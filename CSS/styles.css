@@ -442,6 +442,18 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px;
 }
 
+.column-4 {
+  text-align: center;
+  float: left;
+  width: 25%;
+  padding: 10px;
+  font-size: 13px;
+}
+
+.column-4 a {
+  font-size: 13px;
+}
+
 p.blocktext {
   margin-left: auto;
   margin-right: auto;
@@ -509,6 +521,16 @@ p.indent {
   }
   [class*="chapter"] {
     padding: 0px;
+  }
+  @media (prefers-color-scheme: dark) {
+    .column-4 {
+      border-bottom: 2px dotted white;
+    }
+  }
+  @media (prefers-color-scheme: light) {
+    .column-4 {
+      border-bottom: 2px dotted black;
+    }
   }
 }
 
@@ -735,35 +757,40 @@ img.no {
 }
 
 .separator-styled {
-    border-left: none;
-    border-right: none;
-    text-align: center;
+  border-left: none;
+  border-right: none;
+  text-align: center;
+  margin-top: 7px;
 }
 
 .separator-styled.double {
-    border-style: double;
-    border-top-width: 6px;
-    border-right-width: 0px;
-    border-bottom-width: 0px;
-    border-left-width: 0px;
+  border-style: double;
+  border-top-width: 6px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
 }
 
 .separator-styled legend {
-    padding-inline-start: 8px;
-    padding-inline-end: 8px;
-    background: transparent;
-    font-weight: normal;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: "Vollkorn";
-  }
+  padding-inline-start: 8px;
+  padding-inline-end: 8px;
+  background: transparent;
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Vollkorn";
+}
 
 .separator-styled.radius {
-    border-bottom: none;
-    border-radius: 12px;
+  border-bottom: none;
+  border-radius: 12px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 
 .separator-styled.test {
-  border-top: 0px;
+  border-top: none;
   border-radius: 12px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
 }

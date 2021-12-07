@@ -8,3 +8,4 @@
   <li class="header"><a href="/blog/index.php">Blog — Overview</a> </li>
   <li class="header"><a href="/blog/christianity/index.php">Blog — Christianity</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

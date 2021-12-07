@@ -2,19 +2,25 @@
 <html>
 
 <head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="On here you will find information about my book, a translation of the Apocalypse of John with plenty of notes and lots of illustrations.">
   <title>The Apocalypse of John: A Modern Translation — ancient-greek.net</title>
+  <?php include('../header.php'); ?>
 </head>
 
-<body>
-<?php include('../header.php'); ?>
-<hr>
+<fieldset class="separator-styled radius">
+  <legend align="center">
+    <img src="/media/icons/olympic-games.png">
+      ΤΗΝ ΜΕΤΑΦΡΑΣΙΝ ΜΟΥ ΑΝΑΓΙΓΝΩΣΚΩΜΕΝ
+    <img src="/media/icons/olympic-games.png">
+  </legend>
+</fieldset>
 
+<body>
 <div class="heading-greek">
   <h1>The Apocalypse of John — A Modern Translation</h1>
   <h3>Ἡ Ἀποκάλυψις τοῦ Ἰωάννου — Μετάφρασις καινὴ ζωγράφημασι καὶ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>

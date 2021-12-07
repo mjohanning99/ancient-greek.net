@@ -10,7 +10,6 @@
   <title>Musings, Articles and Blog — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
 </head>
 
 <div class="heading-greek">

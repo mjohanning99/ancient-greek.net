@@ -7,3 +7,4 @@
   <br>
   <li class="header"><a href="/shelf/virtual/index.php">Virtual Shelf — Overview</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

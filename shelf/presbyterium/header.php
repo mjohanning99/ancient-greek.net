@@ -7,3 +7,4 @@
   <br>
   <li class="header"><a href="/shelf/presbyterium/index.php">Presbyterium — Overview</a></li>
 </ul>
+<fieldset class="separator-styled radius"></fieldset>

@@ -11,7 +11,6 @@
 
 
   <?php include('header.php'); ?>
-  <hr>
 </head>
 
 <div align="center">

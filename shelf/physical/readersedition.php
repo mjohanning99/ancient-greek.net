@@ -10,7 +10,6 @@
   <title>The Greek New Testament. A Reader’s Edition — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
 </head>
 
 <div class="heading-greek">

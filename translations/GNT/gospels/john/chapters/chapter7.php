@@ -10,7 +10,7 @@
   <title>Gospel of John Translation — Chapter 7</title>
 
   <?php include('../header.php'); ?>
-  <hr>
+  
 </head>
 
 <div align="center">

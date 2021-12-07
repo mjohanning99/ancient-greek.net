@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="/CSS/styles.css">
 <title>Second letter — About languages #1 — ancient-greek.net</title>
 <?php include('../header.php'); ?>
-<hr>
+
 </head>
 
 <div align="center">

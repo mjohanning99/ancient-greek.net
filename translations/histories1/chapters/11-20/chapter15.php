@@ -9,7 +9,7 @@
 <title>Herodotus’ Histories Translation — Chapter 15</title>
 
 <?php include('../../header.php'); ?>
-<hr>
+
 </head>
 
 <div align="center">
