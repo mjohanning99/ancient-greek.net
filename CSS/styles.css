@@ -718,6 +718,10 @@ div.heading-greek {
   padding-bottom: 5px;
 }
 
+.separator img.no {
+  padding-bottom: 0px;
+}
+
 .separator img:nth-of-type(1) {
   padding-right: 2px;
 }

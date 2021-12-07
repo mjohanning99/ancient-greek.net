@@ -11,27 +11,36 @@
   <title>Updates – ancient-greek.net</title>
 
   <?php include('../header.php'); ?>
-  <hr>
+  <div class="separator">
+    <img src="/media/icons/mandolin.png">
+      ΑΝΑΓΙΓΝΟΣΚΩΜΕΝ ΤΑΣ ΑΓΓΕΛΙΑΣ 
+    <img src="/media/icons/mandolin.png">
+  </div>
 </head>
 
 <body>
 
-<div align="center">
-    <h1 style="margin-bottom: 0;">Updates</h1>
-    <h3 style="margin: 0;">May the territory expand</h3>
-    <br>
+<div class="heading-greek">
+    <h1>Updates</h1>
+    <h3>Αὐξανέτω ἡ ἀρχή</h3>
+    <i>May the territory expand</i>
     <img src="/media/imgs/atticredfigured.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" alt="" width="250" height="250">
-    <br>
     <i>Rider, Attic red-figured cup — Middle of 5<sup>th</sup> century BC</i>
 </div>
 
 <div class="row">
   <div class="article">
-    <h2 style="text-align: center;">Updates</h2>
+    <h2>Updates</h2>
     <p>On the following page you will find updates regarding the website and its content. The update appear in chronological order, with the latest update at the very top and earlier ones below it.</p>
 
     <p>I highly encourage you to check back here every so often so as to not miss out on new website features or content.</p>
   </div>
+</div>
+
+<div class="separator">
+  <img src="/media/icons/scroll.png" class="no">
+  ΑΙ ΑΓΓΕΛΙΑΙ
+  <img src="/media/icons/scroll.png" class="no">
 </div>
 
 <div class="article">

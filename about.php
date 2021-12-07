@@ -11,16 +11,20 @@
   <title>About — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
+  <div class="separator">
+    <img src="/media/icons/grapes.png">
+      ΛΕΓΩ ΠΕΡΙ ΕΜΑΥΤΟΥ
+    <img src="/media/icons/grapes.png">
+  </div>
 </head>
 
 <body>
 
-<div align="center">
-    <h1 style="margin-bottom: 0;">About ancient-greek.net</h1>
-    <br>
+<div class="heading-greek">
+    <h1>About ancient-greek.net</h1>
+    <h3>Γράφω λόγους περὶ τῆς ταύτης ἀρχῆς </h3>
+    <i>I write a few words about this realm</i>
     <img src="/media/imgs/menander_masks.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/menander_masks.jpg'" alt="" width="280" height="150">
-    <br>
     <i>Relief of a seated poet (Menander) with masks of New Comedy, 1st century B.C.</i>
 </div>
 
@@ -28,8 +32,8 @@
   <div class="row">
     <div class="column-2">
       <div class="article">
-        <h2 style="text-align: center;">About page</h2>
-        <p class="blocktext">Welcome to the About page. Here you will find some information about me, but also information about the website itself, why it was created, the types of texts and documents you might find, the reason behind its simplistic design and some information regarding the navigating through pages. If you wish to know more about my current projects, please visit the <a href="/projects.php">projects page</a>.</p>
+        <h2>About page</h2>
+        <p>Welcome to the About page. Here you will find some information about me, but also information about the website itself, why it was created, the types of texts and documents you might find, the reason behind its simplistic design and some information regarding the navigating through pages. If you wish to know more about my current projects, please visit the <a href="/projects.php">projects page</a>.</p>
       </div>
     </div>
     <div class="column-2">
@@ -49,6 +53,12 @@
       </div>
     </div>
   </div>
+</div>
+
+<div class="separator">
+  <img class="no" src="/media/icons/pottery.png">
+    Η ΑΡΧΗ ΜΟΥ
+  <img class="no" src="/media/icons/pottery.png">
 </div>
 
 <div class="article">

@@ -11,18 +11,20 @@
   <title>Contact — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
+  <div class="separator">
+    <img src="/media/icons/amphora.png">
+    ΔΙΑΛΕΓΩΜΕΝ
+    <img src="/media/icons/amphora.png">
+  </div>
 </head>
 
 <body>
-<div align="center">
-  <h1 style="margin-bottom: 0px;">Contact</h1>
-  <h3 style="margin: 0">Write me a letter or an email</h3>
-  <br>
+<div class="heading-greek">
+  <h1>Contact</h1>
+  <h3>Ἐπιστολὴν τινά μοι πέμπε</h3>
+  <i>Write me a letter or an email</i>
   <img src="/media/imgs/cossacks_letter.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/cossacks_letter.jpg'" alt="" width="300" height="300">
-  <br>
   <i>The Zaporozhye Cossacks Replying to the Sultan — 1878 – 1891, Ilya Repin</i>
-  <br>
 </div>
 
 <div class="column-center">
@@ -30,6 +32,12 @@
     <h2>Contact me</h2>
     <p>Below you will find some information about how you might get in touch with me. Due to the rather strict privacy laws in Germany — and my desire not to get into trouble —, I must ask you to carefully study the text below and be fully aware of the potential risks before you attempt to contact me.</p>
   </div>
+</div>
+
+<div class="separator">
+  <img class="no" src="/media/icons/hieroglyphs.png">
+    ΕΠΙΣΤΟΛΗΝ ΤΙΝΑ ΜΟΙ ΠΕΜΠΕ
+  <img class="no" src="/media/icons/hieroglyphs.png">
 </div>
 
 <div class="row">

@@ -11,27 +11,37 @@
   <title>My projects – ancient-greek.net</title>
 
   <?php include('header.php'); ?>
-  <hr>
+  <div class="separator">
+    <img src="/media/icons/amphora-2.png">
+      ΤΙ ΠΡΑΤΤΩ ΝΥΝ;
+    <img src="/media/icons/amphora-2.png">
+  </div>
 </head>
 
 <body>
 
-<div align="center">
-    <h1 style="margin-bottom: 0;">My projects</h1>
-    <br>
+<div class="heading-greek">
+    <h1>My projects</h1>
+    <h3>Τίνες εἰσὶν ἁι βουλαί μου;</h3>
+    <i>What are my projects?</i>
     <img src="/media/imgs/paul_writing.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/paul_writing.jpg'" alt="" width="280" height="150">
-    <br>
     <i>Saint Paul Writing His Epistles — 1618 – 1620, Valentin de Boulogne</i>
 </div>
 
 <div class="row">
   <div>
     <div class="article">
-      <h2 style="text-align: center;">Projects</h2>
-      <p class="blocktext">Indeed, what use is the learning of a foreign language if you do not use it to create something? This, at least, is what I believe; and, therefore, I work on several projects most of the time which relate to my study of the Ancient Greek language. This page contains information regarding the projects I am working on and the (approximate) date on which I began my work. I you have any suggestions or ideas, feel free to contact me and tell me!</p>
+      <h2>Projects</h2>
+      <p>Indeed, what use is the learning of a foreign language if you do not use it to create something? This, at least, is what I believe; and, therefore, I work on several projects most of the time which relate to my study of the Ancient Greek language. This page contains information regarding the projects I am working on and the (approximate) date on which I began my work. I you have any suggestions or ideas, feel free to contact me and tell me!</p>
       <p>Please note, however, that I do not work on my projects in any particular order; instead, I work on them as I feel like working on them.</p>
     </div>
   </div>
+</div>
+
+<div class="separator">
+  <img src="/media/icons/shield-1.png">
+    ΠΕΡΙ ΤΩΝ ΒΟΥΛΩΝ ΜΟΥ
+  <img src="/media/icons/shield-1.png">
 </div>
 
 <div class="column-center">
