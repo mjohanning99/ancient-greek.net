@@ -5,6 +5,7 @@
   </p>
   <hr>
   <?php include('webrings/yesterweb.php'); ?>
+  <?php include('webrings/hotline.php'); ?>
   <hr>
     <footer>Made by Marvin J. You can also find me on <a href="https://en.wiktionary.org/wiki/User:Numitr0n">Wiktionary</a> and <a href="https://git.marvinjohanning.de/marvinjohanning">git.marvinjohanning.de</a>
     <br><br>
