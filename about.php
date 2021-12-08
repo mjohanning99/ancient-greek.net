@@ -71,7 +71,9 @@
 
   <p>I began my studies in the summer of 2020 and have been studying the language every day ever since. There is still a lot that I have to learn — and I doubt that I will ever learn <i>enough</i> —, but that is precisely what makes the Greek language so fascinating.</p>
 
-  <p>When I am not learning Greek, I like listening to music; working on my websites; watching TV (mostly documentaries or science fiction series, such as Babylon 5 or Star Trek or some Anime); photography; reading (mostly old novels or science fiction); taking walks; and numerous other things. If you wish to read about some of my other hobbies, I highly encourage you to visit <a href="https://marvinjohanning.de">marvinjohanning.de</a>.
+  <p>When I am not learning Greek, I like listening to music (Klaus Schulze, Neuronium, 70s and 80s, classical music, Japanese city pop and a tonne more); working on my websites; watching TV (mostly documentaries or science fiction series, such as Babylon 5 or Star Trek or some Anime); photography; reading (mostly old novels or science fiction); taking walks; messing about with my server and computers in general (macOS and Linux); and numerous other things. I can speak German and English fluently and Swedish to a conversational level; I have, however, dabbled in a variety of other languages over the course of the past decade, so I can speak and understand a few things in a dozen or so other languages as well (Hindi, Russian, Spanish, French, Dutch etc.).</p>
+
+  <p>I encourage you to send me an email about whatever topic you would like to talk about, I read and reply to every email that I receive — in fact, I enjoy receiving them and replying to them. You can find information on how to contact me on the <a href="contact.php">Contact page</a>.</p>
 </div>
 
 <div class="article">
@@ -80,7 +82,7 @@
 
   <p>This way, it is possible for me to keep my regular and private website separate from my resources for Ancient Greek; and, additionally, the current domain name is much more easily recognisable as what it is — a website about Ancient Greek.</p>
 
-  <p>If you, however, wish to see the website in its old form, you can still find the archived version over on <a href="https://marvinjohanning.de/greek/index.php">marvinjohanning.de</a>; it will no longer be updated, though, and the information you find on there might be out-of-date — it simply exists as a sort of <i>curiosity</i>, so that you may see what this website looked like moments before its move to a separate domain.</p>
+  <p>If you, however, wish to see the website in its old form, you can find numerous snapshots of it over on the Wayback Machine. The earliest snapshot of the Greek portion which I was able to find dates to <a href="https://web.archive.org/web/20200920080314/marvinjohanning.de/greek/index.php">September 2020</a>; you will find that a lot has changed since then — and I hope it has changed for the better. Please note that I am no longer maintaining marvinjohanning.de and the website, instead, redirects to ancient-greek.net</p>
 
   <h3 id="content">Content</h3>
   <p>I tend to update this page at least once per week; frequently I update it even more often, but as I am, at times, rather busy — or do not know what to add — the amount of time it takes me to add something new might increase. Nevertheless, rest assured that the update frequency of this website will be kept as high as I am able to keep it; for, indeed, writing about Ancient Greek, in turn, allows me to actually learn the language better.</p>

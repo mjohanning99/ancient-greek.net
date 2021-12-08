@@ -11,6 +11,13 @@
   <title>Links – ancient-greek.net</title>
 
   <?php include('header.php'); ?>
+  <fieldset class="separator-styled radius">
+    <legend>
+      <img src="/media/icons/lyre.png">
+        ΕΙΣΕΛΘΕ ΕΙΣ ΑΛΛΑΣ ΑΡΧΑΣ
+      <img src="/media/icons/lyre.png">
+    </legend>
+  </fieldset>
 </head>
 
 <body>
