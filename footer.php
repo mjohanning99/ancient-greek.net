@@ -1,5 +1,5 @@
 <footer>
-  <fieldset class="separator-styled test"></fieldset>
+  <fieldset class="separator-styled footer"></fieldset>
   <div class="row">
     <div class="column-4">
       Made by Marvin J. You can also find me on: <br>

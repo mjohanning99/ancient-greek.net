@@ -10,7 +10,13 @@
   <title>Vocabulary — ancient-greek.net</title>
 
   <?php include('../header.php'); ?>
-  
+  <fieldset class="separator-styled radius">
+    <legend align="center">
+    <img src="/media/icons/uvas.png">
+      ΤΟΥΣ ΛΟΓΟΥΣ ΜΑΝΘΑΝΩΜΕΝ 
+    <img src="/media/icons/uvas.png">
+    </legend>
+  </fieldset>
 </head>
 
 <div class="heading-greek">

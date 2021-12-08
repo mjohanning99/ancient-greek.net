@@ -794,3 +794,10 @@ img.no {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+.separator-styled.footer {
+  border-top: none;
+  border-radius: 12px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

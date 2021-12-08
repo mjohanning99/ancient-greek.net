@@ -24,7 +24,7 @@
 
 <div class="heading-greek">
     <h1>About ancient-greek.net</h1>
-    <h3>Γράφω λόγους περὶ τῆς ταύτης ἀρχῆς </h3>
+    <h3>Γράφω λόγους τινὰς περὶ τῆς ταύτης ἀρχῆς </h3>
     <i>I write a few words about this realm</i>
     <img src="/media/imgs/menander_masks.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/menander_masks.jpg'" alt="" width="280" height="150">
     <i>Relief of a seated poet (Menander) with masks of New Comedy, 1st century B.C.</i>
@@ -92,7 +92,7 @@
     <figcaption><q>Creation</q> on the exterior (shutters) of The Garden of Earthly Delights — 1480 – 1490, Hieronymus Bosch</figcaption>
   </figure>
 
-  <p>I am also a great fan of images and visual content in general; you will, therefore, find a picture on virtually any page and most articles will contain several pictures relating to the topic being discussed within said article. I always take the utmost care, to make certain that every graphic I use can be used by me without any further issues; should you, however, find that an image you find hereon violates your — or someone else’s — copyright, then I would like to ask you to <a href="contact.php">send me an email</a>.</p>
+  <p>I am also a great fan of images and visual content in general; you will, therefore, find a picture on virtually any page and most articles will contain several pictures relating to the topic being discussed within said article. I always take the utmost care to make certain that every graphic I use can be used by me without any further issues; should you, however, find that an image you find hereon violates your — or someone else’s — copyright, then I would like to ask you to <a href="contact.php">send me an email</a>.</p>
 
   <h3 id="why">Why was the site created?</h3>
   <p>You might now understandably be wondering why anyone would create a website such as this one in the year 2021, where there exist a myriad of websites on every conceivable topic; and the majority of aforesaid websites have a much higher budget and a much bigger audience. Aside from my hating the majority of the modern Web and its focus on money, bloatedness and mobile-first approaches, I find that there needs to be more websites made as websites were made <i>in the days of old</i>.</p>
@@ -112,7 +112,7 @@
 
   <p>I also write every single piece of code powering the website myself — barring the occasional help I get from various friends whose knowledge of Web development is far greater than mine. I always want to know <i>exactly</i> how my website functions, not only because that makes maintaining it a much easier affair, but also because it means that I always know what data is collected — namely none.</p>
 
-  <p>It is hosted on a virtual server at present, but I do have plans of moving it to a small, dedicated server in my home, instead. However, due to problems with my connection type — DS-Lite —, I cannot easily have people access my internal network via IPv4; there are workarounds, but I have yet to get the time for me to be able to take a closer look at them.</p>
+  <p>This site used to be hosted on a virtual server by a German company called Strato; as I am, however, a fan of independence, I have, over time, moved my website to a Raspberry Pi 4 which is located in my apartment. Its relocating to my apartment took place shortly after my upgrading my Internet connection speed to 1 Gbit/s, ensuring that page load times are not impacted. The DNS I use is Cloudflare, which make it very easy to hide your actual IP address and which includes an IPv4 tunnel, so that those who do not have IPv6 can still access my IPv6-only website.</p>
 
   <h3 id="navigation">Navigation</h3>
   <p>Navigating the website should be a simple matter. The three buttons at the top take you to either the Agora and the Contact or About pages. The Agora serves as this site’s <q>menu</q> or <q>hub</q> and it is whither you should return if you wish to enter a different part of the site than the one you are currently dwelling within. The Agora’s pages are grouped into categories, which each have their own heading with two underlines. Below aforesaid headings, you find links to the different pages you can navigate to with a short description about what you might find therein underneath them.</p>
