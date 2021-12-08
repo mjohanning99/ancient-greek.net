@@ -8,7 +8,12 @@
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/projects.php</loc>
+		<loc>https://ancient-greek.net/about.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/links.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -18,12 +23,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/about.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/links.php</loc>
+		<loc>https://ancient-greek.net/projects.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -43,7 +43,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/documents/index.php</loc>
+		<loc>https://ancient-greek.net/blog/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -79,22 +79,27 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/privacy/privacy-policy.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/blog/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/programs/index.php</loc>
+		<loc>https://ancient-greek.net/documents/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/whygreek/greek.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/contact.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/programs/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -109,22 +114,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/physical/readerseditionot.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/index.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -139,12 +129,22 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/index.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/contact.php</loc>
+		<loc>https://ancient-greek.net/shelf/physical/readerseditionot.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/physical/readinggreek.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -159,17 +159,12 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/shelf/physical/readinggreek.php</loc>
+		<loc>https://ancient-greek.net/shelf/physical/novumtestamentum.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/shelf/physical/itathenaze.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/physical/novumtestamentum.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -189,27 +184,7 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/texts/letters/copper.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/texts/letters/language.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/texts/letters/language2.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/texts/letters/oldwords.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/didache/index.php</loc>
+		<loc>https://ancient-greek.net/blog/christianity/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -224,7 +199,32 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/blog/christianity/index.php</loc>
+		<loc>https://ancient-greek.net/privacy/privacy-policy.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/texts/letters/copper.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/texts/letters/language.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/texts/letters/oldwords.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/texts/letters/language2.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/didache/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -239,12 +239,12 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter3.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter2.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter2.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter3.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -264,16 +264,6 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter9.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter10.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
 		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter7.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
@@ -289,17 +279,12 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter9.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter12.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter15.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter13.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -309,32 +294,22 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter10.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter13.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter15.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter16.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter18.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter19.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter20.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter21.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -344,7 +319,112 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter1.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter19.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter18.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter21.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter20.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter1.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter2.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter3.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter4.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter5.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter6.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter7.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter8.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter9.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter12.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter11.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter10.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter13.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter14.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter15.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter16.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -354,7 +434,7 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter4.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter1.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -364,17 +444,22 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter5.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
 		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter2.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter7.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter4.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter5.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter6.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -384,7 +469,7 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter6.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter7.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -434,12 +519,12 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter18.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter21.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter19.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter18.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -449,107 +534,12 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter21.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter19.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter22.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter1.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter3.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter2.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter4.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter5.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter6.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter7.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter8.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter10.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter9.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter11.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter12.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter13.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter14.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter15.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter16.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/didache/chapters/chapter2.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/didache/chapters/chapter1.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -569,32 +559,7 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/didache/chapters/chapter3.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/blog/2020/unit4cond.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter1.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
 		<loc>https://ancient-greek.net/blog/2020/dictionarykeyboard.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter2.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/blog/2020/passivehell.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -604,17 +569,52 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/blog/2020/unit4cond.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/blog/2020/passivehell.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/didache/chapters/chapter1.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/didache/chapters/chapter2.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/didache/chapters/chapter3.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter1.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter2.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter3.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter4.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter5.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter5.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter4.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
