@@ -56,7 +56,7 @@
   </div>
   <div class="column-2">
     <h2>Contact details</h2>
-    <p>My email is marvin [at] anc!ient-gre!ek [dot] net</p>
+    <p>My email is marvin [at] ancient-greek [dot] net</p>
 
     <p>For security and privacy reasons, my email address has been written without any of the special symbols. Addtionally, two exclamation marks have been put into the URL; simply remove them. Therefore, if you are you sure want to contact me and you agree with the privacy statement, please replace the words in brackets with the appropriate symbol usually used in an email address.</p>
   </div>
