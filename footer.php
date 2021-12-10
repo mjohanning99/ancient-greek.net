@@ -18,6 +18,7 @@
     <div class="column-4">
       <?php include('webrings/hotline.php'); ?>
       <?php include('webrings/yesterweb.php'); ?>
+      <?php include('webrings/geekring.php'); ?>
     </div>
 
     <div class="column-4">
