@@ -86,14 +86,11 @@
 
 <div class="row">
   <div class="column">
-    <h2>Why Ancient Greek?</h2>
-    <h3><a href="whygreek/greek.php" class="menu">Why study Ancient Greek?</a></h3>
-    <p>Some details regarding what the reasons for my learning Ancient Greek — and ancient languages in general — are.</p>
+    <h2>Greek general</h2>
+    <h3><a href="greekgeneral/index.php" class="menu">General information about Greek</a></h3>
+    <p>This page contains general information on the Greek language, such as tips on how to study it, pronunciation guides and more.</p>
 
-    <h3><a href="whygreek/greekhow.php" class="menu">How to study Ancient Greek?</a></h3>
-    <p>Some information about my method of learning the language.</p>
-
-    <h3><a href="whygreek/egyptian.php" class="menu">What about Ancient Egyptian?</h3></a>
+    <h3><a href="greekgeneral/egyptian.php" class="menu">What about Ancient Egyptian?</h3></a>
     <p>My reasons for abandoning my study of Ancient Egyptian and, instead, focussing on Ancient Greek.</p>
   </div>
 
