@@ -5,6 +5,6 @@
   <li class="header"><a href="/updates/updates.php">Updates</a></li>
   <li class="header"><a href="/projects.php">Current projects</a></li>
   <br>
-  <li class="header"><a href="/shelf/physical/index.php">Greek General — Overview</a></li>
+  <li class="header"><a href="/greekgeneral/index.php">Greek General — Overview</a></li>
 </ul>
 <fieldset class="separator-styled radius"></fieldset>
