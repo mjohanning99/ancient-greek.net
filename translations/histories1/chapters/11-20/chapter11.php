@@ -4,6 +4,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
+<meta name="description" content="A modern and illustrated translation of Herodotus’ Histories">
 <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
 <title>Herodotus’ Histories Translation — Chapter 11</title>
