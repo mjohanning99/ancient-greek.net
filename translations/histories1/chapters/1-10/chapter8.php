@@ -12,13 +12,14 @@
 <?php include('../../header.php'); ?>
 
 </head>
+<body>
 
 <div align="center">
   <h1>Ἱστορίαι Ἡροδότου — η’</h1>
   <h3 style="margin-bottom: 0px;">Herodotus’ Histories — #8</h3>
 
   <ul class="menu">
-    <li class="menu"><a href="chapter7.php">Previous</li>
+    <li class="menu"><a href="chapter7.php">Previous</a></li>
     <li class="menu"><a href="chapter9.php">Next</a></li>
   </ul>
 

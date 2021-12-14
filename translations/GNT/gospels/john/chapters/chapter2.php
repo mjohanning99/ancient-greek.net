@@ -12,13 +12,14 @@
 <?php include('../header.php'); ?>
 
 </head>
+<body>
 
 <div align="center">
   <h1>Τὸ εὐαγγέλιον κατὰ Ἰωάννην — κεφάλαιον β’</h1>
   <h3 style="margin-bottom: 0px;">Gospel of John — #2</h3>
 
   <ul class="menu">
-    <li class="menu"><a href="chapter1.php">Previous</li>
+    <li class="menu"><a href="chapter1.php">Previous</a></li>
     <li class="menu"><a href="chapter3.php">Next</a></li>
   </ul>
 

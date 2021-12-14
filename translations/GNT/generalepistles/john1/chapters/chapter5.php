@@ -18,7 +18,7 @@
   <h3 style="margin-bottom: 0px;">First Epistle of John — #5</h3>
 
   <ul class="menu">
-    <li class="menu"><a href="chapter4.php">Previous</li></a>
+    <li class="menu"><a href="chapter4.php">Previous</a></li></a>
     <li class="menu">Next</li>
   </ul>
 

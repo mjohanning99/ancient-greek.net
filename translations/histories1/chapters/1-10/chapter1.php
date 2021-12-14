@@ -12,6 +12,7 @@
 <?php include('../../header.php'); ?>
 
 </head>
+<body>
 
 <div align="center">
   <h1 style="margin-bottom: 0px;">Ἱστορίαι Ἡροδότου — α’</h1>

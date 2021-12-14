@@ -12,6 +12,7 @@
   <?php include('../header.php'); ?>
   
 </head>
+<body>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον κβ’</h1>

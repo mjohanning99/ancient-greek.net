@@ -161,20 +161,6 @@
   font-display: swap;
 }
 
-/* gfs-didot-regular - greek */
-@font-face {
-  font-family: 'GFS Didot';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/gfs-didot-v10-greek-regular.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('../fonts/gfs-didot-v10-greek-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/gfs-didot-v10-greek-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/gfs-didot-v10-greek-regular.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/gfs-didot-v10-greek-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/gfs-didot-v10-greek-regular.svg#GFSDidot') format('svg'); /* Legacy iOS */
-}
-
 /* vollkorn-regular - greek */
 @font-face {
   font-family: 'Vollkorn';

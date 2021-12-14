@@ -12,13 +12,14 @@
   <?php include('../header.php'); ?>
   
 </head>
+<body>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον δ’</h1>
   <h3 style="margin-bottom: 0px;">Revelation of John — #4</h3>
 
   <ul class="menu">
-    <li class="menu"><a href="chapter3.php">Previous</li>
+    <li class="menu"><a href="chapter3.php">Previous</a></li>
     <li class="menu"><a href="chapter5.php">Next</a></li>
   </ul>
 

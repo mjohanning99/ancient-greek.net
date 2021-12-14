@@ -97,7 +97,7 @@
     <p>A website I am not good at describing; it has a tonne of interesting articles to read on various topics such as philosophy, science etc.</p>
 
     <h3><a class="menu" href="http://yesterweb.org">Yesterweb</a></h3>
-    <p><q>The Yesterweb is a community which acknowledges that today's internet is lacking in creativity, self-expression, and good digital social infrastructure</q> 
+    <p><q>The Yesterweb is a community which acknowledges that today's internet is lacking in creativity, self-expression, and good digital social infrastructure</q></p>
 
     <h3><a class="menu" href="http://geekring.net">Geekring</a></h3>
     <p><q>This is a webring for geeks of all sorts, except those who feel excluded by the use of the word geek. If you're a geek, this is for you.</q></p>
