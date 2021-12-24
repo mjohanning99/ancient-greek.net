@@ -7,6 +7,7 @@
   <meta name="description" content="A website about all things Ancient Greek; from the Classical Period to the Byzantine. Original texts, lots of graphics, translations, book reviews &c.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
+  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
   <title>Agora (Home page) — ancient-greek.net (Ancient Greek)</title>
 
   <?php include('header.php'); ?>

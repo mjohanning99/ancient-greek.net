@@ -7,6 +7,7 @@
   <meta name="description" content="Information on how to study Ancient Greek, pronunciation guides and more.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
+  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
   <title>Greek General — ancient-greek.net</title>
 
   <?php include('header.php'); ?>

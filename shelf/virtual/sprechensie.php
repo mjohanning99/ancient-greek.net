@@ -6,6 +6,7 @@
 <meta charset="utf-8">
 <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
+  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
 <title>Sprechen Sie Attisch? (Do you speak Attic?) — ancient-greek.net</title>
 <?php include('header.php'); ?>
 </head>

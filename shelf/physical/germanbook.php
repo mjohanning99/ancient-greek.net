@@ -7,6 +7,7 @@
   <meta name="description" content="A cautionary tale regarding the usage of random books for learning Ancient Greek; even though it might be tempting to just go to the library and get a book, results may vary.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
+  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
   <title>Learning Greek with a Random Book from the Library — ancient-greek.net</title>
 
   <?php include("header.php"); ?>

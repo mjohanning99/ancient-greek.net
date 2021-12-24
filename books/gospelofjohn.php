@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
+  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="On here you will find information about my book, a translation of the Gospel of John with plenty of notes and a few illustrations.">
   <title>The Gospel of John: A Modern Translation — ancient-greek.net</title>

@@ -7,6 +7,7 @@
   <meta name="description" content="A modern translation of the most suspenseful book of the New Testament: The Revelation">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
+  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
   <title>Revelation of John — Translation and Transliteration — ancient-greek.net</title>
 
   <?php include('header.php'); ?>

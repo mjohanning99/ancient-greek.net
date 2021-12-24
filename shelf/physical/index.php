@@ -7,6 +7,7 @@
   <meta name="description" content="Reviews of the books about and in Ancient Greek that I physically own.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
+  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
   <title>My Physical Shelf — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
