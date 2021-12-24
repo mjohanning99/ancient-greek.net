@@ -1,0 +1,78 @@
+:root {
+  --mybg:url('https://sadgrl.online/images/bgs/tile/gridnew.gif');
+  --myborder:3px double limegreen;
+  --mycolor:#fff;
+  --mylinkcolor:limegreen;
+  --mytitle:#fff;
+  --fontfamily:'Monster';
+  --bgcolor:#000;
+  --mywidth:150px;
+  --borderradius:0px;
+  --titlesize:15px;
+  --textsize:12px;
+  --textfamily:'Arial';
+  --padding:1rem;
+  --h1margin:5px;
+  --textmargin:10px;
+  --lineheight:1em;
+  --link-weight:bold;
+  --linksize:11px;
+  --link-decoration:none;
+  --link-family:sans-serif;
+}
+
+@font-face {
+  font-family: Monster;
+  src: url(https://yesterwebring.neocities.org/fonts/MonsterFriendFore.woff);
+}
+@font-face {
+  font-family: Minecraftia;
+  src: url(https://yesterwebring.neocities.org/fonts/Minecraftia-Regular.woff);
+}
+@font-face {
+  font-family: Bitmap;
+  src: url(https://sadgrl.online/fonts/ADD.TTF);
+}
+@font-face {
+  font-family: fivepx;
+  src: url(https://sadgrl.online/fonts/5x5.ttf);
+}
+.test {
+  font-family:'Monster' !important;
+  color:blue !important;
+}
+.webring {
+  background-image:var(--mybg);
+  background-color:var(--bgcolor);
+  border:var(--myborder);
+  padding:var(--padding); 
+  color:var(--mycolor);
+  text-align: center;
+  width:var(--mywidth);
+  height:var(--myheight);
+  border-radius:var(--borderradius);
+  line-height:var(--lineheight);
+}
+#copy h1 {
+  font-family:var(--fontfamily);
+  font-size:var(--titlesize);
+  line-height:20px;
+  letter-spacing:2px;
+  color:var(--mytitle);
+  margin:var(--h1margin);
+}
+#copy {
+font-family:var(--textfamily);
+font-size:var(--textsize);
+line-height:1em;
+}
+#copy a {
+color:var(--mylinkcolor);
+text-decoration:none;
+}
+#copy p {
+margin:var(--textmargin);
+}
+.icon {
+  font-size: 100px;
+}

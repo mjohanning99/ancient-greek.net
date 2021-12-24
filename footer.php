@@ -17,8 +17,11 @@
 
     <div class="column-4">
       <?php include('webrings/hotline.php'); ?>
-      <?php include('webrings/yesterweb.php'); ?>
+      <br>
       <?php include('webrings/geekring.php'); ?>
+      <br>
+      <?php include('webrings/retronauts.php'); ?>
+      <?php include('webrings/yesterweb.php'); ?>
     </div>
 
     <div class="column-4">

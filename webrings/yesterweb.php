@@ -1,4 +1,4 @@
-<script src="https://yesterwebring.neocities.org/script-text.js"></script>
+<script src="/webrings/yesterweb.js"></script>
 <webring-css site="https://ancient-greek.net/"></webring-css>
 <style>:root {
   --link-weight:strong;
