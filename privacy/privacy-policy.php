@@ -38,4 +38,7 @@
 <p>The legal basis for this data processing is Art. 6 Para. 1 lit. b) GDPR.</p>
 <p>Your data will be deleted once we have fully answered your inquiry and there is no further legal obligation to store your data, such as if an order or contract resulted therefrom.</p>
 
+<h4>Analytics</h4>
+<p>We make use of a privacy-respecting analytics software called <a href="https://plausible.io">Plausible</a>. It does not use any cookies or collect personal user data and is, hence, fully compliant with the European GDPR. The analytics dashboard is freely available (<a href="https://analytics.ancient-greek.net/ancient-greek.net">analytics.ancient-greek.net/ancient-greek.net</a>) and can be viewed by anyone interested in the data being collected. It is self-hosted on the same server as the rest of the website and your data, thus, never leaves the EU. The JS script that is used for the analytics can be viewed here: <a href="https://analytics.ancient-greek.net/js/plausible.js">https://analytics.ancient-greek.net/js/plausible.js</a>. For more information, you may view Plausible's own privacy policy under the following two links: <a href="https://plausible.io/privacy">https://plausible.io/privacy</a> and <a href="https://plausible.io/data-policy">https://plausible.io/data-policy</a>.
+
 <p><a href="https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html" target="_blank" rel="noopener">Model Data Protection Statement</a> for <a href="https://www.ratgeberrecht.eu/" target="_blank">Anwaltskanzlei Weiß &amp; Partner</a></p>
