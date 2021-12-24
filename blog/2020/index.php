@@ -7,7 +7,7 @@
   <meta name="description" content="Musings and articles about things in Ancient Greek — from 2020.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
+  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
   <title>Musings, Articles and Blog — ancient-greek.net</title>
 
   <?php include('header.php'); ?>

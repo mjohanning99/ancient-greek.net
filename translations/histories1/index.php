@@ -7,7 +7,7 @@
   <meta name="description" content="A modern translation of Herodotus’ Histories with a transliteration.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
+  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
   <title>Herodotus’ Histories — A translation — ancient-greek.net</title>
 
 <?php include('header.php'); ?>

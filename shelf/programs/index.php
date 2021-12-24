@@ -7,7 +7,7 @@
   <meta name="description" content="Interesting and useful programs and apps for various platforms that enhance your Ancient Greek learning experience.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://plausible.io/js/plausible.js"></script>
+  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
   <title>Programs and Apps for Learning Ancient Greek — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
