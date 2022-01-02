@@ -6,6 +6,8 @@
       <a href="https://en.wiktionary.org/wiki/User:Numitr0n">Wiktionary</a>
       <br>
       <a href="https://git.marvinjohanning.de/marvinjohanning">git.marvinjohanning.de</a>
+      <br>
+      <a href="https://marvinjohanning.de">marvinjohanning.de</a>
     </div>
 
     <div class="column-4">
