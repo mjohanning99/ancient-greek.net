@@ -58,7 +58,7 @@
       <a href="/media/books/revelation/revelation_eng.pdf">PDF e-book</a>
       <p class="tab">The e-book in PDF format (preferred e-book format)</p>
 
-      <a href="/media/books/revelation/revelation_ebook_eng.epub">EPUB e-book</a>
+      <a href="/media/books/revelation/revelation_eng.epub">EPUB e-book</a>
       <p class="tab">The e-book in EPUB format (not preferred, formatting issues)</p>
 
       <a href="/translations/GNT/apocalypse/index.php">Read online</a>
