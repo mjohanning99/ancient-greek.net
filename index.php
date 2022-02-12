@@ -68,7 +68,7 @@
     <h3><a href="shelf/virtual/index.php" class="menu">My virtual shelf</h3></a>
     <p>On here you will find information regarding the books I own only <i>virtually</i>. </p>
 
-    <h3 class="new"><a href="shelf/presbyterium/index.php" class="menu">The Presbyterium</h3></a>
+    <h3><a href="shelf/presbyterium/index.php" class="menu">The Presbyterium</h3></a>
     <p>The Presbyterium (<q>The Council of Elders</q>) contains information about old and ancient books that I own.</p></h3>
 
     <h3><a href="shelf/programs/index.php" class="denied">Programs and Apps</h3></a>
@@ -99,6 +99,9 @@
     <h2>My books</h2>
     <h3><a class="menu" href="books/revelation.php">The Apocalypse of John: A Modern Translation</a></h3>
     <p>My own translation of the Revelation of John with illustrations and notes.</p>
+
+    <h3 class="new"><a class="menu" href="books/revelation_english.php">John’s Revelation: A Modern Annotated Translation</a></h3>
+    <p>The English-only edition of my translation, containing nothing but the English text.</p>
 
     <h3><a class="menu" href="books/gospelofjohn.php">The Gospel of John: A Modern Translation</a></h3>
     <p>My own translation of the Gospel of John with notes.</p>
