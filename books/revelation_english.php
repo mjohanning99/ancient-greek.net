@@ -27,7 +27,8 @@
   <h3>John's Revelation</h3>
   <i>A Modern Annotated Translation</i>
   <img src="/media/imgs/coverrev_eng.webp", width="250", height="300" onerror="this.onerror=null; this.src='coverrev_eng.jpg'" alt="" width="250" height="300">
-  <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-7557-9152-2</i>
+  <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN</u>: 978-3-7557-9152-2</i>
+  <span><a href="https://commons.wikimedia.org/wiki/File:Carle_Hessay_-_The_Dark_Riders_(1971).jpg">Cover background image</span></a> (Carle Hessay, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>)
 </div>
 
 <div class="article">
