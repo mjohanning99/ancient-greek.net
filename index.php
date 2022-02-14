@@ -109,6 +109,9 @@
 
   <div class="column">
     <h2>Texts and miscellaneous</h2>
+    <h3 class="new"><a href="wordle/index.html" class="menu">Ancient Greek Wordle</a></h3>
+    <p>A version of Wordle using words from the Greek New Testament. Made by <a href="https://github.com/jtauber/gnt-wordle">James K. Tauber</a>.</p>
+
     <h3><a href="texts/index.php" class="menu">Letters</a></h3>
     <p>This page contains various <q>letters</q> I have written in the language.</p>
 

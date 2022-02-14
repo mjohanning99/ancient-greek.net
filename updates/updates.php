@@ -59,6 +59,9 @@
 </div>
 
 <div class="article">
+  <h2>February 14, 2022 — Wordle but in Ancient Greek</h2>
+  <p>Hello everyone and welcome to yet another update. Recently, I stumbled across a version of Wordle which uses words from the Greek New Testament and I was immediately in love with it. I haven’t actually played Wordle before, but this version obviously has the rather nice side-effect of your learning some Greek — and having to think in Greek. It was created by <a href="https://github.com/jtauber/gnt-wordle">James K. Tauber</a> who released the source code on GitHub. I highly recommend you check out the <a href="/wordle/index.html">Ancient Greek version of Wordle</a> and try your best at guessing today’s word!</p>
+  
   <h2>February 12, 2022 — A New Book!</h2>
   <figure style="width: 100%; border: none;">
     <img src="/media/imgs/updates/rev_eng.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/rev_eng.jpg'" width="550" alt="">
