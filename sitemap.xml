@@ -5,11 +5,48 @@
 <!-- created with Scrutiny from https://peacockmedia.software -->
 
 	<url>
-		<loc>https://ancient-greek.net</loc>
+		<loc>https://ancient-greek.net/</loc>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 		<image:image>
 		<image:loc>https://ancient-greek.net/media/icons/uvas.png</image:loc>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/uvas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/about.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/menander_masks.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/pottery.png</image:loc>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/pottery.png</image:loc>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/creationbosch.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/projects.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/paul_writing.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/shield-1.png</image:loc>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/shield-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -28,6 +65,196 @@
 		<image:image>
 		<image:loc>https://ancient-greek.net/media/imgs/atticredfigured.webp</image:loc>
 		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/scroll.png</image:loc>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/scroll.png</image:loc>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/updates/rev_eng.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/virtual/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/physical/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/presbyterium/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/greekgeneral/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/documents/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/programs/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/blog/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/greekgeneral/egyptian.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/books/revelation.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/coverrevelation.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/vocab/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/wordle/index.html</loc>
+		<lastmod>2022-02-14</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/books/gospelofjohn.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/books/gospelofjohn/images/tannerjesuswater.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/books/revelation_english.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/coverrev_eng.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://commons.wikimedia.org/wiki/File:Carle_Hessay_-_The_Dark_Riders_(1971).jpg</image:loc>
+		<image:title>Cover background image</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/texts/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/privacy/privacy-policy.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/contact.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/cossacks_letter.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/hieroglyphs.png</image:loc>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/hieroglyphs.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/impressum.html</loc>
+		<lastmod>2021-11-28</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/physical/readersedition.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/readers/gntreader2.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/shelf/physical/readerseditionot.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/manandwoman.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/title.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/psalms.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/apparatus.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/updates/archive/2021.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/atticredfigured.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/icons/scroll.png</image:loc>
 		</image:image>
 		<image:image>
 		<image:loc>https://ancient-greek.net/media/icons/scroll.png</image:loc>
@@ -54,190 +281,35 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/about.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/menander_masks.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/icons/pottery.png</image:loc>
-		</image:image>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/creationbosch.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/projects.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/paul_writing.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/icons/shield-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/physical/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/virtual/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/presbyterium/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/programs/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/documents/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/blog/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/greekgeneral/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/books/gospelofjohn.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/books/gospelofjohn/images/tannerjesuswater.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/greekgeneral/egyptian.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/books/revelation.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/coverrevelation.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/texts/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/vocab/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/privacy/privacy-policy.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/impressum.html</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/contact.php</loc>
+		<loc>https://ancient-greek.net/shelf/virtual/sprechensie.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/cossacks_letter.webp</image:loc>
-		<image:title> </image:title>
+		<image:loc>https://ancient-greek.net/media/imgs/sprechensie/sprechensie2.webp</image:loc>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/icons/hieroglyphs.png</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/sprechensie/sprechensie4.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/shelf/physical/readersedition.php</loc>
+		<loc>https://ancient-greek.net/shelf/virtual/histories.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/readers/gntreader2.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/histories1/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/physical/readerseditionot.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/manandwoman.webp</image:loc>
-		<image:title> </image:title>
+		<image:loc>https://ancient-greek.net/media/imgs/herodold.webp</image:loc>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/title.webp</image:loc>
-		<image:title> </image:title>
+		<image:loc>https://ancient-greek.net/media/imgs/battleofsalamis.webp</image:loc>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/psalms.webp</image:loc>
-		<image:title> </image:title>
+		<image:loc>https://ancient-greek.net/media/imgs/herodbust.webp</image:loc>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/septuaginta/apparatus.webp</image:loc>
-		<image:title> </image:title>
+		<image:loc>https://ancient-greek.net/media/imgs/herodhistories20.webp</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/shelf/physical/hq.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/shelf/physical/readinggreek.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -261,6 +333,11 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/shelf/physical/readinggreek.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/shelf/physical/novumtestamentum.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -269,31 +346,39 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/shelf/virtual/histories.php</loc>
+		<loc>https://ancient-greek.net/greekgeneral/greek.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/herodold.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/platoathens.webp</image:loc>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/battleofsalamis.webp</image:loc>
+		<image:loc>https://commons.wikimedia.org/wiki/File:Acad%C3%A9mie_de_Platon_-_Mosaique_romaine_-_Naples_MANN_124545.webp</image:loc>
+		<image:title>wikimedia</image:title>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/herodbust.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/libraryofalexandria.webp</image:loc>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/herodhistories20.webp</image:loc>
+		<image:loc>https://en.wikipedia.org/wiki/File:Ancientlibraryalex.webp</image:loc>
+		<image:title>wikimedia</image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/shelf/virtual/sprechensie.php</loc>
+		<loc>https://ancient-greek.net/greekgeneral/greekhow.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/sprechensie/sprechensie2.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/notesgreek.webp</image:loc>
+		<image:title> </image:title>
 		</image:image>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/sprechensie/sprechensie4.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/verb.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/athenazenatural.webp</image:loc>
+		<image:title> </image:title>
 		</image:image>
 	</url>
 	<url>
@@ -418,16 +503,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/media/docs/GreekNotes_1.pdf</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/media/docs/GreekNotes_2.pdf</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-	</url>
-	<url>
 		<loc>https://ancient-greek.net/blog/christianity/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
@@ -438,53 +513,25 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/media/docs/GreekNotes_2.pdf</loc>
+		<lastmod>2021-10-31</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/blog/2020/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/media/books/gospelofjohn/preview.pdf</loc>
+		<loc>https://ancient-greek.net/media/docs/GreekNotes_1.pdf</loc>
+		<lastmod>2021-10-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/greekgeneral/greek.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/platoathens.webp</image:loc>
-		</image:image>
-		<image:image>
-		<image:loc>https://commons.wikimedia.org/wiki/File:Acad%C3%A9mie_de_Platon_-_Mosaique_romaine_-_Naples_MANN_124545.webp</image:loc>
-		<image:title>wikimedia</image:title>
-		</image:image>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/libraryofalexandria.webp</image:loc>
-		</image:image>
-		<image:image>
-		<image:loc>https://en.wikipedia.org/wiki/File:Ancientlibraryalex.webp</image:loc>
-		<image:title>wikimedia</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/greekgeneral/greekhow.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.3</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/notesgreek.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/verb.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/athenazenatural.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/media/books/revelation/revelation.pdf</loc>
+		<lastmod>2021-11-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -494,7 +541,8 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/texts/letters/language.php</loc>
+		<loc>https://ancient-greek.net/media/books/gospelofjohn/preview.pdf</loc>
+		<lastmod>2021-10-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -504,7 +552,18 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/texts/letters/oldwords.php</loc>
+		<loc>https://ancient-greek.net/texts/letters/language.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/media/books/revelation/revelation_eng.pdf</loc>
+		<lastmod>2022-02-12</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/index.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -514,114 +573,9 @@
 		<priority>0.3</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter1.php</loc>
+		<loc>https://ancient-greek.net/texts/letters/oldwords.php</loc>
 		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter2.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter3.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter4.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter5.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter6.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter7.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter8.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter9.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter10.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter11.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter12.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter13.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter14.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter15.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter16.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter17.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter18.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter19.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter20.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter21.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/gospels/index.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
+		<priority>0.3</priority>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter1.php</loc>
@@ -695,15 +649,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter8.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/herodotus/GygesTablet.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter9.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
@@ -726,15 +671,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter11.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/herodotus/GymnasiumSardisInside.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter12.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
@@ -744,6 +680,15 @@
 		<image:image>
 		<image:loc>https://commons.wikimedia.org/wiki/File:Map_of_Lydia_ancient_times-el.svg</image:loc>
 		<image:title>Wolfymoza</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/11-20/chapter11.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/herodotus/GymnasiumSardisInside.webp</image:loc>
+		<image:title> </image:title>
 		</image:image>
 	</url>
 	<url>
@@ -791,7 +736,121 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/translations/histories1/chapters/1-10/chapter8.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/herodotus/GygesTablet.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter2.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter1.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter5.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter6.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter7.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter9.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter11.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter10.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter13.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter14.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter15.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter16.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter17.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter18.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter19.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter20.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter21.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter8.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter3.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter4.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/john/chapters/chapter12.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -813,11 +872,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter3.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter2.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/laodicealetter.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/ephesuschurch.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -831,20 +890,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter2.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter6.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/ephesuschurch.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter4.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/christpantokrator.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/deathpalehorse.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -858,20 +908,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter6.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter3.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/deathpalehorse.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter7.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/engelmitsiegel.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/laodicealetter.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -885,6 +926,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter4.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/christpantokrator.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter9.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
@@ -894,29 +944,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter10.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter7.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/angelbook.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter11.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/twowitnesses.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter12.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/dragonwomansun.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/engelmitsiegel.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -930,11 +962,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter14.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter12.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/harvestoftheworld.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/dragonwomansun.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -948,11 +980,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter16.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter18.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/bowleuphrates.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/fallenbabylon.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -966,11 +998,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter18.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter20.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/fallenbabylon.webp</image:loc>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/satanfire.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -980,15 +1012,6 @@
 		<priority>0.2</priority>
 		<image:image>
 		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/angelstandinginthesun.webp</image:loc>
-		<image:title> </image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter20.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-		<image:image>
-		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/satanfire.webp</image:loc>
 		<image:title> </image:title>
 		</image:image>
 	</url>
@@ -1011,6 +1034,47 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter14.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/harvestoftheworld.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter11.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/twowitnesses.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter10.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/angelbook.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/translations/GNT/apocalypse/chapters/chapter16.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+		<image:image>
+		<image:loc>https://ancient-greek.net/media/imgs/GNT/revtrans/bowleuphrates.webp</image:loc>
+		<image:title> </image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/greekgeneral/greek_old.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/blog/2020/beginning.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
@@ -1021,22 +1085,7 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/blog/2020/verbhell2.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/blog/2020/dictionarykeyboard.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
 		<loc>https://ancient-greek.net/blog/2020/unit4xenophon.php</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/blog/2020/unit4cond.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -1046,22 +1095,29 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/greekgeneral/greek_old.php</loc>
+		<loc>https://ancient-greek.net/blog/2020/unit4cond.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/blog/2020/verbhell2.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/media/docs/letters/letter1.pdf</loc>
+		<lastmod>2021-10-31</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/blog/2020/dictionarykeyboard.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://ancient-greek.net/media/docs/letters/letter2.pdf</loc>
-		<changefreq>weekly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>https://ancient-greek.net/media/docs/letters/letter4.pdf</loc>
+		<lastmod>2021-10-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -1076,7 +1132,18 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
+		<loc>https://ancient-greek.net/translations/GNT/gospels/index.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://ancient-greek.net/translations/didache/chapters/chapter3.php</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://ancient-greek.net/media/docs/letters/letter4.pdf</loc>
+		<lastmod>2021-10-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -1091,12 +1158,12 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter3.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter4.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter4.php</loc>
+		<loc>https://ancient-greek.net/translations/GNT/generalepistles/john1/chapters/chapter3.php</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
