@@ -105,6 +105,9 @@
 
     <h3><a class="menu" href="books/gospelofjohn.php">The Gospel of John: A Modern Translation</a></h3>
     <p>My own translation of the Gospel of John with notes.</p>
+
+    <h3><a class="menu" href="books/intricacies.php">The Intricacies of Ancient Egyptian Hieroglpyhics</a></h3>
+    <p>A book teaching you the basics of Ancient Egyptian.</p>
   </div>
 
   <div class="column">

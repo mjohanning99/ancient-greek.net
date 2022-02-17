@@ -53,6 +53,11 @@
     <p>Let us, however, continue and explore the various ways of pronouncing Ancient Greek which I personally believe to be the most eloquent methods of doing so. Others may — and are, certainly, allowed to — disagree with me and the definition of <q>eloquent</q> is rather subjective, too. Therefore, please be aware that everything I will discuss below reflects my personal opinion and is, in no way supposed to reflect the most <q>ideal</q> or <q>correct</q> method of doing it. I am simply proposing them as an improvement over the current system.</p>
   </div>
 
+  <div class="article">
+    <h2>The pronunciations</h2>
+    <p>As previously mentioned, the most commonly-taught pronunciation of Ancient Greek is the so-called Erasmian pronunciation — at least in most Western countries that I know of. It somewhat resembles the pronunciation of Athenian Ancient Greek during the classical period, but with a few differences. 
+  </div>
+
   <div class="footnote">
     <h2>Footnotes</h2>
     <p id="footnote_1">[1] If you are interested in Ancient Egyptian hieroglyphics, I would like to recommend my book to you, The Intricacies of Ancient Egyptian Hieroglpyhics. Additionally, if you are interested in learning more about Sumerian, I cannot recommend Irving Finkel’s lectures and talks enough. They are delightful to watch not only because of the interesting content but also because of the often rather humerous speaker. <a href="#footnote_1_ref">Back to text</a></p>
