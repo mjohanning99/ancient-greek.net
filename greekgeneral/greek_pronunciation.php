@@ -19,6 +19,8 @@
   <h1>How to pronounce Ancient Greek?</h1>
   <h3>Τὴν ἀρχαίαν Ἑλληνικὴν γλῶτταν πῶς φθέγγῃ;</h3>
   <i>How should you pronounce the Ancient Greek language?</i>
+  <img src="/media/imgs/general/pronunciation_1_resize.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_1_resize.jpg'" alt="" width="400" height="400">
+    <i>Part of the pronunciation guide found in Hansen and Quinn’s <q>Greek: An Intensive Course</q></i>
 </div>
 
 <body>
@@ -44,18 +46,26 @@
     <h2>Problems with what is commonly taught</h2>
     <p>Unfortunately, the commonly taught so-called Erasmian pronunciation (which received its name from its inventor, the Dutch theologian and philospher Erasmus of Rotterdam) is nothing of the sort, as it is filled with anachronisms that turn it into a monster which would not have existed at any point of time during the language’s natural life. Pupils are not encouraged to break from their native tongue’s phonology, leading to many varieties of ear torture.</p>
       
+    <figure style="float: right; margin-top: 0px;">
+      <img src="/media/imgs/general/pronunciation_oxford.webp" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_oxford.jpg'" alt="">
+      <figcaption>Pronunciation guide from Oxford’s Pocket Classical Greek Dictionary.</figcaption>
+    </figure>
     <p>Indeed, the worst offender I have, as of today, seen was a Bible app I found for my phone. It is a great app and I use it frequently and it consists of videos of Bible passages being read and <q>dissected</q> so that they are easier to comprehend; the presenter is, no doubt, much more proficient in the language than I am, but his pronunciation made me unable to enjoy watching his videos for too long. He is pronouncing the words as if they were English and his American English accent is so pronounced — a pun may or may not be intended —, it is actually <i>difficult</i> for me to make out the words he is saying. </p>
 
     <p>I am not here to make fun of people’s pronunciation and the above-mentioned person will, therefore, remain without a name. I simply mentioned it to showcase how even someone whose knowledge of Greek is far superior to mine can have a pronunciation that is worse than any that I have heard since or before.</p>
 
     <p>I guess I am privileged in that I have always been able to learn a language’s pronunciation with relative ease. My English sounds positively British, my Swedish sounds rather Stockholm-y and my Russian has convinced several people that I have a Russian background — despite my Russian being limited to a few dozen sentences. It is certainly difficult and unusual in the beginning, but after a few weeks and months it generally becomes second nature to me. I am aware that not everyone has this ability to learn a new pronunciation with ease, but I do find that a large portion of the population does not put a lot of effort into perfecting their pronunciation of a foreign language: <q>I can be understood well enough, why should I improve?</q></p>
-
-    <p>Let us, however, continue and explore the various ways of pronouncing Ancient Greek which I personally believe to be the most eloquent methods of doing so. Others may — and are, certainly, allowed to — disagree with me and the definition of <q>eloquent</q> is rather subjective, too. Therefore, please be aware that everything I will discuss below reflects my personal opinion and is, in no way supposed to reflect the most <q>ideal</q> or <q>correct</q> method of doing it. I am simply proposing them as an improvement over the current system.</p>
   </div>
 
   <div class="article">
     <h2>The pronunciations</h2>
-    <p>As previously mentioned, the most commonly-taught pronunciation of Ancient Greek is the so-called Erasmian pronunciation — at least in most Western countries that I know of. It somewhat resembles the pronunciation of Athenian Ancient Greek during the classical period, but with a few differences. 
+    <p>Let us, however, continue and explore the various ways of pronouncing Ancient Greek which I personally believe to be the most eloquent methods of doing so. Others may — and are, certainly, allowed to — disagree with me and the definition of <q>eloquent</q> is rather subjective, too. Therefore, please be aware that everything I will discuss below reflects my personal opinion and is, in no way supposed to reflect the most <q>ideal</q> or <q>correct</q> method of doing it. I am simply proposing them as an improvement over the current system.</p>
+
+    <h3>The Erasmian pronunciation (or: How not to do it)</h3>
+    <p>As previously mentioned, the most commonly-taught pronunciation of Ancient Greek is the so-called Erasmian pronunciation — at least in most Western countries that I know of. It does somewhat resemble the pronunciation of Athenian Ancient Greek during the classical period, but with a few differences. Additionally, it is also important to note that there is not really <i>one</i> Erasmian pronunciation but rather many and they tend to be influenced by the native / majority language of the country it is taught in.</p>
+
+    <p>Using a rather popular 
+    
   </div>
 
   <div class="footnote">
