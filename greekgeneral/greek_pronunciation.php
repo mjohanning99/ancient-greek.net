@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <meta name="description"
-    content="An article on how to pronounce the Ancient Greek language.">
-  <title>How to pronounce Ancient Greek?</title>
+    content="An article on how to pronounce the Ancient Greek language and the various ways of pronuncing it.">
+  <title>How to pronounce Ancient Greek? — ancient-greek.net</title>
 
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
@@ -20,7 +20,7 @@
   <h3>Τὴν ἀρχαίαν Ἑλληνικὴν γλῶτταν πῶς φθέγγῃ;</h3>
   <i>How should you pronounce the Ancient Greek language?</i>
   <img src="/media/imgs/general/pronunciation_1_resize.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_1_resize.jpg'" alt="" width="400" height="400">
-    <i>Part of the pronunciation guide found in Hansen and Quinn’s <q>Greek: An Intensive Course</q></i>
+  <i>Part of the pronunciation guide found in Hansen and Quinn’s <q>Greek: An Intensive Course</q></i>
 </div>
 
 <body>
@@ -64,8 +64,7 @@
     <h3>The Erasmian pronunciation (or: How not to do it)</h3>
     <p>As previously mentioned, the most commonly-taught pronunciation of Ancient Greek is the so-called Erasmian pronunciation — at least in most Western countries that I know of. It does somewhat resemble the pronunciation of Athenian Ancient Greek during the classical period, but with a few differences. Additionally, it is also important to note that there is not really <i>one</i> Erasmian pronunciation but rather many and they tend to be influenced by the native / majority language of the country it is taught in.</p>
 
-    <p>Using a rather popular 
-    
+    <p>Let us look at a few examples from the pronunciation guide of a rather popular book for learning Ancient Greek, namely Hansen and Quinn’s rather infamous <q>Greek: An Intensive Course</q> (which I have previously <a href="/shelf/physical/hq.php">written about</a>). Its recommended pronunciation is rather bad in my opinion and I, thus, thought it would be the perfect candidate to briefly glance at.</p>
   </div>
 
   <div class="footnote">

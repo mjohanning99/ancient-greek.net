@@ -195,14 +195,14 @@ a {
   color: var(--colour4);
   text-decoration: underline;
   font-variant: small-caps;
-  font-family: MerriweatherSans;
+  font-family: serif;
   font-size: 18px;
 }
 
 a.denied {
   color: var(--colour1);
   text-decoration: line-through;
-  font-family: MerriweatherSans;
+  font-family: serif;
   font-variant: small-caps;
   cursor: not-allowed;
   font-size: 20px;
@@ -210,7 +210,7 @@ a.denied {
 
 a.menu {
   color: var(--colour1);
-  font-family: MerriweatherSans;
+  font-family: serif;
   font-variant: small-caps;
   font-size: 20px;
 }
@@ -220,7 +220,7 @@ a.menu a.list {
 }
 
 a.menu i {
-  font-family: MerriweatherSans;
+  font-family: serif;
 }
 
 a:hover {
@@ -394,7 +394,7 @@ img.thumbnail {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: MerriweatherSans;
+  font-family: serif;
 }
 
 .column {
