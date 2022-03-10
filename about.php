@@ -35,7 +35,7 @@
     <div class="column-2">
       <div class="article">
         <h2>About page</h2>
-        <p>Welcome to the About page. Here you will find some information about me, but also information about the website itself, why it was created, the types of texts and documents you might find, the reason behind its simplistic design and some information regarding the navigating through pages. If you wish to know more about my current projects, please visit the <a href="/projects.php">projects page</a>.</p>
+        <p>Welcome to the About page. Here you will find some information about me, but also information about the website itself, why it was created, the types of texts and documents you might find, the reason behind its simplistic design and some information regarding the navigating through pages. If you wish to know more about my current projects, please visit the <a href="/projects.php">projects page</a>. This site also has a <a href="https://twitter.com/ancientgreeknet">Twitter</a> account, I recommend you check it out!</p>
       </div>
     </div>
     <div class="column-2">

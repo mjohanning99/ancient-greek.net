@@ -27,7 +27,7 @@
   <h3>John's Revelation</h3>
   <i>A Modern Annotated Translation</i>
   <img src="/media/imgs/coverrev_eng.webp", width="250", height="300" onerror="this.onerror=null; this.src='coverrev_eng.jpg'" alt="" width="250" height="300">
-  <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN</u>: 978-3-7557-9152-2</i>
+  <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN Paperback</u>: 978-3-7557-9152-2</i>
   <span><a href="https://commons.wikimedia.org/wiki/File:Carle_Hessay_-_The_Dark_Riders_(1971).jpg">Cover background image</span></a> (Carle Hessay, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>)
 </div>
 
@@ -50,7 +50,7 @@
     <div class="column">
       <div class="article">
         <h2>Obtaining your copy</h2>
-        <p>The book has yet to be published; it is currently being processed and reviewed. In the meantime, you may download a free copy of the book as a PDF or EPUB from this page here.</p>
+        <p>The book can be bought in most major countries in the world, especially those that have Amazon. Simply look for the ISBN stated above on Amazon and you should be able to find the book there. The prices may differ, but should be around $10. On Amazon, you should also be able to find the Kindle e-book for roughly half the price of the paperback; it has been very nicely formatted by my publisher and is easily readable on a Kindle device. </p>
       </div>
     </div>
     <div class="column">

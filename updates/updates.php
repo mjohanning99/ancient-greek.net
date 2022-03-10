@@ -59,6 +59,10 @@
 </div>
 
 <div class="article">
+  <h2>March 10, 2022 — Twitter and new Bible</h2>
+  <p>Hello once again, I have returned with some hopefully good news! Firstly, I would like to mention that I have created a <a href="https://twitter.com/ancientgreeknet">Twitter</a> account for my website, on which I post lots of things about and also <i>in</i> Ancient Greek. It is an attempt at practicing writing in Ancient Greek and I highly recommend you check it out, especially if you are interested in reading daily journal-like posts written in Ancient Greek.</p>
+  <p>Additionally, I have found another, very interesting edition of the Bible which should arrive today. Once it has arrived, I shall begin writing a new article about it which will subsequently reside in my Physical Shelf; so you can look forward to a new article about a most intriguing book soon!</p>
+
   <h2>February 14, 2022 — Wordle but in Ancient Greek</h2>
   <p>Hello everyone and welcome to yet another update. Recently, I stumbled across a version of Wordle which uses words from the Greek New Testament and I was immediately in love with it. I haven’t actually played Wordle before, but this version obviously has the rather nice side-effect of your learning some Greek — and having to think in Greek. It was created by <a href="https://github.com/jtauber/gnt-wordle">James K. Tauber</a> who released the source code on GitHub. I highly recommend you check out the <a href="/wordle/index.html">Ancient Greek version of Wordle</a> and try your best at guessing today’s word!</p>
   
