@@ -77,8 +77,8 @@
 
   <div class="column">
     <h2>Articles, blogs etc.</h2>
-    <h3><a href="blog/index.php" class="menu">Blog / Articles</a></h3>
-    <p>Articles and general musings about the Greek language, analyses of texts and more.</p>
+    <h3><a href="journal/index.php" class="menu">Histologion</a></h3>
+    <p>This page contains my journal (or blog) written entirely in Ancient Greek.</p>
 
     <h3><a href="documents/index.php" class="menu">Documents about the language</a></h3>
     <p>On the following page you will be presented with a couple of documents that I wrote about Ancient Greek (mostly grammar-related).</p>
