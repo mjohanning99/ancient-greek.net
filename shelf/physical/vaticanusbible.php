@@ -49,7 +49,6 @@
       <figcaption><img src="/media/imgs/vaticanus/cover.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/cover.jpg'" alt="" width="400" height="400">The book’s cover</figcaption>
     </figure>
 
-
     <p>And whilst the reading of a modern reproduction of an ancient text allows you to get close to experiencing what it must have been like reading these texts back when they were first written, there is still quite a significant difference; modern reproductions of, for example, the New Testament use a very consistent, modern spelling with upper- and lowercase letters, accents, spaces, punctuation and more. All of these, however, are comparatively modern inventions and would not have been found in a text written in the 4<sup>th</sup> century AD. Instead, most texts at the time would not have had any punctuation or spaces between words, nor would there have been a distinction between upper- and lowercase letters; the script used by scribes at the time was a so-called uncial script, an all-majuscule script with no spaces or punctuation marks.</p>
 
     <p>Uncial scripts were the norm for languages such as Latin and Greek for quite a significant amount of time, so that coming across them when attempting to read original texts on their original medium is almost definitely guaranteed. Therefore, to get an even more <q>proper</q> experience, one should really read the ancient texts the way they were actually written — and the Vaticanus Bible allows this. You can really imagine yourself being transported back in time, reading the codex as if it had just been written by a scribe and there is much more of a connection with the people of ancient times than there is when reading a modern reproduction.</p>
@@ -63,9 +62,13 @@
 
     <h3 id="vaticanusbible_general">General Information</h3>
     <p>This particular edition of the Codex Vaticanus was created by Benjamin Paul Kantor of <a href="https://koinegreek.com">KoineGreek.com</a>. There currently (as of March 10, 2022) exist two volumes of this Bible, one which includes the Gospels and another which includes Acts and the Epistles. Each of the volumes costs $39.99, but due to my not living in the US, I had to pay €49.50 by ordering it from the German Amazon. The edition that I currently own is the one which includes the Gospels — I may, at a later date, buy the second volume as well. I personally find this price somewhat on the steep side, especially considering one — perhaps rather small — drawback that I shall be discussing later on.</p>
+
+    <figure>
+      <figcaption><img src="/media/imgs/vaticanus/john.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/john.jpg'" alt="" width="400" height="400">The beginning of the Gospel of John</figcaption>
+    </figure>
     
     <h3 id="vaticanusbible_pseudo">Pseudo-facsimile</h3>
-    <p>The book is not a proper facismile, but something which the author calls a <q>pseudo-facsimile</q></p>
+    <p>The book is not a proper facismile, but something which the author calls a <q>pseudo-facsimile</q>. This is mostly due to the fact that this is not an <i>exact</i> replica of the original text; rather, it has been modernised and compacted slightly. The latter is especially important, as the original manuscript had three columns of text per page; and thus, actual facismiles of this text tend to be rather large. Instead, the editor of this book has turned one column of the original text into one page of the book and marked </p>
   </div>
 </body>
 
