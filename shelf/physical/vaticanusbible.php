@@ -68,7 +68,28 @@
     </figure>
     
     <h3 id="vaticanusbible_pseudo">Pseudo-facsimile</h3>
-    <p>The book is not a proper facismile, but something which the author calls a <q>pseudo-facsimile</q>. This is mostly due to the fact that this is not an <i>exact</i> replica of the original text; rather, it has been modernised and compacted slightly. The latter is especially important, as the original manuscript had three columns of text per page; and thus, actual facismiles of this text tend to be rather large. Instead, the editor of this book has turned one column of the original text into one page of the book and marked </p>
+    <p>The book is not a proper facismile, but something which the author calls a <q>pseudo-facsimile</q>. This is mostly due to the fact that this is not an <i>exact</i> replica of the original text; rather, it has been modernised and compacted slightly. The latter is especially important, as the original manuscript had three columns of text per page; and thus, actual facismiles of this text tend to be rather large. Instead, the editor of this book has turned one column of the original text into one page of the book and put a short note at the top of the page telling the reader which column (right, middle or left) on what page of the original manuscript he is currently reading. </p>
+
+    <p>Additionally, verse and chapter numbers have been added to the margins so that one can immediately see what part of the Bible you are currently looking at so that if you are having trouble reading a passage — due to the fact that there is no punctuation and no distinction between upper- and lower-case letters —, you can quite easily grab your more modern copy of the Greek New Testament and read it there; you could even compare the two editions to see how and if they differ from one another. </p>
+
+    <figure>
+      <figcaption><img src="/media/imgs/vaticanus/alphabet.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/alphabet.jpg'" alt="" width="400" height="400">An overview of the unical letters</figcaption>
+    </figure>
+
+    <h3>The book itself</h3>
+    <p>The book presents itself in a rather nice and very handy format that you should not have any trouble carrying around with you. It has rather nice and thick paper and the letters themselves are quite large as well so that reading the text is — not including the fact that it is a uncial script — an easy affair, even if your eye — like mine — are not in top shape. It also includes a rather brief introduction to the manuscript and an overview of the unical letters at the beginning. </p>
+
+    <p>Unfortunately, the book does not have a nice binding, especially not considering the price that I had to pay for it. It is a simple glue binding and the cover itself does neither feel nor look very high-quality either. This is considering the price of, for example, the Greek New Testament reader which I have previously reviewed on this site and which has a much higher quality binding for a much lower price. The high price of this edition may be in part due to the lower number of copies sold and printed, but I am not entirely certain. I would, however, have much preferred a higher quality binding for the price. This is, however, the only real complaint I have about this book.</p>
+
+    <h3>The text</h3>
+    <p>The text itself also contains a lot of interesting things which a more modern edition of the Greek New Testament will most certainly not include — at least not the ones which I have, thus far, seen and read. For example, frequently notes and references to passages in the Old Testament can be found hiding in the margins, as well as things such as corrections of scribal errors. There are also a handful of spelling mistakes, such as the scribe(s) writing words that should contain an <q>ι</q> with an <q>ει</q> instead.</p>
+  </div>
+
+  <div class="article">
+    <h2>Conclusion</h2>
+    <p>All in all, I have to say that I find this book a great and most certainly new way to read the Greek New Testament. It is certainly a more real and <q>original</q> experience than reading a modern copy of it and you definitely feel more connected with the people from back in the day. The unical script does require some getting used to, but you quickly get used to it after having read a couple of chapters and it becomes a second nature. </p>
+  </div>
+
   </div>
 </body>
 

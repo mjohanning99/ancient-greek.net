@@ -53,7 +53,7 @@
     <h3><a href="readerseditionot.php" class="menu">Septuaginta: A Reader’s Edition</a></h3>
     <p>A readers’s edition of the Greek Old Testament (Septuaginta); one of my favourites.</p>
 
-    <h3><a href="vaticanusbible.php" class="denied">The Vaticanus Bible</a></h3>
+    <h3><a href="vaticanusbible.php" class="menu">The Vaticanus Bible</a></h3>
     <p>A pseudo-facsimile of (one) the oldest copies of the Bible — in a more modern format.</p>
   </div>
 
