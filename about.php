@@ -50,6 +50,7 @@
               <li><a href="#philosophy">Goals & Philosophy</a></li>
               <li><a href="#navigation">Website navigation</a></li>
               <li><a href="#offline">Offline version & backup</a></li>
+              <li><a href="#donate">Donations & support</a></li>
             </ol>
           </ol>
       </div>
@@ -127,6 +128,11 @@
   <p>Nevertheless, the repository should be helpful for those who wish to download the website for themselves to either host a mirror or to simply have access to it offline. It also acts as a backup, so that, if anything should go wrong, there are versions that I can go back to.</p>
 
   <p>The repository can be found <a href="https://github.com/mjohanning99/ancient-greek.net">on my GitHub</a> or on my self-hosted <a href="https://git.marvinjohanning.de/marvinjohanning/ancient-greek.net">Gitea instance</a>.</p>
+
+  <h3 id="donate">Donations and support</h3>
+  <p>I have recently set up a page for Ancient-Greek.net on Ko-fi so that you may donate money to be or even become a recurring subscriber (Ἐπίκουρος) and gain access to as of yet unreleased pieces of writing and more! You can make a donation by clicking the button found at the bottom left corner of every page on this website or by clicking <a href="http://ko-fi.com/ancientgreeknet">here</a>.</p>
+
+  <p>I highly encourage you to make a small donation, as everything I receive will help me to both further promote this website and keep its contents free of ads and freely available to everyone. Ko-fi does not charge any fees, so all the money you donate will arrive where it counts most!</p>
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
