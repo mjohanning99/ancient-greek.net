@@ -27,7 +27,7 @@
     <h3>Γράφω λόγους τινὰς περὶ τῆς ταύτης ἀρχῆς </h3>
     <i>I write a few words about this realm</i>
     <img src="/media/imgs/logo_about.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/logo_about.png'" alt="" width="280" height="150">
-    <i>Information about Ancient-Greek.net</i>
+    <i>Information about Ancient-Greek.net — The website for information about Ancient Greek</i>
 </div>
 
 <div class="column-center">
