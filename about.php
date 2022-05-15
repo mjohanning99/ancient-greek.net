@@ -26,7 +26,7 @@
     <h1>About ancient-greek.net</h1>
     <h3>Γράφω λόγους τινὰς περὶ τῆς ταύτης ἀρχῆς </h3>
     <i>I write a few words about this realm</i>
-    <img src="/media/imgs/menander_masks.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/menander_masks.jpg'" alt="" width="280" height="150">
+    <img src="/media/imgs/logo_about.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/logo_about.png'" alt="" width="280" height="150">
     <i>Relief of a seated poet (Menander) with masks of New Comedy, 1st century B.C.</i>
 </div>
 
