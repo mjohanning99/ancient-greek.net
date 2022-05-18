@@ -33,7 +33,7 @@
 
 <div class="column-center">
   <div class="article">
-    <h2>Contact me</h2>
+    <h2>Listen to Ancient Greek</h2>
     <p>Below you will find links that, upon their having been clicked, will download the audio version of whatever text you selected. As of of right now (May 18th, 2022), the only thing you can download is the first chapter of the Gospel of John. You can also play the audio directly whilst reading the translation and transliteration. Simply open <a href="/translations/GNT/gospels/john/index.php">the translation page</a> and select the chapter you wish you read / listen to. If audio has already been made available for that chapter, you will see an audio player at the top of the page.</p>
   </div>
 </div>
