@@ -26,7 +26,12 @@
 
   <i>November 2021</i>
   <br><br>
-  
+
+  <b>Listen to the text</b>
+  <br>
+  <audio controls>
+    <source src="/media/audio/gospelofjohn/John_1.mp3" type="audio/mpeg">
+  </audio>
 </div>
 
 <div class="row">

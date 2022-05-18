@@ -55,6 +55,7 @@
         <li>Reading the <a href="/shelf/physical/readerseditionot.php">Septuaginta</a> (May 2021)</li>
         <li>Translating <a href="/translations/GNT/gospels/john/index.php">The Gospel of John</a> (August 2021)</li>
         <li>Translating <a href="/translations/GNT/generalepistles/index.php">The Epistles of John</a> (August 2021)</li>
+        <li>Recording <a href="/audio.php">audio books</a> for various texts (May 2022)</li>
       </ul>
     </div>
     <div class="column-2">
