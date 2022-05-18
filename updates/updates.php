@@ -59,6 +59,13 @@
 </div>
 
 <div class="article">
+  <h2>May 18, 2022 — YouTube, audio and much more!</h2>
+  <p>Hello again everyone. A lot has happened since my last update in March of this year and I hope that you will enjoy the changes! First and foremost, I have now created a YouTube account where you will be able to find lots of hopefully engaging videos in or about Ancient Greek. I will be creating educational videos, audio books and reviews in the near future. I highly recommend that you subscribe, as a lot of content will follow soon!</p>
+
+  <p>In addition to my making audio books available over on YouTube, you can, of course, also download them from my website directly. Simply open the new <a href="/audio.php">Audio page</a> and click one of the links to download a particular audio book! My audio books are carefully produced and contain music in the background — they should, therefore, be engaging enough. I try to read in a slow to normal pace, so that even people who are not advanced in the language can follow along.</p>
+
+  <p>And last — but definitely not least — you can now support me over on Ko-fi! Simply click the red button floating around at the bottom left of the page to send me a donation or become a subscriber. Don’t worry, though: the page will remain (ad-)free for now!</p>
+
   <h2>March 10, 2022 — Twitter and new Bible</h2>
   <p>Hello once again, I have returned with some hopefully good news! Firstly, I would like to mention that I have created a <a href="https://twitter.com/ancientgreeknet">Twitter</a> account for my website, on which I post lots of things about and also <i>in</i> Ancient Greek. It is an attempt at practicing writing in Ancient Greek and I highly recommend you check it out, especially if you are interested in reading daily journal-like posts written in Ancient Greek.</p>
   <p>Additionally, I have found another, very interesting edition of the Bible which should arrive today. Once it has arrived, I shall begin writing a new article about it which will subsequently reside in my Physical Shelf; so you can look forward to a new article about a most intriguing book soon!</p>
