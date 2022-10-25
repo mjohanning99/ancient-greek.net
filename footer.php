@@ -1,12 +1,3 @@
-<script src='/kofi.js'></script>
-<script>
-  kofiWidgetOverlay.draw('ancientgreeknet', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#d9534f',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
 <footer>
   <fieldset class="separator-styled footer"></fieldset>
   <div class="row">
