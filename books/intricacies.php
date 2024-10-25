@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Information about 'The Intricacies of Ancient Egyptian Hieroglyphics', a book teaching you the basics of Ancient Egyptian in an accessible manner.">
   <title>The Intricacies of Ancient Egyptian Hieroglpyhics</title>

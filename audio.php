@@ -7,7 +7,7 @@
   <meta name="description" content="Free audio books read in the Lucian pronunciation of Ancient Greek.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <title>Ancient Greek audio books — ancient-greek.net</title>
 
   <?php include('header.php'); ?>

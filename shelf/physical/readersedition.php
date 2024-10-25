@@ -7,7 +7,7 @@
   <meta name="description" content="A review of The Greek New Testament. A Reader’s Edition. Perfect for intermediate students.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <title>The Greek New Testament. A Reader’s Edition — ancient-greek.net</title>
 
   <?php include('header.php'); ?>

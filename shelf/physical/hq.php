@@ -7,7 +7,7 @@
   <meta name="description" content="A review about Hansen & Quins’s book “Greek, an Intensive Course”; infamous for its steep difficulty and reliance upon the grammar-translation method">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <title>Hansen & Quinn’s Greek, An Intensive Course — ancient-greek.net</title>
 
   <?php include("header.php"); ?>

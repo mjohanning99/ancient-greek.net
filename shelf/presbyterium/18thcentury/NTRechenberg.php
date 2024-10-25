@@ -7,7 +7,7 @@
   <meta name="description" content="A review and examination of an original 18th-century copy of Adam Rechenberg’s New Testament">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <title>Adam Rechenberg’s Greek New Testament (1736 ed.) — ancient-greek.net</title>
 
   <?php include('../header.php'); ?>

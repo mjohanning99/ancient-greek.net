@@ -7,8 +7,6 @@
   <meta name="description" content="A website about all things Ancient Greek; from the Classical Period to the Byzantine. Original texts, lots of graphics, translations, book reviews &c.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
-  <script src='/kofi.js'></script>
   <title>Agora (Home page) — ancient-greek.net (Ancient Greek)</title>
 
   <?php include('header.php'); ?>
@@ -33,7 +31,7 @@
 
 <body>
 <div class="article">
-  <p class="blocktext">I bid you welcome! You have reached the Agora of ancient-greek.net, a small (but growing) corner of the Web; and I hope you enjoy your stay! The Agora is the hub of the page, from where you can begin your journey into the various topics; click the <q><img src="/media/icons/parthenon-3.png" width="16" height="16"> Agora</q> at the top left to return here. You can also find us on <img src="/media/icons/twitter.png" width="16" height="16"> <a href="https://twitter.com/ancientgreeknet">Twitter</a> and <img src="/media/icons/youtube.png" width="16" height="16"> <a href="https://www.youtube.com/channel/UCpU3eASmyKybJWnzhC1xJvA">YouTube</a>.</p>
+  <p class="blocktext">I bid you welcome! You have reached the Agora of ancient-greek.net, a small (but growing) corner of the Web; and I hope you enjoy your stay! The Agora is the hub of the page, from where you can begin your journey into the various topics; click the <q><img src="/media/icons/parthenon-3.png" width="16" height="16"> Agora</q> at the top left to return here. You can also find us on <img src="/media/icons/youtube.png" width="16" height="16"> <a href="https://www.youtube.com/channel/UCpU3eASmyKybJWnzhC1xJvA">YouTube</a>.</p>
 
   <p>This website — as its name may have already made you realise — contains countless pages regarding the Ancient Greek language and country; we even have 🎧 <a href="audio.php">free audio books!</a> <br>The site is not, however, entirely focussed on the Classical Period of Greece (a period spanning roughly 200 years between the fifth and fourth centuries BC), but rather anything Greek-related spanning from the Classical Period up until the Byzantine. <br>The website’s main focus is the Ancient Greek language, however, and the majority of the information you find here will be about the language. For a more detailed overview, I would highly recommend you visit the <a href="about.php">About page</a>.</p>
 </div>

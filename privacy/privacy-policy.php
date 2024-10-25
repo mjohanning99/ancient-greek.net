@@ -1,5 +1,6 @@
 
 <h2>Privacy Policy</h2>
+
 <p>Personal data (usually referred to just as "data" below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.</p>
 <p>Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the "GDPR"), "processing" refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.</p>
 <p>The following privacy policy is intended to inform you in particular about the type, scope, purpose, duration, and legal basis for the processing of such data either under our own control or in conjunction with others. We also inform you below about the third-party components we use to optimize our website and improve the user experience which may result in said third parties also processing data they collect and control.</p>
@@ -33,12 +34,22 @@
 <p>An example of this server data is as follows: —</p>
 <p>162.158.89.90 - - [07/May/2020:19:32:03 +0000] "GET /CSS/styles.css HTTP/1.1" 200 4716 "https://marvinjohanning.de/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"</p>
 
+<p>Due to the fact that this website uses the Cloudflare proxy, the IP address with which you accessed this website will not be visible to the website provider but only to Cloudflare. The IP addresses logged on the web server are those of the Cloudflare proxy. Therefore, we are unable to see your actual IP addresses.</p>
+
 <h4>Contact</h4>
 <p>If you contact us via email or the contact form, the data you provide will be used for the purpose of processing your request. We must have this data in order to process and answer your inquiry; otherwise we will not be able to answer it in full or at all.</p>
 <p>The legal basis for this data processing is Art. 6 Para. 1 lit. b) GDPR.</p>
 <p>Your data will be deleted once we have fully answered your inquiry and there is no further legal obligation to store your data, such as if an order or contract resulted therefrom.</p>
 
-<h4>Analytics</h4>
-<p>We make use of a privacy-respecting analytics software called <a href="https://plausible.io">Plausible</a>. It does not use any cookies or collect personal user data and is, hence, fully compliant with the European GDPR. The analytics dashboard is freely available (<a href="https://analytics.ancient-greek.net/ancient-greek.net">analytics.ancient-greek.net/ancient-greek.net</a>) and can be viewed by anyone interested in the data being collected. It is self-hosted on the same server as the rest of the website and your data, thus, never leaves the EU. The JS script that is used for the analytics can be viewed here: <a href="https://analytics.ancient-greek.net/js/plausible.js">https://analytics.ancient-greek.net/js/plausible.js</a>. For more information, you may view Plausible's own privacy policy under the following two links: <a href="https://plausible.io/privacy">https://plausible.io/privacy</a> and <a href="https://plausible.io/data-policy">https://plausible.io/data-policy</a>.
+<h4>Functional Cookies</h4>
+<p>This website itself does not make use of any cookie. The only type of cookie that may be stored on your machine is a Cloudflare cookie that is required to access the origin server. Below is a description of this cookie: 
+
+<ul>
+    <li>cf_clearance: Clearance Cookie stores the proof of challenge passed. It is used to no longer issue a challenge if present. It is required to reach an origin server.</li>
+</ul>
+
 
 <p><a href="https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html" target="_blank" rel="noopener">Model Data Protection Statement</a> for <a href="https://www.ratgeberrecht.eu/" target="_blank">Anwaltskanzlei Weiß &amp; Partner</a></p>
+
+<h3>Changelog</h3>
+<p><b>25.10.2024</b>: Mention of the usage of "Plausible" was removed as this website no longer makes use of that analytics software. Information regarding Cloudflare and regarding one particular Cloudflare cookie has been added.</p>

@@ -7,7 +7,7 @@
   <meta name="description" content="An article about the ways in which I would recommend that you learn the Ancient Greek language — and those that I do not recommend">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <title>How to study the Ancient Greek language</title>
 
   <?php include('header.php'); ?>

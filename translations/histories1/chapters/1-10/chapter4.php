@@ -7,7 +7,7 @@
 <meta name="description" content="A modern and illustrated translation of Herodotus’ Histories">
 <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
 <title>Herodotus’ Histories Translation — Chapter 4</title>
 
 <?php include('../../header.php'); ?>

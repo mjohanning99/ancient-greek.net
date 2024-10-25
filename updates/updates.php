@@ -6,7 +6,6 @@
   <meta charset="utf-8">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="An occasionally updated page containing information about new things added.">
   <title>Updates – ancient-greek.net</title>
@@ -59,6 +58,11 @@
 </div>
 
 <div class="article">
+  <h2>October 25, 2024 – Small updates</h2>
+  <p>This website has been moved to a new host and is also now hosted at my own home as a backup. Additionally, the privacy policy has been adjusted to reflect the fact that we no longer use <i>Plausible</i> for analytics and the website should no longer make requests to analytics.ancient-greek.net. Additionally, some information regarding one Cloudflare cookie has been added, as well as some information regarding this website’s usage of the Cloudflare proxy and how that affects IP privacy.<p>
+
+  <p>Additionally, I will soon be deleting my Twitter account and will see if it is somehow possible to add the archive of my Twitter account to this website. I have not really posted a lot on social media anyway (I have not really had the time for Greek lately, unfortunately). I will, at least in the foreseeable future, not be creating an account on either Mastodon or Bluesky. However, as Twitter has become an absolutely terrible website, I no longer want to have an account there.</p>
+
   <h2>May 18, 2022 — YouTube, audio and much more!</h2>
   <p>Hello again everyone. A lot has happened since my last update in March of this year and I hope that you will enjoy the changes! First and foremost, I have now created a YouTube account where you will be able to find lots of hopefully engaging videos in or about Ancient Greek. I will be creating educational videos, audio books and reviews in the near future. I highly recommend that you subscribe, as a lot of content will follow soon!</p>
 

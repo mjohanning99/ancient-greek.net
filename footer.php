@@ -3,11 +3,9 @@
   <div class="row">
     <div class="column-4">
       Made by Marvin J. You can also find me on: <br>
-      <a href="https://git.marvinjohanning.de/marvinjohanning">git.marvinjohanning.de</a>
-      <br>
       <a href="https://marvinjohanning.de">marvinjohanning.de</a>
       <br>
-      <a href="https://twitter.com/ancientgreeknet">Twitter</a>
+      <a href="https://beakandlens.com">beakandlens.com</a>
     </div>
 
     <div class="column-4">

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <meta name="description" content="Modern illustrated translation of the Revelation — Chapter 4">
   <title>Revelation Translation — Chapter 4</title>
 

@@ -7,7 +7,7 @@
   <meta name="description" content="My own letters written in Ancient Greek with translation and transliteration.">
   <link rel="preload" as="style" href="/CSS/styles.css">
   <link rel="stylesheet" href="/CSS/styles.css">
-  <script defer data-domain="ancient-greek.net" src="https://analytics.ancient-greek.net/js/plausible.js"></script>
+  
   <title>Marvin’s Greek Letters — ancient-greek.net</title>
 
   <?php include('header.php'); ?>
