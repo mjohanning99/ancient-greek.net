@@ -1,15 +1,18 @@
+<?php
+$page_title = "Updates – ancient-greek.net — ancient-greek.net";
+$page_description = "An occasionally updated page containing information about new things added.";
+$page_canonical = "/updates/updates.php";
+$page_image = "/media/imgs/atticredfigured.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="An occasionally updated page containing information about new things added.">
-  <title>Updates – ancient-greek.net</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('../header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
@@ -18,15 +21,12 @@
       <img src="/media/icons/mandolin.png">
     </legend>
   </fieldset>
-</head>
-
-<body>
 
 <div class="heading-greek">
     <h1>Updates</h1>
     <h3>Αὐξανέτω ἡ ἀρχή</h3>
     <i>May the territory expand</i>
-    <img src="/media/imgs/atticredfigured.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" alt="" width="250" height="250">
+    <img src="/media/imgs/atticredfigured.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" alt="Ancient Greek" width="250" height="250">
     <i>Rider, Attic red-figured cup — Middle of 5<sup>th</sup> century BC</i>
 </div>
 
@@ -79,7 +79,7 @@
   
   <h2>February 12, 2022 — A New Book!</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/rev_eng.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/rev_eng.jpg'" width="550" alt="">
+    <img src="/media/imgs/updates/rev_eng.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/rev_eng.jpg'" width="550" alt="Ancient Greek">
     <figcaption>Working on my new book</figcaption>
   </figure><br>
   <p>Hello there everyone. I have returned with some, hopefully, rather good news. Some time ago, I published my book which has, as of today, actually sold eighteen copies already; however, as I was certain that this number would increase if its price wasn’t as steep, I decided to write and publish and English-only edition of my book with a modern and sleek design and no illustrations.</p>

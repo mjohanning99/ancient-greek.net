@@ -1,15 +1,19 @@
+<?php
+$page_title = "journal/2020/unit4xenophon.php — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/journal/2020/unit4xenophon.php";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1 style="margin-bottom: 0;">Τὸ μὲν τοῦ Ξενοφῶντος βιβλίον ἀναγιγνώσκειν ἐθέλω·</h1>
@@ -18,7 +22,7 @@
   <i>On Hansen and Quinn's Unit 4 — and Xenophon's Anabasis</i>
 </div>
 
-<body>
+
   <div class="article">
     <p>Previously I discussed how I had bought a commentated copy of Xenophon's Anabasis and said that I would be writing about my approach to studying the book; and this is what I now attempt to do. Indeed, the book has been in my possession for a longer period of time already, but I have been both unable to work through it at a great pace and to find the time to actually write something about it. However, as I currently have some time to spare, I shall now give you a short account of how I have been using this book to help me advance my Greek</p>
     <p>Firstly, it is rather helpful that the vocabulary is lay out in such a way that you can learn only the vocabulary of a certain page you wish to be reading; this allows one study the most commonly used words piece by piece, whilst also reading the appropriate pages whilst doing so. This greatly helps one in retaining the information; and I also believe that seeing words used in context is much more helpful than simply learning flash cards that, frequently, do not provide any context whatsoever (there are indeed ways of accomplishing it, I realise, but they are, I would venture to guess, not used as frequently). In addition, the comments located at the bottom of each page provide further insights and explain all the other vocabulary that does not appear in the list at the front of the book.</p>

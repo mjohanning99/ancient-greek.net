@@ -1,25 +1,30 @@
+<?php
+$page_title = "The Italian Athenaze — ancient-greek.net";
+$page_description = "A review of the Italian edition of Athenaze.";
+$page_canonical = "/shelf/physical/itathenaze.php";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Italian Athenaze — Review";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A review of the Italian edition of Athenaze.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>The Italian Athenaze — ancient-greek.net</title>
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Italian Athenaze — Review</h1>
   <h3>Ἴωμεν Ἀθήναζε! Μετὰ βιβλίου τινὸς Ἰταλίαθεν τὴν γλῶτταν μανθάνωμεν;</h3>
   <i>Let's go to Athens! Should we be learning the language with a book from Italy?</i>
-  <img src="/media/imgs/athenazetitle.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/athenazetitle.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/athenazetitle.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/athenazetitle.jpg'" alt="Ancient Greek" width="400" height="400">
 </div>
 
-<body>
+
   <div class="article">
     <p>The heading raises an interesting point and I will in this text briefly touch upon the inadequacy of most Ancient Greek textbooks; though I am using rather strong words, I believe that this point should definitely be addressed so that the teaching — and thus, also learning — of the Ancient Greek language becomes less cumbersome to students.<p>
   </div>

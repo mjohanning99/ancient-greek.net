@@ -1,19 +1,19 @@
+<?php
+$page_title = "Revelation Translation — Chapter 12 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the Revelation — Chapter 12";
+$page_canonical = "/translations/GNT/apocalypse/chapters/chapter12.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Modern illustrated translation of the Revelation — Chapter 12">
-  <title>Revelation Translation — Chapter 12</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον ιβ’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/dragonwomansun.webp", width="210", height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/dragonwomansun.jpg'" alt="" width="210" height="210">
+  <img src="/media/imgs/GNT/revtrans/dragonwomansun.webp" width="210" height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/dragonwomansun.jpg'" alt="Ancient Greek" width="210" height="210">
   <br>
   <i>The Great Red Dragon and the Woman Clothed with the Sun — 1803 – 1805, Wiliam Blake</i>
 </div>

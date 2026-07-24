@@ -1,15 +1,18 @@
+<?php
+$page_title = "About — ancient-greek.net";
+$page_description = "A short introduction to ancient-greek.net";
+$page_canonical = "/about.php";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="CSS/styles.css">
-  <link rel="stylesheet" href="CSS/styles.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A short introduction to ancient-greek.net">
-  <title>About — ancient-greek.net</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
@@ -18,15 +21,12 @@
       <img src="/media/icons/grapes.png">
     </legend>
   </fieldset>
-</head>
-
-<body>
 
 <div class="heading-greek">
     <h1>About ancient-greek.net</h1>
     <h3>Γράφω λόγους τινὰς περὶ τῆς ταύτης ἀρχῆς</h3>
     <i>I write a few words about this realm</i>
-    <img src="/media/imgs/logo_about.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/logo_about.png'" alt="" width="280" height="150">
+    <img src="/media/imgs/logo_about.webp" width="280" height="150" onerror="this.onerror=null; this.src='/media/imgs/logo_about.png'" alt="Ancient Greek" width="280" height="150">
     <i>Information about Ancient-Greek.net — The website for information about Ancient Greek</i>
 </div>
 
@@ -91,7 +91,7 @@
   <p>But what about actual content that might be found on this page? There are numerous things here, actually, and the amount of categories keeps growing. Mainly, however, you will be able to look at my shelves — both physical and virtual — to see what kinds of books I am using to learn the language and read reviews about them; you will be able to read original ancient texts with transliterations and translations; you can find my own compositions in Ancient Greek; and numerous other things, such as my blog or some articles.</p>
 
   <figure style="float: right; margin-top: 0px;">
-    <img src="/media/imgs/creationbosch.webp" onerror="this.onerror=null; this.src='/media/imgs/creationbosch.jpg'" alt="">
+    <img src="/media/imgs/creationbosch.webp" onerror="this.onerror=null; this.src='/media/imgs/creationbosch.jpg'" alt="Ancient Greek">
     <figcaption><q>Creation</q> on the exterior (shutters) of The Garden of Earthly Delights — 1480 – 1490, Hieronymus Bosch</figcaption>
   </figure>
 

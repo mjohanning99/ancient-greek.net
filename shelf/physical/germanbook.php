@@ -1,27 +1,30 @@
+<?php
+$page_title = "Learning Greek with a Random Book from the Library — ancient-greek.net";
+$page_description = "A cautionary tale regarding the usage of random books for learning Ancient Greek; even though it might be tempting to just go to the library and get a book, results may vary.";
+$page_canonical = "/shelf/physical/germanbook.php";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Gerhard Fink’s Die Griechische Sprache";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A cautionary tale regarding the usage of random books for learning Ancient Greek; even though it might be tempting to just go to the library and get a book, results may vary.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Learning Greek with a Random Book from the Library — ancient-greek.net</title>
-
-  <?php include("header.php"); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Gerhard Fink’s Die Griechische Sprache</h1>
   <h3>Μετὰ βιβλίου τινὸς Γερμανίαθεν ταύτην τὴν γλῶτταν μὴ μάθῃς</h3>
   <i>Do not learn this language with some book from Germany</i>
-  <img src="/media/imgs/greekgerman/greekgerman6.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/greekgerman/greekgerman6.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/greekgerman/greekgerman6.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/greekgerman/greekgerman6.jpg'" alt="Ancient Greek" width="400" height="400">
 </div>
 
-<body>
+
   <div class="article">
     <p>Heed my warning carefully and don’t simply waltz into your local library and pick out a book on Ancient Greek at random, no matter what language it is written in, for the book you might happen to pick up might turn out to be absolutely abysmal; as was the case with the book I had picked up. Its name remains, for now, a mystery. The image seen above can be easily adapted to adequately describe my feelings towards this book — <i>τὰ πλεῖστα βιβλία κακά</i>.</p>
     <p><b>Update 11.11.2020</b>: As I will mention further below, I was, at the time of writing this, unaware of the book’s name. I have, however, since then been able to ascertain the book’s title and author, mostly by chance. I was looking for something totally unrelated in a chat between a friend of mine and me and stumbled upon this photo that I had sent him of the book’s cover. I can thus proclaim now that the book is <i>Gerhard Fink’s</i> book, titled <q>Die griechische Sprache</q>. Upon taking it upon myself to inspect a handful of reviews online, I found out that I appear to be somewhat of a minority when it concerns my opinion of the book’s teaching method. I am stating this simply so that you may not think the opinions stated below are in any way reflective of what the majority of people who have read this book think of it — at least those who have published their opinions online. Please also consider that these opinions stem mostly from my somewhat dim memory of the matter and that I do not have the book at hand at present — and am unfortunately unable to get it due to the pandemic. If, at some point, I am once more able to get my hands on this book, I will amend this page with further details. For now, however, the opinions stated below still hold true.</p>

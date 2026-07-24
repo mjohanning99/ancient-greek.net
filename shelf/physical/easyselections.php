@@ -1,22 +1,28 @@
+<?php
+$page_title = "shelf/physical/easyselections.php — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/shelf/physical/easyselections.php";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Book";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1 style="margin-bottom: 0px;">Αἱ ἐμαὶ περὶ βιβλίου τινὸς γνῶμαι.</h1>
   <h3>Review of <i>Easy Selections Adapated from Xenophon</i></h3>
 </div>
 
-<body>
+
 <div class="article">
   <p>
     It's rather a shame, I think, that this book appears to not have any reviews on Goodreads and seems to be, overall, somewhat forgotten. I have seen it recommended by a few people, but definitely not as many as I had hoped. The reason behind this, I believe, is partly due to its age, since it was published in the mid-19th century. Modern reprints are available on various online sites, but I find them to be rather costly for what they are — reprints of a public domain book with nothing added to it.</p>

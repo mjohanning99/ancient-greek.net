@@ -1,15 +1,18 @@
+<?php
+$page_title = "Ancient Greek audio books — ancient-greek.net";
+$page_description = "Free audio books read in the Lucian pronunciation of Ancient Greek.";
+$page_canonical = "/audio.php";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="Free audio books read in the Lucian pronunciation of Ancient Greek.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Ancient Greek audio books — ancient-greek.net</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
@@ -18,18 +21,16 @@
       <img src="/media/icons/vessel.png">
     <legend align="center">
   </fieldset>
-</head>
-</head>
 
 <div class="heading-greek">
   <h1>Audio</h1>
   <h3>Ἀκούε τοὺς λόγους τοὺς ἀρχαίους</h3>
   <i>Listen to the ancient words</i>
-  <img src="/media/imgs/audio_editing.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/audio_editing.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/audio_editing.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/audio_editing.jpg'" alt="Ancient Greek" width="400" height="400">
   <i>A screenshot of my editing audio using Audacity</i>
 </div>
 
-<body>
+
 
 <div class="column-center">
   <div class="article">
@@ -54,3 +55,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

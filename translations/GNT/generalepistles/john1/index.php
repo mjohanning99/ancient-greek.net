@@ -1,27 +1,29 @@
+<?php
+$page_title = "The First Epistle of John — Translation and Transliteration — ancient-greek.net";
+$page_description = "A modern translation and transliteration of the Gospels of John";
+$page_canonical = "/translations/GNT/generalepistles/john1/";
+$page_image = "/media/imgs/StJerome.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A modern translation and transliteration of the Gospels of John">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>The First Epistle of John — Translation and Transliteration — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>The First Epistle of John — Translation and Transliteration</h1>
   <h3>Ἡ πρώτη τοῦ Ἰωάννου ἐπιστολή</h3>
   <i>The First Epistle of John</i>
-  <img src="/media/imgs/GNT/generalepistles/john1/johnpoisoncup.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/john1/johnpoisoncup.jpg'" alt="" width="250" height="250">
+  <img src="/media/imgs/GNT/generalepistles/john1/johnpoisoncup.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/john1/johnpoisoncup.jpg'" alt="Ancient Greek" width="250" height="250">
   <i><q>St. John the Evangelist</q> — Alonso Cano, 1635 - 1637</i>
 </div>
 
-<body>
+
 <div class="article">
   <p>The Gospel of John, despite being the last of the canonical Gospels of the New Testament, was the very first actual piece of text I read in Ancient Greek. It details, as all of the other Gospels do as well, the life of Jesus Christ, his various deeds, ultimate demise and resurrection. The reason for my having chosen this as my first text to read — and complete — is the very straightforward nature in which it is written; it uses a Greek that is easy to grasp and very little unusual vocabulary. The latter aspect might make this section of the New Testament somewhat <i>boring</i> to some — but I, for one, really enjoy the straightforward nature of this Gospel; and seeing as it was the first text I read in Greek, I decided to begin my translation of the Gospels with this one.</p>
   
@@ -46,3 +48,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

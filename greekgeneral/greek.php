@@ -1,19 +1,19 @@
+<?php
+$page_title = "Why should you study the Greek language? — ancient-greek.net";
+$page_description = "A short article about the reasons for my learning Ancient Greek and also other ancient languages";
+$page_canonical = "/greekgeneral/greek.php";
+$page_image = "/media/imgs/platoathens.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description"
-    content="A short article about the reasons for my learning Ancient Greek and also other ancient languages">
-  <title>Why should you study the Greek language?</title>
-
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Why should you study Ancient Greek?</h1>
@@ -21,7 +21,7 @@
   <i>Why should you study the Ancient Greek language?</i>
 </div>
 
-<body>
+
   <div class="article">
     <p>In this little article, I wish to bring forth the reasons for my having begun learning Ancient Greek. The article that was <a href="greek_old.php">previously</a> available under this address has been completely re-written as it had been written by me in a hurry. I had, at the time, just begun learning the language and was making adjustments to my website to accommodate the change from Ancient Egyptian to Ancient Greek and I, therefore, wanted to simply add as much content onto here as I could; and, as a result of my doing so, aforesaid content was of a rather low quality which did not have a lot of effort put into it. Thus, as a means of improving the quality of content on this page, I am now re-writing what I have already written, adding numerous things which I did not mention in the previous article.</p>
   </div>

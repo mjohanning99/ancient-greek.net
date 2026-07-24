@@ -1,27 +1,29 @@
+<?php
+$page_title = "The Gospels — Translation and Transliteration — ancient-greek.net";
+$page_description = "A modern translation and transliteration of the Gospels of the New Testament";
+$page_canonical = "/translations/GNT/gospels/";
+$page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A modern translation and transliteration of the Gospels of the New Testament">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>The Gospels — Translation and Transliteration — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>The Gospels — Translation and Transliteration</h1>
   <h3>Τὰ εὐαγγέλια Ἰησοῦ Χριστοῦ</h3>
   <i>The good news of Jesus Christ</i>
-  <img src="/media/imgs/GNT/gospels/bedegospel.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/bedegospel.jpg'" alt="" width="300" height="300">
+  <img src="/media/imgs/GNT/gospels/bedegospel.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/bedegospel.jpg'" alt="Ancient Greek" width="300" height="300">
   <i><q>The Venerable Bede translating the Gospel of John on his deathbed</q> — J. Doyle Penrose, 1902</i>
 </div>
 
-<body>
+
 <div class="article">
   <p>The four canonical gospels — the ones you find in the New Testament — are the literal <q>good news</q> about Jesus Christ and his actions. Their general content varies but little; so little, in fact, that I was rather taken aback the first time that I read the Bible, and thought that there must have occurred an error during the printing of the book — for the content was similar and, indeed, often exactly the same.</p>
 
@@ -45,3 +47,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

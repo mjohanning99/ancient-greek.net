@@ -1,24 +1,28 @@
+<?php
+$page_title = "Why am I no longer studying Ancient Egyptian? — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/greekgeneral/egyptian.php";
+$page_image = "/media/imgs/platoathens.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-<link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Why am I no longer studying Ancient Egyptian?</title>
-
-<?php include('../header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
 
-<fieldset class="separator-styled radius">
-  <legend align="center">
-    <img src="/media/icons/hieroglyphs.png">
-      Η ΓΛΩΤΤΗ ΤΗΣ ΑΙΓΥΠΤΟΥ
-    <img src="/media/icons/hieroglyphs.png">
-  </legend>
-</fieldset>
+<body>
+  <?php include('../header.php'); ?>
+
+  <fieldset class="separator-styled radius">
+    <legend align="center">
+      <img src="/media/icons/hieroglyphs.png">
+        Η ΓΛΩΤΤΗ ΤΗΣ ΑΙΓΥΠΤΟΥ
+      <img src="/media/icons/hieroglyphs.png">
+    </legend>
+  </fieldset>
+
 
 <div class="heading-greek">
   <h1>Why am I no longer studying Ancient Egyptian?</h1>
@@ -26,7 +30,7 @@
   <i>Why am I no longer studying Ancient Egyptian?</i>
 </div>
 
-<body>
+
   <div class="article">
     <p>Ancient Egyptian, the language and the culture wherefrom it developed, has always been of great interest to me; it should, thus, come as no surprise that I was — and still am — quite fascinated with this peculiar language. It might therefore be somewhat strange to find out that I have stopped my study of the language, about which I have even written a book; and so, to inform those that may be wondering why I did so, I shall herein attempt to briefly explain the reasons I had for abandoning my study of the language.</p>
     <p>Firstly, learning the vocabulary for this language had always been a nuisance for me, as I was unable to actually enter any of the words into a regular flash card program — such as Anki — without first using JSesh to create an <i>image</i> of the hieroglyphs which I would then have to import into the program. Additionally, I have always been rather awful at drawing, and so actually writing the hieroglyphs by hand was rather impossible — I did attempt to do so on a number of occasions, but to no avail. This, obviously, made studying new words a nigh unattainable task and I had to simply give up after a while.</p>

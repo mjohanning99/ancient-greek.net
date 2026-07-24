@@ -1,17 +1,19 @@
+<?php
+$page_title = "Didache Translation — Chapter 1 — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/translations/didache/chapters/chapter1.php";
+$page_image = "/media/imgs/StJerome.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Didache Translation — Chapter 1</title>
-
-<?php include('../header.php'); ?>
-
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἡ διδαχή — α’</h1>

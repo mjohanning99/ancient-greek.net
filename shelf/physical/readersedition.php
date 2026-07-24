@@ -1,26 +1,30 @@
+<?php
+$page_title = "The Greek New Testament. A Reader’s Edition — ancient-greek.net";
+$page_description = "A review of The Greek New Testament. A Reader’s Edition. Perfect for intermediate students.";
+$page_canonical = "/shelf/physical/readersedition.php";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "The Greek New Testament. A Reader’s Edition — Review";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A review of The Greek New Testament. A Reader’s Edition. Perfect for intermediate students.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>The Greek New Testament. A Reader’s Edition — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>The Greek New Testament. A Reader’s Edition — Review</h1>
   <h3>Τὴν Καινὴν Διαθήκην βοηθείᾳ γραμματικῇ ἀναγιγνωσκώμεθα!</h1>
   <i>Let us read the New Testament with grammatical help!</i>
-  <img src="/media/imgs/readers/gntreader1.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/readers/gntreader1.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/readers/gntreader1.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/readers/gntreader1.jpg'" alt="Ancient Greek" width="400" height="400">
 </div>
 
-<body>
+
   <div class="article">
     <h2>The New Testament — once more</h2>
     <p>As mentioned on my page regarding the <a href="novumtestamentum.php">Nestle-Aland edition of the Greek New Testament</a>, I have found this edition of the GNT an absolutely wondrous way of learning the Greek language — and this can be said, I truly believe, regardless of your religious beliefs. The New Testament, regardless — once again — of what one might think of it, has influenced the Western World in significant ways and reading it in its original language, removing any errors or inaccuracies that might have found their way into the various translations of this text, is quite an interesting experience.</p>
@@ -38,7 +42,7 @@
 
     <figure>
       <img src="">
-      <figcaption><img src="/media/imgs/readers/gntreader2.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/readers/gntreader2.jpg'" alt="" width="400" height="400">Parsed vocabulary a page</figcaption>
+      <figcaption><img src="/media/imgs/readers/gntreader2.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/readers/gntreader2.jpg'" alt="Ancient Greek" width="400" height="400">Parsed vocabulary a page</figcaption>
     </figure>
 
     <p><q>But in what manner,</q> you may ask, <q>is this edition superior to any other?</q> And it is, indeed, a question well worth asking, considering the fact that there are hundreds — and perhaps, though I did not check, thousands — of different editions of the GNT from various publishers. Therefore, I find it prudent to state that I am by no means claiming this to be the be-all and end-all of all editions of the GNT; rather, I have found it one of the most enjoyable books to read thus far in my, admittedly rather short journey of studying the Ancient Greek language and it all comes down to a mere handful of aspects.</p>

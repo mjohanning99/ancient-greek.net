@@ -1,24 +1,30 @@
+<?php
+$page_title = "JACT’s Reading Greek — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/shelf/physical/readinggreek.php";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "JACT’s Reading Greek — Review";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>JACT’s Reading Greek — ancient-greek.net</title>
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>JACT’s Reading Greek — Review</h1>
   <h3>Τὸ τὴν Ἑλληνικὴν γλῶτταν ἀναγνῶσαι βοηθείᾳ γραμματικῇ</h3>
   <i>Reading Greek with grammatical help</i>
-  <img src="/media/imgs/readingtext.webp", width="401", height="400" onerror="this.onerror=null; this.src='/media/imgs/readingtext.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/readingtext.webp" width="401" height="400" onerror="this.onerror=null; this.src='/media/imgs/readingtext.jpg'" alt="Ancient Greek" width="400" height="400">
 </div>
 
-<body>
+
   <div class="article">
     <p>This, perhaps rather lengthy text, details my experiences with using Hansen and Quinn's rather grammar-heavy textbook which lead me to consider the usage of a different, more text-heavy book instead. I will be explaining why I believe this is, to my knowledge, one of the better textbooks for learning Ancient Greek and why I have chosen it over H&Q</p>
   </div>

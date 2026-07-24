@@ -1,19 +1,19 @@
+<?php
+$page_title = "Revelation Translation — Chapter 1 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the Revelation — Chapter 1";
+$page_canonical = "/translations/GNT/apocalypse/chapters/chapter1.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="Modern illustrated translation of the Revelation — Chapter 1">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Revelation Translation — Chapter 1</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον α’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/Menschensohn.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/Menschensohn.jpg'" alt="" width="200" height="200">
+  <img src="/media/imgs/GNT/revtrans/Menschensohn.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/Menschensohn.jpg'" alt="Ancient Greek" width="200" height="200">
   <br>
   <i>Menschensohn (Son of Man) — 1933, Gebhardt Fugel</i>
 </div>

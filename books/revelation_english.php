@@ -1,17 +1,21 @@
+<?php
+$page_title = "John’s Revelation — ancient-greek.net";
+$page_description = "On here you will find information about my book, a modern translation of John’s Revelation with plenty of notes.";
+$page_canonical = "/books/revelation_english.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "The Apocalypse of John — A Modern Translation — English-only edition";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="On here you will find information about my book, a modern translation of John’s Revelation with plenty of notes.">
-  <title>John’s Revelation</title>
-  <?php include('../header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <fieldset class="separator-styled radius">
   <legend align="center">
@@ -21,12 +25,11 @@
   </legend>
 </fieldset>
 
-<body>
 <div class="heading-greek">
   <h1>The Apocalypse of John — A Modern Translation — English-only edition</h1>
   <h3>John's Revelation</h3>
   <i>A Modern Annotated Translation</i>
-  <img src="/media/imgs/coverrev_eng.webp", width="250", height="300" onerror="this.onerror=null; this.src='coverrev_eng.jpg'" alt="" width="250" height="300">
+  <img src="/media/imgs/coverrev_eng.webp" width="250" height="300" onerror="this.onerror=null; this.src='coverrev_eng.jpg'" alt="Ancient Greek" width="250" height="300">
   <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN Paperback</u>: 978-3-7557-9152-2</i>
   <span><a href="https://commons.wikimedia.org/wiki/File:Carle_Hessay_-_The_Dark_Riders_(1971).jpg">Cover background image</span></a> (Carle Hessay, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>)
 </div>

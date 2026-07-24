@@ -1,27 +1,29 @@
+<?php
+$page_title = "Histologion — ancient-greek.net";
+$page_description = "The Histologion, a blog written in Ancient Greek.";
+$page_canonical = "/journal/";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="The Histologion, a blog written in Ancient Greek.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Histologion — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Ancient Greek Journal</h1>
   <h3>Ἱστολόγιον Κλεοφίλου</h3>
   <i>Marvin’s Blog</i>
-  <img src="/media/imgs/clio_muse_history.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/clio_muse_history.jpeg'" alt="" width="300" height="30">
+  <img src="/media/imgs/clio_muse_history.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/clio_muse_history.jpeg'" alt="Ancient Greek" width="300" height="30">
   <i>Clio, Muse of History — Johannes Moreelse, early 1600s</i>
 </div>
 
-<body>
+
 <div class="article">
   <p class="blocktext">Hello and welcome to my blog, the Histologion. I will be updating this page somewhat irregularly, as I do not always have enough to write about to warrant an entire post. Therefore, whenever I feel I have enough to write about, I will write and post a blog post on this page. I will attempt to garnish them with emoji to help you understand what is being said. </p>
 </div>

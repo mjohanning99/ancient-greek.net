@@ -1,27 +1,29 @@
+<?php
+$page_title = "Greek General — ancient-greek.net";
+$page_description = "Information on how to study Ancient Greek, pronunciation guides and more.";
+$page_canonical = "/greekgeneral/";
+$page_image = "/media/imgs/platoathens.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="Information on how to study Ancient Greek, pronunciation guides and more.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Greek General — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>General Information on the Ancient Greek Language</h1>
   <h3>Περὶ τῆς Ἑλληνικῆς γλώττης διδαχαὶ καθολικαί</h3>
   <i>General teachings about the Greek language</i>
-  <img src="/media/imgs/general/general_index.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/general/general_index.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/general/general_index.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/general/general_index.jpg'" alt="Ancient Greek" width="400" height="400">
   <i>A bilingual Bible from the 19<sup>th</sup> century</i>
 </div>
 
-<body>
+
 <div class="article">
   <p>If you wish to know more about the Ancient Greek language in general, such as my reasons for learning it, tips on how you yourself can pursue the goal of learning this language, pronunciation guides and more — then this site is for you. Below you will find a growing number of articles on the above-mentioned topics that, I hope, will help you in your path towards gaining a better understanding of the language.</p>
 </div>

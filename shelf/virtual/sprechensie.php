@@ -1,15 +1,21 @@
+<?php
+$page_title = "Sprechen Sie Attisch? (Do you speak Attic?) — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/shelf/virtual/sprechensie.php";
+$page_image = "/media/imgs/herodold.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Sprechen Sie Attisch? — A Review";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Sprechen Sie Attisch? (Do you speak Attic?) — ancient-greek.net</title>
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Sprechen Sie Attisch? — A Review</h1>
@@ -17,7 +23,7 @@
   <i>Do you speak Attic?</i>
 </div>
 
-<body>
+
   <div class="article">
     <p>I stumbled upon this book in an Ancient Greek chat group I am a member of and was immediately intrigued. It was written in German in the middle of the 19th century and contains conversational Attic Greek phrases; and I shall herein attempt to provide a brief overview of the book and translate some of the phrases to the best of my abilities. The earliest version of this book I was able to find is a microfiche of the printed book from 1889; and considering the version I am using is from 1901 and is the second edition, I am fairly certain that this 1889 version is the first edition. </p>
   </div>

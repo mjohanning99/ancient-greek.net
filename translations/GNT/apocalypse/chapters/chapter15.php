@@ -1,19 +1,19 @@
+<?php
+$page_title = "Revelation Translation — Chapter 15 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the Revelation — Chapter 15";
+$page_canonical = "/translations/GNT/apocalypse/chapters/chapter15.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Modern illustrated translation of the Revelation — Chapter 15">
-  <title>Revelation Translation — Chapter 15</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον ιε’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/angelsevenjars.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelsevenjars.jpg'" alt="" width="300" height="300">
+  <img src="/media/imgs/GNT/revtrans/angelsevenjars.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelsevenjars.jpg'" alt="Ancient Greek" width="300" height="300">
   <br>
   <i>An Angel Holding Seven Jars — 14<sup>th</sup> century, Frescos in the Baptistry (Padua) by Giusto de' Menabuoi</i>
 </div>

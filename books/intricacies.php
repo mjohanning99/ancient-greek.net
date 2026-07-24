@@ -1,32 +1,35 @@
+<?php
+$page_title = "The Intricacies of Ancient Egyptian Hieroglpyhics — ancient-greek.net";
+$page_description = "Information about 'The Intricacies of Ancient Egyptian Hieroglyphics', a book teaching you the basics of Ancient Egyptian in an accessible manner.";
+$page_canonical = "/books/intricacies.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "The Intricacies of Ancient Egyptian Hieroglpyhics";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Information about 'The Intricacies of Ancient Egyptian Hieroglyphics', a book teaching you the basics of Ancient Egyptian in an accessible manner.">
-  <title>The Intricacies of Ancient Egyptian Hieroglpyhics</title>
-  <?php include('../header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <fieldset class="separator-styled radius">
   <legend align="center">
     <img src="/media/icons/olympic-games.png">
-      ΤΗΝ ΤΗΣ ΑΙΓΥΠΤΟΥ ΓΛΩΤΤΑΝ ΜΑΝΘΑΝΩΜΕΝ 
+      ΤΗΝ ΤΗΣ ΑΙΓΥΠΤΟΥ ΓΛΩΤΤΑΝ ΜΑΝΘΑΝΩΜΕΝ
     <img src="/media/icons/olympic-games.png">
   </legend>
 </fieldset>
 
-<body>
 <div class="heading-greek">
   <h1>The Intricacies of Ancient Egyptian Hieroglpyhics</h1>
   <h3>The Intricacies of Ancient Egyptian Hieroglpyhics</h3>
   <i>Learning the basics of the Ancient Egyptian writing system; for complete beginners</i>
-  <img src="/media/imgs/cover_intricacies.webp", width="250", height="300" onerror="this.onerror=null; this.src='cover_intricacies.jpeg'" alt="" width="250" height="300">
+  <img src="/media/imgs/cover_intricacies.webp" width="250" height="300" onerror="this.onerror=null; this.src='cover_intricacies.jpeg'" alt="Ancient Greek" width="250" height="300">
   <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN</u>: 978-3-752952-49-0</i>
 </div>
 

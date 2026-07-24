@@ -1,27 +1,29 @@
+<?php
+$page_title = "The Gospel of John — Translation and Transliteration — ancient-greek.net";
+$page_description = "A modern translation and transliteration of the Gospels of John";
+$page_canonical = "/translations/GNT/gospels/john/";
+$page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A modern translation and transliteration of the Gospels of John">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>The Gospel of John — Translation and Transliteration — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>The Gospel of John — Translation and Transliteration</h1>
   <h3>Τὸ εὐαγγέλιον κατὰ Ἰωάννην</h3>
   <i>The Gospel according to John</i>
-  <img src="/media/imgs/GNT/gospels/johntheevangelist.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/johntheevangelist.jpg'" alt="" width="300" height="300">
+  <img src="/media/imgs/GNT/gospels/johntheevangelist.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/johntheevangelist.jpg'" alt="Ancient Greek" width="300" height="300">
   <i><q>St. John the Evangelist</q> — Vladimir Borovikovsky, 1804 - 1809</i>
 </div>
 
-<body>
+
 <div class="article">
   <p>The Gospel of John, despite being the last of the canonical Gospels of the New Testament, was the very first actual piece of text I read in Ancient Greek. It details, as all of the other Gospels do as well, the life of Jesus Christ, his various deeds, ultimate demise and resurrection. The reason for my having chosen this as my first text to read — and complete — is the very straightforward nature in which it is written; it uses a Greek that is easy to grasp and very little unusual vocabulary. The latter aspect might make this section of the New Testament somewhat <i>boring</i> to some — but I, for one, really enjoy the straightforward nature of this Gospel; and seeing as it was the first text I read in Greek, I decided to begin my translation of the Gospels with this one.</p>
   
@@ -81,3 +83,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

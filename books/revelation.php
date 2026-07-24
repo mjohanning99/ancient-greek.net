@@ -1,17 +1,21 @@
+<?php
+$page_title = "The Apocalypse of John: A Modern Translation — ancient-greek.net";
+$page_description = "On here you will find information about my book, a translation of the Apocalypse of John with plenty of notes and lots of illustrations.";
+$page_canonical = "/books/revelation.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "The Apocalypse of John — A Modern Translation";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="On here you will find information about my book, a translation of the Apocalypse of John with plenty of notes and lots of illustrations.">
-  <title>The Apocalypse of John: A Modern Translation — ancient-greek.net</title>
-  <?php include('../header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <fieldset class="separator-styled radius">
   <legend align="center">
@@ -21,12 +25,11 @@
   </legend>
 </fieldset>
 
-<body>
 <div class="heading-greek">
   <h1>The Apocalypse of John — A Modern Translation</h1>
   <h3>Ἡ Ἀποκάλυψις τοῦ Ἰωάννου — Μετάφρασις καινὴ ζωγράφημασι καὶ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>
   <i>The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text</i>
-  <img src="/media/imgs/coverrevelation.webp", width="250", height="300" onerror="this.onerror=null; this.src='coverrevelation.png'" alt="" width="250" height="300">
+  <img src="/media/imgs/coverrevelation.webp" width="250" height="300" onerror="this.onerror=null; this.src='coverrevelation.png'" alt="Ancient Greek" width="250" height="300">
   <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-7543-2897-2</i>
 </div>
 

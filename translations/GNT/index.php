@@ -1,27 +1,29 @@
+<?php
+$page_title = "The Greek New Testament — Translation and Transliteration — ancient-greek.net";
+$page_description = "A modern translation and transliteration of the New Testament";
+$page_canonical = "/translations/GNT/";
+$page_image = "/media/imgs/StJerome.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A modern translation and transliteration of the New Testament">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>The Greek New Testament — Translation and Transliteration — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>The Greek New Testament — Translation and Transliteration</h1>
   <h3>Μετάφρασις Κλεοφίλου τῆς Καινῆς Διαθήκης</h3>
   <i>Marvin’s translation of the New Testament</i>
-  <img src="/media/imgs/GNT/DoNotJudge.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/DoNotJudge.jpg'" alt="" width="250" height="250">
+  <img src="/media/imgs/GNT/DoNotJudge.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/DoNotJudge.jpg'" alt="Ancient Greek" width="250" height="250">
   <i>Do not judge, so that you will not, yourselves, be judged (Mat. 7:1).</i>
 </div>
 
-<body>
+
 <div class="article">
     <p class="blocktext">I highly doubt that the New Testament requires a detailled introduction, as it is one of the most influential books of the world. No matter what you think of its contents — or, indeed, the beliefs that have arisen from it —, it has influenced humanity in ways that few other books — if any — ever have.</p>
 
@@ -46,3 +48,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

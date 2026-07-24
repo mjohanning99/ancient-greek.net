@@ -1,15 +1,19 @@
+<?php
+$page_title = "journal/2020/dictionarykeyboard.php — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/journal/2020/dictionarykeyboard.php";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1 style="margin-bottom: 0px;">Βιβλίον λόγων μὴν ἔχειν ἐθέλω·</h1>
@@ -19,7 +23,7 @@
 
 </div>
 
-<body>
+
   <div class="article">
       <p>Perhaps I should preface this by stating these are my own opinions of the dictionary that I bought and that I have by no means been compensated for saying what I shall be saying.</p>
 

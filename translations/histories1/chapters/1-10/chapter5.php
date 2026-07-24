@@ -1,19 +1,19 @@
+<?php
+$page_title = "Herodotus’ Histories Translation — Chapter 5 — ancient-greek.net";
+$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_canonical = "/translations/histories1/chapters/1-10/chapter5.php";
+$page_image = "/media/imgs/herodold.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<meta name="description" content="A modern and illustrated translation of Herodotus’ Histories">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Herodotus’ Histories Translation — Chapter 5</title>
-
-<?php include('../../header.php'); ?>
-
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../../header.php'); ?>
 
 <div align="center">
   <h1>Ἱστορίαι Ἡροδότου — ε’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/PhoenicianBridge.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/PhoenicianBridge.jpg'" alt="" width="200" height="200">
+  <img src="/media/imgs/herodotus/PhoenicianBridge.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/PhoenicianBridge.jpg'" alt="Ancient Greek" width="200" height="200">
   <br>
   <i>Phoenicians constructing Pontoon Bridges for Xerxes I of Persia during the second Persian invasion of Greece in 480 BC. (1915 drawing by A. C. Weatherstone).</i>
   <br>

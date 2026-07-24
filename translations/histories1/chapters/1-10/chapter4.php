@@ -1,19 +1,19 @@
+<?php
+$page_title = "Herodotus’ Histories Translation — Chapter 4 — ancient-greek.net";
+$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_canonical = "/translations/histories1/chapters/1-10/chapter4.php";
+$page_image = "/media/imgs/herodold.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<meta name="description" content="A modern and illustrated translation of Herodotus’ Histories">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Herodotus’ Histories Translation — Chapter 4</title>
-
-<?php include('../../header.php'); ?>
-
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../../header.php'); ?>
 
 <div align="center">
   <h1>Ἱστορίαι Ἡροδότου — δ’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/DasBrennendeTroja.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/DasBrennendeTroja.jpg'" alt="" width="200" height="200">
+  <img src="/media/imgs/herodotus/DasBrennendeTroja.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/DasBrennendeTroja.jpg'" alt="Ancient Greek" width="200" height="200">
   <br>
   <i>Blick auf das brennende Troja (A view of the burning city of Troy) by Johann Georg Trautmann (1713–1769).</i>
   <br>

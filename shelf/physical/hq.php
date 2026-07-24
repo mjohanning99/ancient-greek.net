@@ -1,18 +1,21 @@
+<?php
+$page_title = "Hansen & Quinn’s Greek, An Intensive Course — ancient-greek.net";
+$page_description = "A review about Hansen & Quins’s book “Greek, an Intensive Course”; infamous for its steep difficulty and reliance upon the grammar-translation method";
+$page_canonical = "/shelf/physical/hq.php";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Hansen and Quinn’s Greek, An Intensive Course";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A review about Hansen & Quins’s book “Greek, an Intensive Course”; infamous for its steep difficulty and reliance upon the grammar-translation method">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Hansen & Quinn’s Greek, An Intensive Course — ancient-greek.net</title>
-
-  <?php include("header.php"); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Hansen and Quinn’s Greek, An Intensive Course</h1>
@@ -20,7 +23,7 @@
   <i>The studying of the language with the</i>
 </div>
 
-<body>
+
   <div class="article">
     <p>Before you begin reading this, I would like you to understand this this is no longer the opinion I hold of this book; instead, I would highly encourage you to look at what I have to say about Hansen and Quinn on the page regarding <a href="readinggreek.php">JACT’s Reading Greek</a>. I would no longer recommend this to you.</p>
   </div>

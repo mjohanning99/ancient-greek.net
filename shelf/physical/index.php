@@ -1,26 +1,28 @@
+<?php
+$page_title = "My Physical Shelf — ancient-greek.net";
+$page_description = "Reviews of the books about and in Ancient Greek that I physically own.";
+$page_canonical = "/shelf/physical/";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="Reviews of the books about and in Ancient Greek that I physically own.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>My Physical Shelf — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>My Ancient Greek Books (Physical)</h1>
   <h3>Τὰ βιβλία μου τῷ τὴν γλῶτταν μαθεῖν καὶ ἀναγνῶσαι</h3>
   <i>My books for learning and reading the language</i>
-  <img src="/media/imgs/shelf.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/shelf.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/shelf.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/shelf.jpg'" alt="Ancient Greek" width="400" height="400">
 </div>
 
-<body>
+
 <div class="article">
   <p class="blocktext">Welcome to my shelf. This page contains some information regarding the various books that I physically own that have something to do with either <i>learning</i> or <i>reading</i> this fascinating language. As my collection, inevitably, grows, this page will be updated; and I therefore recommend you come back here every so often if you wish to receive some information regarding some resources for learning and reading this language.</p>
 </div>

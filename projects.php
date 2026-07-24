@@ -1,15 +1,18 @@
+<?php
+$page_title = "My projects – ancient-greek.net — ancient-greek.net";
+$page_description = "A short overview of my current projects.";
+$page_canonical = "/projects.php";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="CSS/styles.css">
-  <link rel="stylesheet" href="CSS/styles.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A short overview of my current projects.">
-  <title>My projects – ancient-greek.net</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
@@ -18,14 +21,12 @@
       <img src="/media/icons/amphora-2.png">
     </legend>
   </fieldset>
-</head>
 
-<body>
 <div class="heading-greek">
     <h1>My projects</h1>
     <h3>Τίνες εἰσὶν ἁι βουλαί μου;</h3>
     <i>What are my projects?</i>
-    <img src="/media/imgs/paul_writing.webp", width="280", height="150" onerror="this.onerror=null; this.src='/media/imgs/paul_writing.jpg'" alt="" width="280" height="150">
+    <img src="/media/imgs/paul_writing.webp" width="280" height="150" onerror="this.onerror=null; this.src='/media/imgs/paul_writing.jpg'" alt="Ancient Greek" width="280" height="150">
     <i>Saint Paul Writing His Epistles — 1618 – 1620, Valentin de Boulogne</i>
 </div>
 

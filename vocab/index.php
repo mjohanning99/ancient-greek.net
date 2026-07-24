@@ -1,15 +1,18 @@
+<?php
+$page_title = "Vocabulary — ancient-greek.net";
+$page_description = "Ancient Greek Vocabulary from various books.";
+$page_canonical = "/vocab/";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="Ancient Greek Vocabulary from various books.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Vocabulary — ancient-greek.net</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('../header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
@@ -18,7 +21,6 @@
     <img src="/media/icons/uvas.png">
     </legend>
   </fieldset>
-</head>
 
 <div class="heading-greek">
   <h1>Ancient Greek Vocabulary Lists</h1>
@@ -26,7 +28,7 @@
   <i>To be taught the words of the Greek language</i>
 </div>
 
-<body>
+
 <div class="article">
 	
 	</div>

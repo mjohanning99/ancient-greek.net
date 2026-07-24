@@ -1,24 +1,27 @@
+<?php
+$page_title = "Adam Rechenberg’s Greek New Testament (1736 ed.) — ancient-greek.net";
+$page_description = "A review and examination of an original 18th-century copy of Adam Rechenberg’s New Testament";
+$page_canonical = "/shelf/presbyterium/18thcentury/NTRechenberg.php";
+$page_image = "/media/imgs/presbyterium.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Adam Rechenberg’s New Testament";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A review and examination of an original 18th-century copy of Adam Rechenberg’s New Testament">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Adam Rechenberg’s Greek New Testament (1736 ed.) — ancient-greek.net</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <div class="heading-greek">
   <h1>Adam Rechenberg’s New Testament</h1>
   <h3>Ἡ τοῦ Ἀδάμ Ῥέχενβεργ Καινὴ Διαθήκη</h3>
   <i>Adam Rechenberg’s New Testament discussed in detail and with lots of illustrations</i>
-  <img src="/media/imgs/NTRechenberg/IMG_0156.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" alt="" width="300" height="300">
+  <img src="/media/imgs/NTRechenberg/IMG_0156.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" alt="Ancient Greek" width="300" height="300">
 </div>
 
 <div class="column-center">
@@ -54,7 +57,7 @@
   </div>
 </div>
 
-<body>
+
   <div class="article">
     <h2 id="about">About the author / publisher</h2>
     <p>In the following section, I will be briefly talking about the publisher of the book and I will be mentioning what other books he has written or published, where he studied, where he lived and more.</p>
@@ -63,7 +66,7 @@
     <p>Before I begin my examination of various points of interest in the book itself, I would like to begin highlighting some information about the author — or, rather, the publisher of this particular volume of the New Testament, Adam Rechenberg. I have misspelt his name frequently over the course of writing this website, as it is oddly reminiscent of Sherlock Holmes’ <i>The Reichenbach Fall</i>; my brain appears to have the desire to write Adam’s name not as <i>Rechenberg</i>, but rather as <i>Rechenbach</i>. My frequent consultation of the stories of Sherlock Holmes might have caused this issue.</p>
 
     <figure>
-      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.jpg'" alt="">
+      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.jpg'" alt="Ancient Greek">
       <figcaption>A portrait of Rechenberg, © The Trustees of the British Museum (CC BY-NC-SA 4.0)</figcaption>
     </figure>
 

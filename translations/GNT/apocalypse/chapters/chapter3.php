@@ -1,19 +1,19 @@
+<?php
+$page_title = "Revelation Translation — Chapter 3 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the Revelation — Chapter 3";
+$page_canonical = "/translations/GNT/apocalypse/chapters/chapter3.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Modern illustrated translation of the Revelation — Chapter 3">
-  <title>Revelation Translation — Chapter 3</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον γ’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/laodicealetter.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/laodicealetter.jpg'" alt="" width="200" height="200">
+  <img src="/media/imgs/GNT/revtrans/laodicealetter.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/laodicealetter.jpg'" alt="Ancient Greek" width="200" height="200">
   <br>
   <i>Das Sendschreiben an die Gemeinde von Laodizea (John writes to the Church at Laodicea) — 1000, Bamberger Apokalypse</i>
 </div>

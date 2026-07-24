@@ -1,16 +1,19 @@
+<?php
+$page_title = "greekgeneral/greek_old.php — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/greekgeneral/greek_old.php";
+$page_image = "/media/imgs/platoathens.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-<?php include('../header.php'); ?>
-
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Τὴν ἀρχαίαν Ἑλληνικὴν γλῶτταν δι’ ἃς αἰτίας μανθάνῃς;</h1>
@@ -18,7 +21,7 @@
   <br>
 </div>
 
-<body>
+
 <div class="article">
   <p>This is a question that gets asked rather frequently, not only with my learning Ancient Greek but also Ancient Egyptian. I find it somewhat difficult to give one exact answer, so I shall herein attempt to somewhat explain why I like studying ancient languages such as these, with the focus being on Ancient Greek in this particular text.</p>
 

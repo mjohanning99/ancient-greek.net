@@ -1,25 +1,31 @@
+<?php
+$page_title = "Novum Testamentum Graece — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/shelf/physical/novumtestamentum.php";
+$page_image = "/media/imgs/shelf.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Nestle-Aland’s Novum Testamentum Graece — Review";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Novum Testamentum Graece — ancient-greek.net</title>
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Nestle-Aland’s Novum Testamentum Graece — Review</h1>
   <h3>Τὴν Καινὴν Διαθήκην ἀναγιγνωσκώμεθα!</h3>
   <i>Let us read the New Testament!</i>
-  <img src="/media/imgs/novum/john.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/novum/john.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/novum/john.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/novum/john.jpg'" alt="Ancient Greek" width="400" height="400">
   <i>The Gospel of John in its original language</i>
 </div>
 
-<body>
+
   <div class="article"><p>The New Testament was orginally written in Ancient Greek (or, more specifically, Koine Greek) and is written in a mostly rather easy to understand manner; this is due to the fact that it written using simpler grammar and repeats things frequently. I therefore find it to be a great text to read as an intermediate student of the language — especially if you are Christian or interested in Christianity.</p></div>
 
   <div class="article">

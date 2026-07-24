@@ -1,19 +1,19 @@
+<?php
+$page_title = "Revelation Translation — Chapter 4 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the Revelation — Chapter 4";
+$page_canonical = "/translations/GNT/apocalypse/chapters/chapter4.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Modern illustrated translation of the Revelation — Chapter 4">
-  <title>Revelation Translation — Chapter 4</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον δ’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/christpantokrator.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/christpantokrator.jpg'" alt="" width="250" height="250">
+  <img src="/media/imgs/GNT/revtrans/christpantokrator.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/christpantokrator.jpg'" alt="Ancient Greek" width="250" height="250">
   <br>
   <i>Господь Вседержитель (The Lord Almighty) — 1874 Nikolay Koshelev</i>
 </div>

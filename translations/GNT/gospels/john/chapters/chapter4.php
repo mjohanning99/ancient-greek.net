@@ -1,18 +1,19 @@
+<?php
+$page_title = "Gospel of John Translation — Chapter 4 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the Gospel of John — Chapter 4";
+$page_canonical = "/translations/GNT/gospels/john/chapters/chapter4.php";
+$page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Modern illustrated translation of the Gospel of John — Chapter 4">
-  <title>Gospel of John Translation — Chapter 4</title>
-
-  <?php include('../header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Τὸ εὐαγγέλιον κατὰ Ἰωάννην — κεφάλαιον δ’</h1>

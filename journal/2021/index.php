@@ -1,18 +1,19 @@
+<?php
+$page_title = "Musings, Articles and Blog — ancient-greek.net";
+$page_description = "Musings and articles about things in Ancient Greek — from 2021.";
+$page_canonical = "/journal/2021/";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Musings and articles about things in Ancient Greek — from 2021.">
-  <title>Musings, Articles and Blog — ancient-greek.net</title>
-
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1 style="margin-bottom: 0;">Συγγραφαὶ ἐμοῦ — 2021</h1>
@@ -25,7 +26,7 @@
 </div>
 
 
-<body>
+
 <div class="column-center">
     <h2>List of Articles</h2>
     <div class="row">

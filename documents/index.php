@@ -1,16 +1,19 @@
+<?php
+$page_title = "Documents — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/documents/";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Documents — ancient-greek.net</title>
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Ancient Greek Documents</h1>
@@ -19,7 +22,7 @@
   <br><br>
 </div>
 
-<body>
+
 <div class="article">
   <p class="blocktext">This page contains, mainly, things which I wrote in and about the Ancient Greek language, such as my notes, interesting things to read and more. Unfortunately, due to the matter with <i>copyright</i>, I am unable to provide you with literally every resource that I have; but I will, nontheless, attempt to provide you with a decent selection of works which I find might be helpful for the aspiring learner or even for those who have already begun learning the language. </p>
 </div>

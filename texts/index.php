@@ -1,17 +1,19 @@
+<?php
+$page_title = "Marvin’s Greek Letters — ancient-greek.net";
+$page_description = "My own letters written in Ancient Greek with translation and transliteration.";
+$page_canonical = "/texts/";
+$page_image = "/media/imgs/logo_about.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="My own letters written in Ancient Greek with translation and transliteration.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Marvin’s Greek Letters — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Letters written in Ancient Greek</h1>
@@ -19,7 +21,7 @@
   <i>Marvin's letters</i>
 </div>
 
-<body>
+
 <div class="article">
   <p class="blocktext">Composition is, of course, an integral part of learning a language and one that should not be ignored. I have, thus, taken up the habit of writing <q>letters</q> and other types of prose in Ancient Greek to help me work on this aspect of language learning. A lot of these will undoubtedly have countless grammatical errors, but it is a fun occupation which also helps me, although slowly, improve my grammar and even reading comprehension. Thus, you will be able to find those aforementioned prose works of mine here in the original Ancient Greek with both a transliteration and a translation.</p>
 </div>
@@ -41,3 +43,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

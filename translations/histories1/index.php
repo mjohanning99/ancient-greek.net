@@ -1,27 +1,29 @@
+<?php
+$page_title = "Herodotus’ Histories — A translation — ancient-greek.net";
+$page_description = "A modern translation of Herodotus’ Histories with a transliteration.";
+$page_canonical = "/translations/histories1/";
+$page_image = "/media/imgs/herodold.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A modern translation of Herodotus’ Histories with a transliteration.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Herodotus’ Histories — A translation — ancient-greek.net</title>
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Herodotus’ Histories — Original Greek Text and Translation</h1>
   <h3>Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε …</h3>
   <i>Herodotus of Halicarnassus here presents his research …</i>
-  <img src="/media/imgs/herodbust.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodbust.jpg'" alt="" width="200" height="200">
+  <img src="/media/imgs/herodbust.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodbust.jpg'" alt="Ancient Greek" width="200" height="200">
   <i>Bust of Herodotus’</i>
 </div>
 
-<body>
+
 <div class="article">
   <p class="blocktext">Scroll down to view the chapters and skip the introduction. I have previously written a rather <a href="/greek/shelf/virtual/histories.php">lengthy article</a> about this work and will, therefore, not go into much detail about the book itself on this page here. As a short summary, however, Herodotus’ <i>Inquiries</i> or <i>Research</i> — which are more accurate translations than <i>Histories</i> — detail many important historic events that occured during or before Herodotus’ time. Amongst these are the Greco-Persian Wars, which is one of the first things he mentions in his introduction to his work. Herodotus attempts to see things from the perspective of both sides and, in this manner, tries to create a neutral point-of-view and a simple retelling of history as it happened without (too many) biases. He is, to this day, our primary resource for the details of aforemetioned historic events. </p>
 
@@ -78,3 +80,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

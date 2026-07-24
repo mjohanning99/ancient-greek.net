@@ -1,24 +1,19 @@
+<?php
+$page_title = "journal/2020/passivehell.php — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/journal/2020/passivehell.php";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<style>
-code {
-  font-family: Merriweather;
-  /* color: darkblue; */
-  background-color: #f1f1f1;
-  padding: 2px;
-  font-size: 95%;
-}
-</style>
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1 style="margin-bottom: 0px;">Τὴν Ἀρχαίαν Ἑλληνικὴν γλῶτταν μὲν ὑπὸ βιβλίου ἀγαθοῦ παιδεύομαι</h1>
@@ -27,7 +22,7 @@ code {
   <i>On Unit 5 and The Nightmare Which Is The Greek Passive Voice</i>
 </div>
 
-<body>
+
   <div class="article">
     <p>Indeed, one of the things which I have dreaded the most has “finally” arrived, namely the passive voice of Greek verbs. I have not yet even finished the fifth Unit, but I simply had to write this post to talk about the insanities of this voice; I even postponed my writing of the post on conditional sentences — which I had initially wanted to get published <i>before</i> this one — so that I am able to write about the passive.</p>
     <p>You may now, naturally — especially if you do not know anything about Attic Greek —, be wondering why this is the case and, perhaps, may even ask yourself what the passive voice even is. And, thus, before speaking about the aforementioned absurdity of the passive, I will begin by briefly explaining what the passive voice actually is.</p>

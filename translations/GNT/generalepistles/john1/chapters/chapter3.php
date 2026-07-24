@@ -1,18 +1,19 @@
+<?php
+$page_title = "First Epistle of John Translation — Chapter 3 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the First Epistle of John — Chapter 3";
+$page_canonical = "/translations/GNT/generalepistles/john1/chapters/chapter3.php";
+$page_image = "/media/imgs/StJerome.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Modern illustrated translation of the First Epistle of John — Chapter 3">
-  <title>First Epistle of John Translation — Chapter 3</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἡ πρώτη τοῦ Ἰωάννου ἐπιστολή — κεφάλαιον γ’</h1>

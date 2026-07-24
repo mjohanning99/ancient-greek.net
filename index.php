@@ -1,14 +1,18 @@
+<?php
+$page_title = "Agora (Home page) — ancient-greek.net (Ancient Greek) — ancient-greek.net";
+$page_description = "A website about all things Ancient Greek; from the Classical Period to the Byzantine. Original texts, lots of graphics, translations, book reviews &c.";
+$page_canonical = "/";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A website about all things Ancient Greek; from the Classical Period to the Byzantine. Original texts, lots of graphics, translations, book reviews &c.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  <title>Agora (Home page) — ancient-greek.net (Ancient Greek)</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
@@ -17,19 +21,18 @@
     <img src="/media/icons/triskele.png">
     </legend>
   </fieldset>
-</head>
 
 <div align="center">
   <h1 style="margin-bottom: 0;">Welcome to ancient-greek.net</h1>
   <h3 style="margin: 0;">Information about the language and culture of the people of Ancient Greece</h3>
   <br>
-  <img src="/media/imgs/header.webp", width="600", height="350" onerror="this.onerror=null; this.src='/media/imgs/header.png'" alt="" width="600" height="350" alt="Alcibiades Being Taught by Socrates — 1776, François-André Vincent">
+  <img src="/media/imgs/header.webp" width="600" height="350" onerror="this.onerror=null; this.src='/media/imgs/header.png'" alt="Alcibiades Being Taught by Socrates — 1776, François-André Vincent">
   <br>
   <i>Let’s learn the Ancient Greek language!</i>
   <br>
 </div>
 
-<body>
+
 <div class="article">
   <p class="blocktext">I bid you welcome! You have reached the Agora of ancient-greek.net, a small (but growing) corner of the Web; and I hope you enjoy your stay! The Agora is the hub of the page, from where you can begin your journey into the various topics; click the <q><img src="/media/icons/parthenon-3.png" width="16" height="16"> Agora</q> at the top left to return here. You can also find us on <img src="/media/icons/youtube.png" width="16" height="16"> <a href="https://www.youtube.com/channel/UCpU3eASmyKybJWnzhC1xJvA">YouTube</a>.</p>
 

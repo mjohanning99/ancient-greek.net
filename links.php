@@ -1,15 +1,18 @@
+<?php
+$page_title = "Links – ancient-greek.net — ancient-greek.net";
+$page_description = "A list of links to interesting sites of the Web.";
+$page_canonical = "/links.php";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="CSS/styles.css">
-  <link rel="stylesheet" href="CSS/styles.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A list of links to interesting sites of the Web.">
-  <title>Links – ancient-greek.net</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend>
@@ -18,15 +21,12 @@
       <img src="/media/icons/lyre.png">
     </legend>
   </fieldset>
-</head>
-
-<body>
 
 <div align="center">
     <h1 style="margin-bottom: 0;">Links</h1>
     <h3 style="margin: 0;">Enter another realm …</h3>
     <br>
-    <img src="/media/imgs/lotdaughters.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/lotdaughters.jpg'" alt="" width="200" height="200">
+    <img src="/media/imgs/lotdaughters.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/lotdaughters.jpg'" alt="Ancient Greek" width="200" height="200">
     <br>
     <i>Lot and His Daughters — 1496 – 1499, Albrecht Dürer</i>
 </div>

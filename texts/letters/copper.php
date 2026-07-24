@@ -1,16 +1,19 @@
+<?php
+$page_title = "First letter — About the copper — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/texts/letters/copper.php";
+$page_image = "/media/imgs/logo_about.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>First letter — About the copper — ancient-greek.net</title>
-<?php include('../header.php'); ?>
-
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἐπιστολὴ αʹ — Περὶ τοῦ χαλκοῦ</h1>

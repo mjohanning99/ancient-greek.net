@@ -1,23 +1,26 @@
+<?php
+$page_title = "An Amateur Analysis of the Apocalypse of John (Revelation) — Observations by an Intermediate Student — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/journal/2021/apocalypseanalysis.php";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>An Amateur Analysis of the Apocalypse of John (Revelation) — Observations by an Intermediate Student</title>
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1>Περὶ τῆς ἀτόπου γλώττης τοῦ Ἰωάννου Ἀποκαλύψεως</h1>
   <h3 style="margin-bottom: 0px;">An Amateur Analysis of the Apocalypse of John (Revelation) — Observations by an Intermediate Student</h3>
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/beatos_2.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/beatos_2.jpg'" alt="" width="250" height="250">
+  <img src="/media/imgs/GNT/beatos_2.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/beatos_2.jpg'" alt="Ancient Greek" width="250" height="250">
   <br>
   <i>Rev 16:8 — Καὶ ὁ τέταρτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ἥλιον· καὶ ἐδόθη αὐτῷ καυματίσαι τοὺς ἀνθρώπους ἐν πυρί.</i>
   <br>
@@ -25,7 +28,7 @@
   <br><br>
 </div>
 
-<body>
+
   <div class="row">
     <div class="article">
       <h2>Introduction and Disclaimer</h2>

@@ -1,29 +1,29 @@
+<?php
+$page_title = "How to pronounce Ancient Greek? — ancient-greek.net";
+$page_description = "An article on how to pronounce the Ancient Greek language and the various ways of pronuncing it.";
+$page_canonical = "/greekgeneral/greek_pronunciation.php";
+$page_image = "/media/imgs/platoathens.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description"
-    content="An article on how to pronounce the Ancient Greek language and the various ways of pronuncing it.">
-  <title>How to pronounce Ancient Greek? — ancient-greek.net</title>
-
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>How to pronounce Ancient Greek?</h1>
   <h3>Τὴν ἀρχαίαν Ἑλληνικὴν γλῶτταν πῶς φθέγγῃ;</h3>
   <i>How should you pronounce the Ancient Greek language?</i>
-  <img src="/media/imgs/general/pronunciation_1_resize.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_1_resize.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/general/pronunciation_1_resize.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_1_resize.jpg'" alt="Ancient Greek" width="400" height="400">
   <i>Part of the pronunciation guide found in Hansen and Quinn’s <q>Greek: An Intensive Course</q></i>
 </div>
 
-<body>
+
   <div class="article">
     <p>Learning the pronunciation of an ancient language does not appear to be a priority for most people, and it is, at least somewhat, understandable — why would you want to, seemingly, waste time learning something that you will likely not use much again thereafter; and even if you <i>do</i> use it, who is going to judge your pronunciation? Native speakers of the language? Surely that is not going to be the case. You may, therefore, find it surprising that I value learning even an ancient language’s pronunciation at least somewhat properly; and precisely because of that, I shall be discussing the various ways of pronuncing Ancient Greek, how I personally pronounce it and I shall also more thoroughly explain the reason behind my finding the learning of a dead language’s pronunciation important — and it might not even be as dead as you think.</p>
   </div>
@@ -47,7 +47,7 @@
     <p>Unfortunately, the commonly taught so-called Erasmian pronunciation (which received its name from its inventor, the Dutch theologian and philospher Erasmus of Rotterdam) is nothing of the sort, as it is filled with anachronisms that turn it into a monster which would not have existed at any point of time during the language’s natural life. Pupils are not encouraged to break from their native tongue’s phonology, leading to many varieties of ear torture.</p>
       
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/general/pronunciation_oxford.webp" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_oxford.jpg'" alt="">
+      <img src="/media/imgs/general/pronunciation_oxford.webp" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_oxford.jpg'" alt="Ancient Greek">
       <figcaption>Pronunciation guide from Oxford’s Pocket Classical Greek Dictionary.</figcaption>
     </figure>
     <p>Indeed, the worst offender I have, as of today, seen was a Bible app I found for my phone. It is a great app and I use it frequently and it consists of videos of Bible passages being read and <q>dissected</q> so that they are easier to comprehend; the presenter is, no doubt, much more proficient in the language than I am, but his pronunciation made me unable to enjoy watching his videos for too long. He is pronouncing the words as if they were English and his American English accent is so pronounced — a pun may or may not be intended —, it is actually <i>difficult</i> for me to make out the words he is saying. </p>

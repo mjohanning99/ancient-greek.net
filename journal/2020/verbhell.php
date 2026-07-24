@@ -1,15 +1,19 @@
+<?php
+$page_title = "journal/2020/verbhell.php — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/journal/2020/verbhell.php";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1>Τὰ ῥήματα μανθάνειν ἐθέλω.</h1>
@@ -17,7 +21,7 @@
   <i style="margin-top: 0px;">Verb Hell</i>
 </div>
 
-<body>
+
   <div class="article">
     <p><em>Χαίρετε φίλοι μου!</em> (Hello my friends) and welcome back to my Ancient Greek Learning Blog. This time I want to write about the hellish force that clearly dwells behind the Greek verbal system. </p>
     <p><strong>Author's note August 23rd 2020</strong>: Upon having copied this text and made it available on the Greek portion of my website in addition to my blog, I once more noticed my greeting and would like to correct it somewhat; since I believe it should, instead, utilise the vocative and thus read <i>Χαίρετε, <strong>ὦ</strong> φίλοι μου</i> instead.

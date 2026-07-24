@@ -1,19 +1,19 @@
+<?php
+$page_title = "Herodotus’ Histories Translation — Chapter 14 — ancient-greek.net";
+$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_canonical = "/translations/histories1/chapters/11-20/chapter14.php";
+$page_image = "/media/imgs/herodold.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<meta name="description" content="A modern and illustrated translation of Herodotus’ Histories">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Herodotus’ Histories Translation — Chapter 14</title>
-
-<?php include('../../header.php'); ?>
-
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../../header.php'); ?>
 
 <div align="center">
   <h1>Ἱστορίαι Ἡροδότου — ιδ’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/AthenianTreasury.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/AthenianTreasury.jpg'" alt="" width="200" height="200">
+  <img src="/media/imgs/herodotus/AthenianTreasury.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/AthenianTreasury.jpg'" alt="Ancient Greek" width="200" height="200">
   <br>
   <i>Treasury house of Athens in Delphi — <a href="https://en.wikipedia.org/wiki/File:Treasury_house_of_Athens_in_Delphi_(July_2018).webp">Szymon Kabalczyk</a></i>
   <br>

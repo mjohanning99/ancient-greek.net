@@ -1,25 +1,31 @@
+<?php
+$page_title = "Herodotus’ Histories — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/shelf/virtual/histories.php";
+$page_image = "/media/imgs/herodold.webp";
+$page_type = "article";
+$page_schema_type = "Review";
+$page_item_name = "Herodotus’ Histories — A Review";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-<title>Herodotus’ Histories — ancient-greek.net</title>
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>Herodotus’ Histories — A Review</h1>
   <h3>Ἱστορίαι Ἡροδότου</h3>
   <i>Herodotus’ Histories — circa 450 BC</i>
-  <img src="/media/imgs/herodhistories.webp", width="400", height="400" onerror="this.onerror=null; this.src='/media/imgs/herodhistories.jpg'" alt="" width="400" height="400">
+  <img src="/media/imgs/herodhistories.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/herodhistories.jpg'" alt="Ancient Greek" width="400" height="400">
   <i>… ὦτα γὰρ τυγχάνει ἀνθρώποισι ἐόντα ἀπιστότερα ὀφθαλμῶν …</i>
 </div>
 
-<body>
+
 
   <div class="article">
     <p>Before I begin talking about the original author of this book and his peculiar dialect, I would like to thank <a href="https://geoffreysteadman.com/">Geoffrey Steadman</a> for creating the edition of this book that I have been using for my study. The image above has been directly taken from one of his books, as well as some of the photos and information regarding the Ionic dialect appearing in the article below. I highly encourage you to use either his freely available PDF version of this book — as I currently am — or, if you have the money, support his work by buying a paperback edition. Please note, however, that this article has not been sponsored, approved or even been seen by him in any way, shape or form; I merely wish to thank the author for creating such great books for intermediate students of the Ancient Greek language.</p>

@@ -1,15 +1,18 @@
+<?php
+$page_title = "Contact — ancient-greek.net";
+$page_description = "Information about how you can get in touch with me.";
+$page_canonical = "/contact.php";
+$page_image = "/media/imgs/header.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <meta name="description" content="Information about how you can get in touch with me.">
-  <link rel="preload" as="style" href="CSS/styles.css">
-  <link rel="stylesheet" href="CSS/styles.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contact — ancient-greek.net</title>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+</head>
 
+<body>
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
@@ -18,14 +21,12 @@
       <img src="/media/icons/amphora.png">
     <legend align="center">
   </fieldset>
-</head>
 
-<body>
 <div class="heading-greek">
   <h1>Contact</h1>
   <h3>Ἐπιστολὴν τινά μοι πέμπε</h3>
   <i>Write me a letter or an email</i>
-  <img src="/media/imgs/cossacks_letter.webp", width="300", height="300" onerror="this.onerror=null; this.src='/media/imgs/cossacks_letter.jpg'" alt="" width="300" height="300">
+  <img src="/media/imgs/cossacks_letter.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/cossacks_letter.jpg'" alt="Ancient Greek" width="300" height="300">
   <i>The Zaporozhye Cossacks Replying to the Sultan — 1878 – 1891, Ilya Repin</i>
 </div>
 

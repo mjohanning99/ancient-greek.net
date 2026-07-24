@@ -1,27 +1,29 @@
+<?php
+$page_title = "Revelation of John — Translation and Transliteration — ancient-greek.net";
+$page_description = "A modern translation of the most suspenseful book of the New Testament: The Revelation";
+$page_canonical = "/translations/GNT/apocalypse/";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="A modern translation of the most suspenseful book of the New Testament: The Revelation">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Revelation of John — Translation and Transliteration — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div class="heading-greek">
   <h1>The Revelation of John — Translation and Transliteration</h1>
   <h3>Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ Θεός …</h3>
   <i>The Revelation of Jesus Christ, which God gave him …</i>
-  <img src="/media/imgs/GNT/FourthAngel.webp", width="250", height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/FourthAngel.jpg'" alt="" width="250" height="250">
+  <img src="/media/imgs/GNT/FourthAngel.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/FourthAngel.jpg'" alt="Ancient Greek" width="250" height="250">
   <i>The Fourth Angel sounds his trumpet, Apocalypse 8 — circa 950. (Commentaria in Apocalypsin)</i>
 </div>
 
-<body>
+
   <div class="column-center">
     <div class="row">
       <div class="column-2">
@@ -101,3 +103,6 @@
 <footer>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
 </html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+</body>

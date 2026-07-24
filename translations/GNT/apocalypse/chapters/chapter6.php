@@ -1,19 +1,19 @@
+<?php
+$page_title = "Revelation Translation — Chapter 6 — ancient-greek.net";
+$page_description = "Modern illustrated translation of the Revelation — Chapter 6";
+$page_canonical = "/translations/GNT/apocalypse/chapters/chapter6.php";
+$page_image = "/media/imgs/coverrevelation.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <meta name="description" content="Modern illustrated translation of the Revelation — Chapter 6">
-  <title>Revelation Translation — Chapter 6</title>
-
-  <?php include('../header.php'); ?>
-  
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
 <body>
+  <?php include('../header.php'); ?>
 
 <div align="center">
   <h1>Ἀποκάλυψις Ἰωάννου — κεφάλαιον ϛ’</h1>
@@ -26,7 +26,7 @@
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/deathpalehorse.webp", width="200", height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/deathpalehorse.jpg'" alt="" width="200" height="200">
+  <img src="/media/imgs/GNT/revtrans/deathpalehorse.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/deathpalehorse.jpg'" alt="Ancient Greek" width="200" height="200">
   <br>
   <i>And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. (Rev. 6:8) — 1865, Gustave Doré</i>
 </div>

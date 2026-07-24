@@ -1,17 +1,19 @@
+<?php
+$page_title = "Musings, Articles and Blog — ancient-greek.net";
+$page_description = "Musings and articles about things in Ancient Greek — from 2020.";
+$page_canonical = "/journal/2020/";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <meta name="description" content="Musings and articles about things in Ancient Greek — from 2020.">
-  <link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-  <title>Musings, Articles and Blog — ancient-greek.net</title>
-
-  <?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1 style="margin-bottom: 0;">Συγγραφαί ἐμοῦ — 2020</h1>
@@ -23,7 +25,7 @@
   <p class="blocktext">The year 2020 was the one during which I seriously began my study of this fascinating language. I used a variety of textbooks and reviewed my process in irregular blog posts on my website; shortly afterwards, however, I decided to simply delete the blog, as I no longer found any use for it and was rather annoyed by its bloatedness. Therefore, the remnants of my old blog can be found below. I no longer have the exact dates of their publishing, but the majority of them must have been written in August to September.</p>
 </div>
 
-<body>
+
 <div class="column-center">
     <h2>List of Articles</h2>
     <div class="row">

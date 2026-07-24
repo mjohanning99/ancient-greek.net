@@ -1,15 +1,19 @@
+<?php
+$page_title = "journal/2020/verbhell2.php — ancient-greek.net";
+$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_canonical = "/journal/2020/verbhell2.php";
+$page_image = "/media/imgs/clio_muse_history.webp";
+$page_type = "article";
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
-<link rel="preload" as="style" href="/CSS/styles.css">
-  <link rel="stylesheet" href="/CSS/styles.css">
-  
-
-<?php include('header.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
 </head>
+
+<body>
+  <?php include('header.php'); ?>
 
 <div align="center">
   <h1>Τὰ ῥήματα μανθάνειν ἐθέλω. Τὸ δεύτερον.</h1>
@@ -19,7 +23,7 @@
 
 </div>
 
-<body>
+
 <div class="article">
   <p>Indeed, upon having started going through the third Unit of Hansen and Quinn&#39;s book, I have begun dreading Ancient Greek verbs even more than I did previously, for in this unit, the two other moods — subjunctive and optative — and two more tenses — perfect and pluperfect — are introduced; and, naturally, each of them using a different ending set and verb stem. Though I must admit that the two moods are rather straightforward and, as a way of helping me memorise their endings more easily, I shall herein give a small overview of them. I will most likely be doing something similar for the other tenses I have thus far had the <em>pleasure</em> of learning, both in handwritten form — as a small overview with endings and verb stems used — and in blog form; the latter of which you will be able to find on my blog at some later date. </p>
 
