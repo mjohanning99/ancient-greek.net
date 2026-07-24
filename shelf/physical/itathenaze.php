@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Italian Athenaze — ancient-greek.net";
-$page_description = "A review of the Italian edition of Athenaze.";
+$page_description = "A review of the Italian edition of Athenaze and why it’s (in my opinion) a required companion for anyone who studies Ancient Greek.";
 $page_canonical = "/shelf/physical/itathenaze.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";
@@ -39,7 +39,7 @@ $page_item_name = "Italian Athenaze — Review";
       <img src="/media/imgs/itath1.webp">
       <figcaption>A page from the book</figcaption>
     </figure>
-    
+
     <p>The traditional and still widely used grammar-translation method involves students studying bulky volumes of grammar and then applying the knowledge learnt by attempting to translate sentences and longer forms of text; rather mundane and, to most pupils at least, rather boring work. It is also a rather <q>unnatural</q> way of learning a language.</p>
     <p>I used to be an advocate of the grammar-translation method, proclaiming proudly my intellectual prowess — or, more accurately, lack thereof — by displaying my knowledge of the grammar of a language I was studying. The rather large downside of this method, however, should have become evident to me as soon as I was either required to read something or, even worse, <i>say</i> something. Indeed, the rather monstrously sized disadvantage of the grammar-translation method is often exaggerated by lack of time; I have, unfortunately, never been able to study a language as if it were my full-time job. If you <i>are</i> able to do so, such as in a summer course, then the grammar-translation method’s disadvantages may not be as evident as they are when you have at most an hour to learn the language each given day (setting aside weekends). For then it becomes rather obvious that spending the majority of the time learning new grammar, translating short texts — as the exercises of textbooks tend to be on the shorter size concerning the length of their texts — and taking notes is a rather inefficient use of one’s time; and, indeed, this may even be the reason for my knowing bits and pieces of a myriad of languages without actually being able to <i>speak</i> them.</p>
     <p>Intensively studying grammar leads to one having less time available to read texts in the language and learning vocabulary; obviously an important aspect of learning a language. And, as experience has taught me, people can have the worst grammar you can imagine, but as long as they know a decent amount of vocabulary, you will be able to understand them without too many difficulties. Of course it is vital to know a language’s grammar — I am by no means implying that one can pick up a dictionary of any given language, read and memorise it cover-to-cover and finally know how to speak the language —, but focussing solely (or nearly) on grammar is a most inefficient affair indeed.</p>

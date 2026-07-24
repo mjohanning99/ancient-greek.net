@@ -1,6 +1,6 @@
 <?php
 $page_title = "Sprechen Sie Attisch? (Do you speak Attic?) — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "A review of the German book 'Sprechen Sie Attisch' — Colloquial Ancient Greek phrases — ancient-greek.net";
 $page_canonical = "/shelf/virtual/sprechensie.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

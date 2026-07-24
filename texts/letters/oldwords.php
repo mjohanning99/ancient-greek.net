@@ -1,6 +1,6 @@
 <?php
-$page_title = "Fourth letter — About listening to the words of the Ancients — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "About listening to the words of the Ancients — ancient-greek.net";
+$page_description = "A letter about how I feel as though the souls of the Ancients are within their written words; and it is, thus, important that we learn and read their words in their original language — ancient-greek.net";
 $page_canonical = "/texts/letters/oldwords.php";
 $page_image = "/media/imgs/logo_about.webp";
 $page_type = "article";

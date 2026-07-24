@@ -1,6 +1,6 @@
 <?php
 $page_title = "JACT’s Reading Greek — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "A review of JACT’s 'Reading Greek' book and why it has been my favourite way to learn the language — ancient-greek.net";
 $page_canonical = "/shelf/physical/readinggreek.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

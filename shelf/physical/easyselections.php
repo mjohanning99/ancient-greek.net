@@ -1,6 +1,6 @@
 <?php
-$page_title = "shelf/physical/easyselections.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Review – Easy Selections from Xenophon — ancient-greek.net";
+$page_description = "A review of Easy Selections Adapted from Xenophon — ancient-greek.net";
 $page_canonical = "/shelf/physical/easyselections.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

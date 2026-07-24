@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Vaticanus Bible — A Review — ancient-greek.net";
-$page_description = "A review of KoineGreek.com’s Vaticanus Bible";
+$page_description = "A review of KoineGreek.com’s Vaticanus Bible and why it is a very fun way to read the New Testament!";
 $page_canonical = "/shelf/physical/vaticanusbible.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";
@@ -70,7 +70,7 @@ $page_item_name = "The Vaticanus Bible — Review";
     <figure>
       <figcaption><img src="/media/imgs/vaticanus/john.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/john.jpg'" alt="Ancient Greek" width="400" height="400">The beginning of the Gospel of John</figcaption>
     </figure>
-    
+
     <h3 id="vaticanusbible_pseudo">Pseudo-facsimile</h3>
     <p>The book is not a proper facismile, but something which the author calls a <q>pseudo-facsimile</q>. This is mostly due to the fact that this is not an <i>exact</i> replica of the original text; rather, it has been modernised and compacted slightly. The latter is especially important, as the original manuscript had three columns of text per page; and thus, actual facismiles of this text tend to be rather large. Instead, the editor of this book has turned one column of the original text into one page of the book and put a short note at the top of the page telling the reader which column (right, middle or left) on what page of the original manuscript he is currently reading. </p>
 

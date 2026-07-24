@@ -1,6 +1,6 @@
 <?php
 $page_title = "Herodotus’ Histories — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "A review and overview of Herodotus’ Histories and his peculiar dialect — ancient-greek.net";
 $page_canonical = "/shelf/virtual/histories.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

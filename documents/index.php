@@ -1,6 +1,6 @@
 <?php
-$page_title = "Documents — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Documents for learning Ancient Greek — ancient-greek.net";
+$page_description = "Various documents that will be helpful for learning Ancient Greek — ancient-greek.net";
 $page_canonical = "/documents/";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";

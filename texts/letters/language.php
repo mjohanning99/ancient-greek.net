@@ -1,6 +1,6 @@
 <?php
-$page_title = "Second letter — About languages #1 — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "A letter written in Ancient Greek about why I learn languages — ancient-greek.net";
+$page_description = "A letter detailing why I enjoy learning languages, written entirely in Ancient Greek with translation and transliteration — ancient-greek.net";
 $page_canonical = "/texts/letters/language.php";
 $page_image = "/media/imgs/logo_about.webp";
 $page_type = "article";

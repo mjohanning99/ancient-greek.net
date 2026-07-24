@@ -1,6 +1,6 @@
 <?php
-$page_title = "First letter — About the copper — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "A complaint about bad quality copper, but in Ancient Greek — ancient-greek.net";
+$page_description = "A re-interpretation of the copper complaint, written in Ancient Greek — ancient-greek.net";
 $page_canonical = "/texts/letters/copper.php";
 $page_image = "/media/imgs/logo_about.webp";
 $page_type = "article";

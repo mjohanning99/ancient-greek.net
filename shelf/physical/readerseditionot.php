@@ -1,6 +1,6 @@
 <?php
 $page_title = "Septuaginta — The Greek Old Testament — Reader’s Edition and General Overview — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "A review of the Septuaginta Reader’s Edition and why it’s a fantastic way to read — ancient-greek.net";
 $page_canonical = "/shelf/physical/readerseditionot.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";
