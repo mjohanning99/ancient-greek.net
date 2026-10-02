@@ -1,6 +1,6 @@
 <?php
-$page_title = "Musings, Articles and Blog — ancient-greek.net";
-$page_description = "Musings and articles about things in Ancient Greek — from 2021.";
+$page_title = "Musings and Articles from 2021 — ancient-greek.net";
+$page_description = "My articles about Ancient Greek from 2021, including an amateur linguistic analysis of the Apocalypse of John.";
 $page_canonical = "/journal/2021/";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

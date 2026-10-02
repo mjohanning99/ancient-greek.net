@@ -1,6 +1,6 @@
 <?php
-$page_title = "Musings, Articles and Blog — ancient-greek.net";
-$page_description = "Musings and articles about things in Ancient Greek — from 2020.";
+$page_title = "Musings and Articles from 2020 — ancient-greek.net";
+$page_description = "My Ancient Greek learning diary from 2020: my first steps with Hansen and Quinn, verb hell, the passive voice and more.";
 $page_canonical = "/journal/2020/";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

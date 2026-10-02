@@ -1,6 +1,6 @@
 <?php
 $page_title = "A letter written in Ancient Greek about why I learn languages — ancient-greek.net";
-$page_description = "A letter detailing why I enjoy learning languages, written entirely in Ancient Greek with translation and transliteration — ancient-greek.net";
+$page_description = "The first of a series of letters about languages, in which I explain — in Ancient Greek — why I learn languages, and Greek in particular.";
 $page_canonical = "/texts/letters/language.php";
 $page_image = "/media/imgs/logo_about.webp";
 $page_type = "article";

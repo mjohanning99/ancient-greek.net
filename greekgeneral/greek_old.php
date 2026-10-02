@@ -1,7 +1,8 @@
 <?php
-$page_title = "greekgeneral/greek_old.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Why should you study Ancient Greek? (old version) — ancient-greek.net";
+$page_description = "The original, rather hurried version of my article on why I study Ancient Greek; since re-written.";
 $page_canonical = "/greekgeneral/greek_old.php";
+$page_noindex = true;
 $page_image = "/media/imgs/platoathens.webp";
 $page_type = "article";
 ?>

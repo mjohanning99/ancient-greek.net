@@ -1,6 +1,6 @@
 <?php
 $page_title = "Didache Translation — Chapter 2 — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "The second part of the Didache, which bears a strong resemblance to the Ten Commandments — though far greater in number.";
 $page_canonical = "/translations/didache/chapters/chapter2.php";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";

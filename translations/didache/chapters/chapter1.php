@@ -1,6 +1,6 @@
 <?php
 $page_title = "Didache Translation — Chapter 1 — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "The first part of the Didache, on the two paths in life — the way of life and the way of death — in Greek, with transliteration and my translation.";
 $page_canonical = "/translations/didache/chapters/chapter1.php";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";

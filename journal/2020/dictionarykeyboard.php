@@ -1,6 +1,6 @@
 <?php
-$page_title = "journal/2020/dictionarykeyboard.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Time for a Dictionary and Ancient Greek Keyboards on Linux — ancient-greek.net";
+$page_description = "On my search for an affordable yet comprehensive-ish Ancient Greek dictionary, and on how to type Greek on Linux.";
 $page_canonical = "/journal/2020/dictionarykeyboard.php";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

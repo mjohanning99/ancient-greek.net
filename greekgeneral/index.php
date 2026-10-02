@@ -1,6 +1,6 @@
 <?php
-$page_title = "Greek General — ancient-greek.net";
-$page_description = "Information on how to study Ancient Greek, pronunciation guides and more.";
+$page_title = "Learning Ancient Greek: General Information — ancient-greek.net";
+$page_description = "General information on the Ancient Greek language: how to study it, how to pronounce it, and why you might wish to learn it at all.";
 $page_canonical = "/greekgeneral/";
 $page_image = "/media/imgs/platoathens.webp";
 $page_type = "article";

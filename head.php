@@ -9,6 +9,7 @@
 //   $page_schema_type   - Schema type: "Article" (default), "Review", "Book"
 //   $page_item_name     - For Review type: name of the book/item being reviewed
 //   $page_date          - Publication date in ISO format, e.g. "2021-11-28"
+//   $page_noindex       - true to keep the page out of search engines (optional)
 
 $site_name = "ancient-greek.net";
 $site_url = "https://ancient-greek.net";
@@ -22,6 +23,7 @@ if (!isset($page_image)) $page_image = "/media/imgs/header.webp";
 if (!isset($page_type)) $page_type = "website";
 if (!isset($page_schema_type)) $page_schema_type = "Article";
 if (!isset($page_date)) $page_date = "";
+if (!isset($page_noindex)) $page_noindex = false;
 
 $full_url = $site_url . $page_canonical;
 $full_image_url = $site_url . $page_image;
@@ -32,6 +34,9 @@ $full_image_url = $site_url . $page_image;
 <meta name="author" content="Marvin Johanning">
 <meta name="theme-color" content="#242424">
 <link rel="canonical" href="<?php echo $full_url; ?>">
+<?php if ($page_noindex): ?>
+<meta name="robots" content="noindex, follow">
+<?php endif; ?>
 
 <!-- Open Graph -->
 <meta property="og:type" content="<?php echo $page_type; ?>">
@@ -54,7 +59,6 @@ $full_image_url = $site_url . $page_image;
 <link rel="preload" as="style" href="/CSS/styles.css">
 <link rel="stylesheet" href="/CSS/styles.css">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="alternate" type="application/rss+xml" title="ancient-greek.net Updates" href="/updates/rss.xml">
 
 <title><?php echo htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8'); ?></title>
 
@@ -110,5 +114,4 @@ $schema_date_block = $page_date ? ",\n  \"datePublished\": \"{$page_date}\"" : "
 }
 </script>
 <?php endif; ?>
-</head>
 <?php

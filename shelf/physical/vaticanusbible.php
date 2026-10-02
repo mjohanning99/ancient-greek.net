@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Vaticanus Bible — A Review — ancient-greek.net";
-$page_description = "A review of KoineGreek.com’s Vaticanus Bible and why it is a very fun way to read the New Testament!";
+$page_description = "A review of KoineGreek.com’s Vaticanus Bible — a rather fun way to read the New Testament in uncial letters, as it appears in one of its oldest manuscripts.";
 $page_canonical = "/shelf/physical/vaticanusbible.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";
@@ -50,7 +50,7 @@ $page_item_name = "The Vaticanus Bible — Review";
     <p>For, indeed, when one learns a foreign language, one tends to feel more closely connected to the culture behind said language, especially since — in my opinion — one cannot truly learn a foreign language without knowing at least something about the culture by which it is spoken. Therefore, I find the process of learning an ancient language and subsequently reading ancient texts akin to time travel; we may be unable to travel backwards in time — and, depending on whom you ask, we will <i>never</i> be able to do so —, but we can come close, namely by learning ancient languages. </p>
 
     <figure>
-      <figcaption><img src="/media/imgs/vaticanus/cover.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/cover.jpg'" alt="Ancient Greek" width="400" height="400">The book’s cover</figcaption>
+      <figcaption><img src="/media/imgs/vaticanus/cover.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/cover.jpeg'" alt="Ancient Greek" width="400" height="400">The book’s cover</figcaption>
     </figure>
 
     <p>And whilst the reading of a modern reproduction of an ancient text allows you to get close to experiencing what it must have been like reading these texts back when they were first written, there is still quite a significant difference; modern reproductions of, for example, the New Testament use a very consistent, modern spelling with upper- and lowercase letters, accents, spaces, punctuation and more. All of these, however, are comparatively modern inventions and would not have been found in a text written in the 4<sup>th</sup> century AD. Instead, most texts at the time would not have had any punctuation or spaces between words, nor would there have been a distinction between upper- and lowercase letters; the script used by scribes at the time was a so-called uncial script, an all-majuscule script with no spaces or punctuation marks.</p>
@@ -68,7 +68,7 @@ $page_item_name = "The Vaticanus Bible — Review";
     <p>This particular edition of the Codex Vaticanus was created by Benjamin Paul Kantor of <a href="https://koinegreek.com">KoineGreek.com</a>. There currently (as of March 10, 2022) exist two volumes of this Bible, one which includes the Gospels and another which includes Acts and the Epistles. Each of the volumes costs $39.99, but due to my not living in the US, I had to pay €49.50 by ordering it from the German Amazon. The edition that I currently own is the one which includes the Gospels — I may, at a later date, buy the second volume as well. I personally find this price somewhat on the steep side, especially considering one — perhaps rather small — drawback that I shall be discussing later on.</p>
 
     <figure>
-      <figcaption><img src="/media/imgs/vaticanus/john.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/john.jpg'" alt="Ancient Greek" width="400" height="400">The beginning of the Gospel of John</figcaption>
+      <figcaption><img src="/media/imgs/vaticanus/john.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/john.jpeg'" alt="Ancient Greek" width="400" height="400">The beginning of the Gospel of John</figcaption>
     </figure>
 
     <h3 id="vaticanusbible_pseudo">Pseudo-facsimile</h3>
@@ -77,7 +77,7 @@ $page_item_name = "The Vaticanus Bible — Review";
     <p>Additionally, verse and chapter numbers have been added to the margins so that one can immediately see what part of the Bible you are currently looking at so that if you are having trouble reading a passage — due to the fact that there is no punctuation and no distinction between upper- and lower-case letters —, you can quite easily grab your more modern copy of the Greek New Testament and read it there; you could even compare the two editions to see how and if they differ from one another. </p>
 
     <figure>
-      <figcaption><img src="/media/imgs/vaticanus/alphabet.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/alphabet.jpg'" alt="Ancient Greek" width="400" height="400">An overview of the unical letters</figcaption>
+      <figcaption><img src="/media/imgs/vaticanus/alphabet.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/vaticanus/alphabet.jpeg'" alt="Ancient Greek" width="400" height="400">An overview of the unical letters</figcaption>
     </figure>
 
     <h3>The book itself</h3>

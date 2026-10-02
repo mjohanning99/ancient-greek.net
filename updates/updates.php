@@ -1,6 +1,6 @@
 <?php
-$page_title = "Updates – ancient-greek.net — ancient-greek.net";
-$page_description = "An occasionally updated page containing information about new things added.";
+$page_title = "Updates — ancient-greek.net";
+$page_description = "What is new on ancient-greek.net: new pages, translations, books and projects. I recommend checking it regularly to see what has changed.";
 $page_canonical = "/updates/updates.php";
 $page_image = "/media/imgs/atticredfigured.webp";
 $page_type = "article";

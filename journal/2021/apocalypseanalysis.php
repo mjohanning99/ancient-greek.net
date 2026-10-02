@@ -1,6 +1,6 @@
 <?php
-$page_title = "An Amateur Analysis of the Apocalypse of John (Revelation) — Observations by an Intermediate Student — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "An Amateur Analysis of the Apocalypse of John — ancient-greek.net";
+$page_description = "Observations by an intermediate student on the rather strange Greek of the Apocalypse of John — a book filled to the brim with colourful imagery.";
 $page_canonical = "/journal/2021/apocalypseanalysis.php";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 3 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 3";
+$page_title = "Revelation 3 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 3 in Greek, with transliteration and my illustrated translation: the letters to the churches of Sardis, Philadelphia and Laodicea.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter3.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";
@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/laodicealetter.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/laodicealetter.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img src="/media/imgs/GNT/revtrans/laodicealetter.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/laodicealetter.jpeg'" alt="Ancient Greek" width="200" height="200">
   <br>
   <i>Das Sendschreiben an die Gemeinde von Laodizea (John writes to the Church at Laodicea) — 1000, Bamberger Apokalypse</i>
 </div>

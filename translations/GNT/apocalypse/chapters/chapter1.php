@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 1 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 1";
+$page_title = "Revelation 1 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 1 in Greek, with transliteration and my illustrated translation: John’s vision of the Son of Man amongst the seven golden lampstands.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter1.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

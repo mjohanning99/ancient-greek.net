@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 2 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 2 — ancient-greek.net";
+$page_description = "The Persian account continues: the Greeks, in turn, carry off the daughters of two kings — and refuse to pay any reparations.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter2.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

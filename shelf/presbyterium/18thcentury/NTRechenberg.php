@@ -1,6 +1,6 @@
 <?php
 $page_title = "Adam Rechenberg’s Greek New Testament (1736 ed.) — ancient-greek.net";
-$page_description = "A review and examination of an original 18th-century copy of Adam Rechenberg’s New Testament";
+$page_description = "A review and examination of an original copy of Adam Rechenberg’s Greek New Testament, printed in 1736.";
 $page_canonical = "/shelf/presbyterium/18thcentury/NTRechenberg.php";
 $page_image = "/media/imgs/presbyterium.webp";
 $page_type = "article";

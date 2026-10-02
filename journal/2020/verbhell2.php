@@ -1,6 +1,6 @@
 <?php
-$page_title = "journal/2020/verbhell2.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Verb Hell the Second: Moods and More Tenses — ancient-greek.net";
+$page_description = "Unit 3 of Hansen and Quinn brings the subjunctive, the optative, the perfect and the pluperfect — and with them, my dread of Greek verbs only grows.";
 $page_canonical = "/journal/2020/verbhell2.php";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

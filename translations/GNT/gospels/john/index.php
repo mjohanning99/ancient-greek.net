@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Gospel of John — Translation and Transliteration — ancient-greek.net";
-$page_description = "A modern translation and transliteration of the Gospels of John";
+$page_description = "My translation and transliteration of the Gospel of John from the original Greek, chapter by chapter — still a work in progress.";
 $page_canonical = "/translations/GNT/gospels/john/";
 $page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
 $page_type = "article";

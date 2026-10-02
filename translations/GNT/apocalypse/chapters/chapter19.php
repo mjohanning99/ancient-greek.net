@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 19 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 19";
+$page_title = "Revelation 19 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 19 in Greek, with transliteration and my illustrated translation: the rejoicing in Heaven, the rider on the white horse and the defeat of the beast.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter19.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Gospel of John Translation — Chapter 4 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Gospel of John — Chapter 4";
+$page_title = "John 4 — Greek Text and Translation — ancient-greek.net";
+$page_description = "John 4 in Greek, with transliteration and my translation: the Samaritan woman at the well and the healing of the official’s son.";
 $page_canonical = "/translations/GNT/gospels/john/chapters/chapter4.php";
 $page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
 $page_type = "article";

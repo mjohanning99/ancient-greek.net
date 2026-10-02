@@ -1,6 +1,6 @@
 <?php
-$page_title = "Histologion — ancient-greek.net";
-$page_description = "The Histologion, a blog written in Ancient Greek.";
+$page_title = "Histologion — My Blog in Ancient Greek — ancient-greek.net";
+$page_description = "The Histologion: my blog, written entirely in Ancient Greek, about my days, my studies and whatever else comes to mind — garnished with emoji.";
 $page_canonical = "/journal/";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

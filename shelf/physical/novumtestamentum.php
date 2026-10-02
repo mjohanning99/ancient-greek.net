@@ -1,6 +1,6 @@
 <?php
-$page_title = "Novum Testamentum Graece — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Nestle-Aland’s Novum Testamentum Graece — A Review — ancient-greek.net";
+$page_description = "A review of Nestle-Aland’s Greek New Testament — and why the New Testament is a great text to read as an intermediate student of the language.";
 $page_canonical = "/shelf/physical/novumtestamentum.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

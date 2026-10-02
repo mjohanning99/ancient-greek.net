@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Greek New Testament — Translation and Transliteration — ancient-greek.net";
-$page_description = "A modern translation and transliteration of the New Testament";
+$page_description = "My translation and transliteration of the Greek New Testament, book by book — the Gospel of John and the Revelation thus far.";
 $page_canonical = "/translations/GNT/";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";
@@ -35,11 +35,11 @@ $page_type = "article";
     <div class="row">
       <div class="chapter">
         <h3><a class="menu" href="gospels/index.php">Gospels</a></h3>
-        <h3><a class="denied" href="acts/index.php">Acts</a></h3>
+        <h3><a class="denied">Acts</a></h3>
       </div>
       <div class="chapter">
         <h3><a class="menu" href="generalepistles/index.php">General Epistles</a></h3>
-        <h3><a class="denied" href="paulineepistles/index.php">Pauline Epistles</a></h3>
+        <h3><a class="denied">Pauline Epistles</a></h3>
       </div>
         <h3 align="center"><a class="menu" href="apocalypse/index.php">Apocalypse</a></h3>
     </div>

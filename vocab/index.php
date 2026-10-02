@@ -1,6 +1,6 @@
 <?php
-$page_title = "Vocabulary — ancient-greek.net";
-$page_description = "Ancient Greek Vocabulary from various books.";
+$page_title = "Ancient Greek Vocabulary Lists — ancient-greek.net";
+$page_description = "Vocabulary lists of various Ancient Greek texts and textbooks, as plain .txt files that you can import into Anki or whatever you please.";
 $page_canonical = "/vocab/";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";

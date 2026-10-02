@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Gospels — Translation and Transliteration — ancient-greek.net";
-$page_description = "A modern translation and transliteration of the Gospels of the New Testament";
+$page_description = "My translation and transliteration of the Gospels from the original Greek — beginning with the Gospel of John.";
 $page_canonical = "/translations/GNT/gospels/";
 $page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
 $page_type = "article";
@@ -34,11 +34,11 @@ $page_type = "article";
     <h2>The four canonical gospels</h2>
     <div class="row">
       <div class="chapter">
-        <h3><a class="denied" href="matthew/index.php">Gospel of Matthew</a></h3>
-        <h3><a class="denied" href="mark/index.php">Gospel of Mark</a></h3>
+        <h3><a class="denied">Gospel of Matthew</a></h3>
+        <h3><a class="denied">Gospel of Mark</a></h3>
       </div>
       <div class="chapter">
-        <h3><a class="denied" href="luke/index.php">Gospel of Luke</a></h3>
+        <h3><a class="denied">Gospel of Luke</a></h3>
         <h3><a class="menu" href="john/index.php">Gospel of John</a></h3>
       </div>
     </div>

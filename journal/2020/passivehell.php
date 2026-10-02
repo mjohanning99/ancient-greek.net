@@ -1,6 +1,6 @@
 <?php
-$page_title = "journal/2020/passivehell.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "The Nightmare Which Is the Greek Passive Voice — ancient-greek.net";
+$page_description = "On Unit 5 of Hansen and Quinn and the passive voice of Greek verbs — one of the things I had dreaded the most, and not without reason.";
 $page_canonical = "/journal/2020/passivehell.php";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

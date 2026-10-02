@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 13 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 13 — ancient-greek.net";
+$page_description = "Gyges, a less than popular king, has his reign confirmed by the Oracle at Delphi — along with a warning.";
 $page_canonical = "/translations/histories1/chapters/11-20/chapter13.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 4 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 4 — ancient-greek.net";
+$page_description = "The kidnappings lead the Greeks to wage war on Asia; the Persians, we are told, did not much care for the taking of women.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter4.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

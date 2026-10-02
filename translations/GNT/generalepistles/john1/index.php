@@ -1,6 +1,6 @@
 <?php
 $page_title = "The First Epistle of John — Translation and Transliteration — ancient-greek.net";
-$page_description = "A modern translation and transliteration of the Gospels of John";
+$page_description = "My translation and transliteration of the First Epistle of John from the original Greek — still a work in progress.";
 $page_canonical = "/translations/GNT/generalepistles/john1/";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";

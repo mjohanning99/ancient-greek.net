@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 16 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 16";
+$page_title = "Revelation 16 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 16 in Greek, with transliteration and my illustrated translation: the seven bowls of God’s wrath poured out upon the Earth.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter16.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

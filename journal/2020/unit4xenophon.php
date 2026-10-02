@@ -1,6 +1,6 @@
 <?php
-$page_title = "journal/2020/unit4xenophon.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "On Hansen and Quinn’s Unit 4 — and Xenophon’s Anabasis — ancient-greek.net";
+$page_description = "How I have been using a commented edition of Xenophon’s Anabasis alongside Hansen and Quinn to advance my Greek.";
 $page_canonical = "/journal/2020/unit4xenophon.php";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

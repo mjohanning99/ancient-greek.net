@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 3 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 3 — ancient-greek.net";
+$page_description = "Alexander (Paris), son of Priam, decides to carry off Helen from Sparta and take her as his wife.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter3.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

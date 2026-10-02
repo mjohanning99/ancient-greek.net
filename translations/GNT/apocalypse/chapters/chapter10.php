@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 10 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 10";
+$page_title = "Revelation 10 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 10 in Greek, with transliteration and my illustrated translation: the mighty angel and the little scroll that John is told to eat.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter10.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

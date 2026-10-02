@@ -1,6 +1,6 @@
 <?php
-$page_title = "Agora (Home page) — ancient-greek.net (Ancient Greek) — ancient-greek.net";
-$page_description = "A website about all things Ancient Greek; from the Classical Period to the Byzantine. Original texts, lots of graphics, translations, book reviews &c.";
+$page_title = "ancient-greek.net — Learning the Ancient Greek Language";
+$page_description = "A small corner of the Web about all things Ancient Greek, from the Classical Period to the Byzantine: translations, free audio, book reviews &c.";
 $page_canonical = "/";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";

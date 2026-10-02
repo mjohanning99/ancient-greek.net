@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 11 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 11";
+$page_title = "Revelation 11 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 11 in Greek, with transliteration and my illustrated translation: the two witnesses and the seventh trumpet.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter11.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

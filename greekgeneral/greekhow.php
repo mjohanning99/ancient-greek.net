@@ -1,6 +1,6 @@
 <?php
 $page_title = "How to study the Ancient Greek language — ancient-greek.net";
-$page_description = "An article about the ways in which I would recommend that you learn the Ancient Greek language — and those that I do not recommend";
+$page_description = "The ways in which I would recommend that you learn Ancient Greek — and those I would not — based on my own experiences as a self-taught student.";
 $page_canonical = "/greekgeneral/greekhow.php";
 $page_image = "/media/imgs/platoathens.webp";
 $page_type = "article";

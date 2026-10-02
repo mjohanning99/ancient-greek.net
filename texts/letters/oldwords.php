@@ -1,6 +1,6 @@
 <?php
 $page_title = "About listening to the words of the Ancients — ancient-greek.net";
-$page_description = "A letter about how I feel as though the souls of the Ancients are within their written words; and it is, thus, important that we learn and read their words in their original language — ancient-greek.net";
+$page_description = "A letter in Ancient Greek about how the souls of the Ancients dwell within their words — and why we ought to read them in the original language.";
 $page_canonical = "/texts/letters/oldwords.php";
 $page_image = "/media/imgs/logo_about.webp";
 $page_type = "article";

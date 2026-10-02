@@ -1,6 +1,6 @@
 <?php
-$page_title = "Musings, Articles and Blog — ancient-greek.net";
-$page_description = "Musings and articles about Christian-related things in Ancient Greek.";
+$page_title = "My Writings about Christianity — ancient-greek.net";
+$page_description = "My writings about the Greek New Testament and the Septuaginta, mostly revolving around their grammar and their rather peculiar language.";
 $page_canonical = "/journal/christianity/";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

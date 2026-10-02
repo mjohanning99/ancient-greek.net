@@ -1,6 +1,6 @@
 <?php
-$page_title = "My projects – ancient-greek.net — ancient-greek.net";
-$page_description = "A short overview of my current projects.";
+$page_title = "My Projects — ancient-greek.net";
+$page_description = "The projects I am currently spending my time on — translations, books and the like — as well as those I have already finished.";
 $page_canonical = "/projects.php";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";

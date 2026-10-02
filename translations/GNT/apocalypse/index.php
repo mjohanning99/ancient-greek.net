@@ -1,6 +1,6 @@
 <?php
 $page_title = "Revelation of John — Translation and Transliteration — ancient-greek.net";
-$page_description = "A modern translation of the most suspenseful book of the New Testament: The Revelation";
+$page_description = "A modern translation and transliteration of the most suspenseful book of the New Testament: the Revelation of John, complete and illustrated.";
 $page_canonical = "/translations/GNT/apocalypse/";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";
@@ -35,7 +35,7 @@ $page_type = "article";
 
             <p>And even though it is the very last book of the New Testament, because of the aforementioned peculiarities of it, I have decided to translate first of all.</p>
     
-            <p>You can find more information about this spectacular book of the New Testament in my <a href="/blog/2021/apocalypseanalysis.php">Observations by an Intermediate Student</a>. The textual basis of the Ancient Greek text is from <a href="https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B9%CF%82_%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85">Wikisource.</a></p>
+            <p>You can find more information about this spectacular book of the New Testament in my <a href="/journal/2021/apocalypseanalysis.php">Observations by an Intermediate Student</a>. The textual basis of the Ancient Greek text is from <a href="https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B9%CF%82_%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85">Wikisource.</a></p>
           </div>
         </div>
 

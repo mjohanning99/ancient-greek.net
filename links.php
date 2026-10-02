@@ -1,6 +1,6 @@
 <?php
-$page_title = "Links – ancient-greek.net — ancient-greek.net";
-$page_description = "A list of links to interesting sites of the Web.";
+$page_title = "Links — ancient-greek.net";
+$page_description = "Links to helpful and interesting websites about Ancient Greek — and to other corners of the Web that I find interesting.";
 $page_canonical = "/links.php";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";

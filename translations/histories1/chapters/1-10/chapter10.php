@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 10 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 10 — ancient-greek.net";
+$page_description = "Gyges goes through with his master’s plan — but the queen has rather better eyesight than they had hoped.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter10.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

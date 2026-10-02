@@ -1,6 +1,6 @@
 <?php
 $page_title = "Why am I no longer studying Ancient Egyptian? — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "Ancient Egyptian has always fascinated me — I even wrote a book about it. Here I explain why I nonetheless abandoned it in favour of Ancient Greek.";
 $page_canonical = "/greekgeneral/egyptian.php";
 $page_image = "/media/imgs/platoathens.webp";
 $page_type = "article";

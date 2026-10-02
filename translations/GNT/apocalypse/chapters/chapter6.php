@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 6 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 6";
+$page_title = "Revelation 6 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 6 in Greek, with transliteration and my illustrated translation: the opening of the first six seals and the four horsemen.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter6.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

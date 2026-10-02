@@ -1,6 +1,6 @@
 <?php
 $page_title = "Herodotus’ Histories — A translation — ancient-greek.net";
-$page_description = "A modern translation of Herodotus’ Histories with a transliteration.";
+$page_description = "My translation of the first book of Herodotus’ Histories, chapter by chapter, with the original Ionic Greek and a transliteration.";
 $page_canonical = "/translations/histories1/";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";
@@ -25,7 +25,7 @@ $page_type = "article";
 
 
 <div class="article">
-  <p class="blocktext">Scroll down to view the chapters and skip the introduction. I have previously written a rather <a href="/greek/shelf/virtual/histories.php">lengthy article</a> about this work and will, therefore, not go into much detail about the book itself on this page here. As a short summary, however, Herodotus’ <i>Inquiries</i> or <i>Research</i> — which are more accurate translations than <i>Histories</i> — detail many important historic events that occured during or before Herodotus’ time. Amongst these are the Greco-Persian Wars, which is one of the first things he mentions in his introduction to his work. Herodotus attempts to see things from the perspective of both sides and, in this manner, tries to create a neutral point-of-view and a simple retelling of history as it happened without (too many) biases. He is, to this day, our primary resource for the details of aforemetioned historic events. </p>
+  <p class="blocktext">Scroll down to view the chapters and skip the introduction. I have previously written a rather <a href="/shelf/virtual/histories.php">lengthy article</a> about this work and will, therefore, not go into much detail about the book itself on this page here. As a short summary, however, Herodotus’ <i>Inquiries</i> or <i>Research</i> — which are more accurate translations than <i>Histories</i> — detail many important historic events that occured during or before Herodotus’ time. Amongst these are the Greco-Persian Wars, which is one of the first things he mentions in his introduction to his work. Herodotus attempts to see things from the perspective of both sides and, in this manner, tries to create a neutral point-of-view and a simple retelling of history as it happened without (too many) biases. He is, to this day, our primary resource for the details of aforemetioned historic events. </p>
 
   <p>I would like to thank — and am, because of the license, required to — the <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125">Perseus Digital Library</a> for providing a great and free to use version of his work. As the Creative Commons license which can be found at the bottom of the page is compatible with their license, I am not required to change the license specifically for these translations. As such, they are, as the rest of the website, licensed as stated in the site’s footer.</p>
 </div>
@@ -63,10 +63,10 @@ $page_type = "article";
       </div>
       <div class="chapter">
         <h3><a href="chapters/11-20/chapter16.php" class="menu">Chapter 16</a>
-        <h3><a href="chapters/11-20/chapter17.php" class="menu">Chapter 17</a>
-        <h3><a href="chapters/11-20/chapter18.php" class="menu">Chapter 18</a>
-        <h3><a href="chapters/11-20/chapter19.php" class="menu">Chapter 19</a>
-        <h3><a href="chapters/11-20/chapter20.php" class="menu">Chapter 20</a>
+        <h3><a class="denied">Chapter 17</a>
+        <h3><a class="denied">Chapter 18</a>
+        <h3><a class="denied">Chapter 19</a>
+        <h3><a class="denied">Chapter 20</a>
       </div>
     </div>
   </div>

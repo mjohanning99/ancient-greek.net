@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 14 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 14";
+$page_title = "Revelation 14 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 14 in Greek, with transliteration and my illustrated translation: the Lamb on Mount Zion, the three angels and the harvest of the Earth.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter14.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

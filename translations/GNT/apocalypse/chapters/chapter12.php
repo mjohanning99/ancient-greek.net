@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 12 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 12";
+$page_title = "Revelation 12 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 12 in Greek, with transliteration and my illustrated translation: the woman clothed with the Sun, the great dragon and the war in Heaven.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter12.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

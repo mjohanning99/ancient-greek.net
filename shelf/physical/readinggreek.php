@@ -1,6 +1,6 @@
 <?php
-$page_title = "JACT’s Reading Greek — ancient-greek.net";
-$page_description = "A review of JACT’s 'Reading Greek' book and why it has been my favourite way to learn the language — ancient-greek.net";
+$page_title = "JACT’s Reading Greek — A Review — ancient-greek.net";
+$page_description = "Why I chose JACT’s Reading Greek over Hansen and Quinn, and why I believe it to be one of the better textbooks for learning Ancient Greek.";
 $page_canonical = "/shelf/physical/readinggreek.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

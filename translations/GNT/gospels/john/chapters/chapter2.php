@@ -1,6 +1,6 @@
 <?php
-$page_title = "Gospel of John Translation — Chapter 2 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Gospel of John — Chapter 2";
+$page_title = "John 2 — Greek Text and Translation — ancient-greek.net";
+$page_description = "John 2 in Greek, with transliteration and my translation: the wedding at Cana and the cleansing of the Temple.";
 $page_canonical = "/translations/GNT/gospels/john/chapters/chapter2.php";
 $page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 17 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 17";
+$page_title = "Revelation 17 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 17 in Greek, with transliteration and my illustrated translation: the great whore of Babylon, seated upon the scarlet beast.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter17.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

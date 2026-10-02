@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 18 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 18";
+$page_title = "Revelation 18 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 18 in Greek, with transliteration and my illustrated translation: the fall of Babylon the Great and the lament over her.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter18.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

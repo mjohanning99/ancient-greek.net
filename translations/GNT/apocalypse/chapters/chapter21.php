@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 21 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 21";
+$page_title = "Revelation 21 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 21 in Greek, with transliteration and my illustrated translation: the new Heaven, the new Earth and the New Jerusalem.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter21.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Why should you study the Greek language? — ancient-greek.net";
-$page_description = "A short article about the reasons for my learning Ancient Greek and also other ancient languages";
+$page_title = "Why should you study Ancient Greek? — ancient-greek.net";
+$page_description = "My reasons for having begun learning Ancient Greek — and why I believe you, too, might find the effort worthwhile.";
 $page_canonical = "/greekgeneral/greek.php";
 $page_image = "/media/imgs/platoathens.webp";
 $page_type = "article";

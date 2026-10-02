@@ -5,7 +5,7 @@
   <li class="header"><a href="/updates/updates.php">Updates</a></li>
   <li class="header"><a href="/projects.php">Current projects</a></li>
   <br>
-  <li class="header"><a href="/blog/index.php">Blog — Overview</a> </li>
-  <li class="header"><a href="/blog/christianity/index.php">Blog — Christianity</a></li>
+  <li class="header"><a href="/journal/index.php">Blog — Overview</a> </li>
+  <li class="header"><a href="/journal/christianity/index.php">Blog — Christianity</a></li>
 </ul>
 <fieldset class="separator-styled radius"></fieldset>

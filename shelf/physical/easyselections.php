@@ -1,6 +1,6 @@
 <?php
-$page_title = "Review – Easy Selections from Xenophon — ancient-greek.net";
-$page_description = "A review of Easy Selections Adapted from Xenophon — ancient-greek.net";
+$page_title = "Easy Selections Adapted from Xenophon — A Review — ancient-greek.net";
+$page_description = "A review of a somewhat forgotten 19th-century reader that adapts Xenophon for beginners — and why I find it absolutely blissful.";
 $page_canonical = "/shelf/physical/easyselections.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

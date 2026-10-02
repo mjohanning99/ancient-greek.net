@@ -1,6 +1,6 @@
 <?php
-$page_title = "How to pronounce Ancient Greek? — ancient-greek.net";
-$page_description = "An article on how to pronounce the Ancient Greek language and the various ways of pronuncing it.";
+$page_title = "How to Pronounce Ancient Greek — ancient-greek.net";
+$page_description = "The various ways of pronouncing Ancient Greek — and why I believe it worth learning the pronunciation of a language that nobody speaks any longer.";
 $page_canonical = "/greekgeneral/greek_pronunciation.php";
 $page_image = "/media/imgs/platoathens.webp";
 $page_type = "article";

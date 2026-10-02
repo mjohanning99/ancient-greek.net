@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Apocalypse of John: A Modern Translation — ancient-greek.net";
-$page_description = "On here you will find information about my book, a translation of the Apocalypse of John with plenty of notes and lots of illustrations.";
+$page_description = "My own translation of the Apocalypse of John from the original Greek, with plenty of notes and lots of illustrations.";
 $page_canonical = "/books/revelation.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";
@@ -29,7 +29,7 @@ $page_item_name = "The Apocalypse of John — A Modern Translation";
   <h1>The Apocalypse of John — A Modern Translation</h1>
   <h3>Ἡ Ἀποκάλυψις τοῦ Ἰωάννου — Μετάφρασις καινὴ ζωγράφημασι καὶ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>
   <i>The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text</i>
-  <img src="/media/imgs/coverrevelation.webp" width="250" height="300" onerror="this.onerror=null; this.src='coverrevelation.png'" alt="Ancient Greek" width="250" height="300">
+  <img src="/media/imgs/coverrevelation.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/coverrevelation.png'" alt="Ancient Greek" width="250" height="300">
   <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-7543-2897-2</i>
 </div>
 

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 6 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 6 — ancient-greek.net";
+$page_description = "We are introduced to Croesus, King of Lydia, and given a short account of the things he did.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter6.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

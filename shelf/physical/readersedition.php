@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Greek New Testament. A Reader’s Edition — ancient-greek.net";
-$page_description = "A review of The Greek New Testament. A Reader’s Edition. Perfect for intermediate students.";
+$page_description = "A review of The Greek New Testament: A Reader’s Edition — perfect for intermediate students who would rather read than reach for a dictionary.";
 $page_canonical = "/shelf/physical/readersedition.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

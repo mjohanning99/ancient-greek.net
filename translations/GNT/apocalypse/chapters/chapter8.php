@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 8 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 8";
+$page_title = "Revelation 8 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 8 in Greek, with transliteration and my illustrated translation: the seventh seal, the silence in Heaven and the first four trumpets.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter8.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

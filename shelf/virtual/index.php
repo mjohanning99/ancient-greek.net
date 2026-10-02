@@ -1,6 +1,6 @@
 <?php
 $page_title = "My Virtual Shelf — ancient-greek.net";
-$page_description = "Reviews of the books about and in Ancient Greek that I do not own physically.";
+$page_description = "Reviews of the books about and in Ancient Greek that I own only virtually — PDFs, scans of old books and the like.";
 $page_canonical = "/shelf/virtual/";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

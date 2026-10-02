@@ -1,6 +1,6 @@
 <?php
 $page_title = "Old Ancient Greek Books — The Presbyterium — ancient-greek.net";
-$page_description = "The Presbyterium — Reviews of books that are old (before 21st century).";
+$page_description = "The Presbyterium (“The Council of Elders”): my reviews of the old and ancient books about Ancient Greek that I own.";
 $page_canonical = "/shelf/presbyterium/";
 $page_image = "/media/imgs/presbyterium.webp";
 $page_type = "article";

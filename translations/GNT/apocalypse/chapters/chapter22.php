@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 22 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 22";
+$page_title = "Revelation 22 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 22 in Greek, with transliteration and my illustrated translation: the river of the water of life and the final words of the book.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter22.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";
@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/riveroflife.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/riveroflife.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img src="/media/imgs/GNT/revtrans/riveroflife.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/riveroflife.jpeg'" alt="Ancient Greek" width="300" height="300">
   <br>
   <i>The Celestial City and the River of Bliss — 1841, John Martin</i>
 </div>

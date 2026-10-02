@@ -1,6 +1,6 @@
 <?php
 $page_title = "Didache Translation — Chapter 3 — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "The third part of the Didache — a difficult one to translate, owing to its large amount of often very unusual vocabulary.";
 $page_canonical = "/translations/didache/chapters/chapter3.php";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";

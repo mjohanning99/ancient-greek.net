@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 14 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 14 — ancient-greek.net";
+$page_description = "Gyges sends a great many offerings to Delphi, which Herodotus describes in some detail.";
 $page_canonical = "/translations/histories1/chapters/11-20/chapter14.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

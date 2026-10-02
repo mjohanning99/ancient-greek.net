@@ -1,6 +1,6 @@
 <?php
-$page_title = "Marvin’s Translations — ancient-greek.net";
-$page_description = "Various modern translations and transliterations of Ancient Greek texts.";
+$page_title = "My Translations of Ancient Greek Texts — ancient-greek.net";
+$page_description = "My own translations of Ancient Greek texts — the New Testament, Herodotus and the Didache — with transliterations of the original Greek.";
 $page_canonical = "/translations/";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";

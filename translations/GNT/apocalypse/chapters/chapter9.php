@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 9 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 9";
+$page_title = "Revelation 9 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 9 in Greek, with transliteration and my illustrated translation: the fifth and sixth trumpets — the locusts from the abyss and the army of horsemen.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter9.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

@@ -1,7 +1,8 @@
 <?php
-$page_title = "Gospel of John Translation — Chapter 7 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Gospel of John — Chapter 7";
+$page_title = "John 7 — Translation in Progress — ancient-greek.net";
+$page_description = "Chapter 7 of my translation of the Gospel of John — not yet translated.";
 $page_canonical = "/translations/GNT/gospels/john/chapters/chapter7.php";
+$page_noindex = true;
 $page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
 $page_type = "article";
 ?>

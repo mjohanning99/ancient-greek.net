@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Gospel of John: A Modern Translation — ancient-greek.net";
-$page_description = "On here you will find information about my book, a translation of the Gospel of John with plenty of notes and a few illustrations.";
+$page_description = "My own translation of the Gospel of John from the original Greek, with plenty of notes and a few illustrations.";
 $page_canonical = "/books/gospelofjohn.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";
@@ -29,7 +29,7 @@ $page_item_name = "The Gospel of John — A Modern Translation";
   <h1>The Gospel of John — A Modern Translation</h1>
   <h3>Τὸ εὐαγγέλιον κατὰ Ἰωάννην — Μετάφρασις καινὴ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>
   <i>The Apocalypse of John — A Modern Translation with Notes and the Original Greek Text</i>
-  <img src="/media/books/gospelofjohn/images/tannerjesuswater.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/books/gospelofjohn/images/tannerjesuswater.jpg'" alt="Ancient Greek" width="250" height="300">
+  <img src="/media/books/gospelofjohn/images/tannerjesuswater.jpg" width="250" height="300" onerror="this.onerror=null; this.src='/media/books/gospelofjohn/images/tannerjesuswater.jpg'" alt="Ancient Greek" width="250" height="300">
   <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-XXXX-XXXX-X (TBD)</i>
 </div>
 

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 9 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 9 — ancient-greek.net";
+$page_description = "Gyges fears the consequences of Candaules’ mad proposition, but the king assures him that nothing will go wrong.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter9.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

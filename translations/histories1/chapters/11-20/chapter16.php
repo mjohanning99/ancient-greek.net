@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 16 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 16 — ancient-greek.net";
+$page_description = "The reigns of Sadyattes and Alyattes, who fought the Medes, drove the Cimmerians out of Asia and took Smyrna.";
 $page_canonical = "/translations/histories1/chapters/11-20/chapter16.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";
@@ -20,9 +20,6 @@ $page_type = "article";
   <h3 style="margin-bottom: 0px;">Herodotus’ Histories — #16</h3>
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/image.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/image.jpg'" alt="Ancient Greek" width="200" height="200">
-  <br>
-  <i></i>
   <br>
 </div>
 

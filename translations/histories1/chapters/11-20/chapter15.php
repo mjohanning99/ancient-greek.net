@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 15 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 15 — ancient-greek.net";
+$page_description = "What Gyges and his son Ardys did during their reigns — Gyges’ own appears to have been rather uneventful.";
 $page_canonical = "/translations/histories1/chapters/11-20/chapter15.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

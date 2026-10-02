@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 5 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 5";
+$page_title = "Revelation 5 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 5 in Greek, with transliteration and my illustrated translation: the scroll with seven seals, and the Lamb who alone is worthy to open it.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter5.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

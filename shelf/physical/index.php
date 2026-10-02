@@ -1,6 +1,6 @@
 <?php
 $page_title = "My Physical Shelf — ancient-greek.net";
-$page_description = "Reviews of the books about and in Ancient Greek that I physically own.";
+$page_description = "Reviews of the books about and in Ancient Greek that I physically own — textbooks, readers, Greek New Testaments and more.";
 $page_canonical = "/shelf/physical/";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

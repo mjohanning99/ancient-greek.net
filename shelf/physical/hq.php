@@ -1,6 +1,6 @@
 <?php
-$page_title = "Hansen & Quinn’s Greek, An Intensive Course — ancient-greek.net";
-$page_description = "A review about Hansen & Quins’s book “Greek, an Intensive Course”; infamous for its steep difficulty and reliance upon the grammar-translation method";
+$page_title = "Hansen & Quinn’s Greek: An Intensive Course — A Review — ancient-greek.net";
+$page_description = "A review of Hansen & Quinn’s Greek: An Intensive Course — infamous for its steep difficulty and its reliance upon the grammar-translation method.";
 $page_canonical = "/shelf/physical/hq.php";
 $page_image = "/media/imgs/shelf.webp";
 $page_type = "article";

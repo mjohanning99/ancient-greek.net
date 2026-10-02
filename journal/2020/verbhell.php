@@ -1,6 +1,6 @@
 <?php
-$page_title = "journal/2020/verbhell.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Verb Hell: Principal Parts and the Augment — ancient-greek.net";
+$page_description = "Six principal parts for every verb? On the hellish force that clearly dwells behind the Ancient Greek verbal system, as met in Unit 2 of Hansen and Quinn.";
 $page_canonical = "/journal/2020/verbhell.php";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

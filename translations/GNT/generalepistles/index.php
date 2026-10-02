@@ -1,6 +1,6 @@
 <?php
-$page_title = "The Epistles — Translation and Transliteration — ancient-greek.net";
-$page_description = "A modern translation and transliteration of the Epistles of the New Testament";
+$page_title = "The General Epistles — Translation and Transliteration — ancient-greek.net";
+$page_description = "My translation and transliteration of the General Epistles of the New Testament — beginning, in time, with the First Epistle of John.";
 $page_canonical = "/translations/GNT/generalepistles/";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";
@@ -32,16 +32,16 @@ $page_type = "article";
     <h2>The seven catholic epistles</h2>
     <div class="row">
       <div class="chapter">
-        <h3><a class="denied" href="james/index.php">Epistle of James</a></h3>
-        <h3><a class="denied" href="peter1/index.php">First Epistle of Peter</a></h3>
-        <h3><a class="denied" href="john1/index.php">First Epistle of John</a></h3>
+        <h3><a class="denied">Epistle of James</a></h3>
+        <h3><a class="denied">First Epistle of Peter</a></h3>
+        <h3><a class="denied">First Epistle of John</a></h3>
       </div>
       <div class="chapter">
-        <h3><a class="denied" href="peter2/index.php">Second Epistle of Peter</a></h3>
-        <h3><a class="denied" href="john2/index.php">Second Epistle of John</a></h3>
-        <h3><a class="denied" href="john3/index.php">Third Epistle of John</a></h3>
+        <h3><a class="denied">Second Epistle of Peter</a></h3>
+        <h3><a class="denied">Second Epistle of John</a></h3>
+        <h3><a class="denied">Third Epistle of John</a></h3>
       </div>
-      <h3 align="center"><a class="denied" href="jude/index.php">Epistle of Jude</a></h3>
+      <h3 align="center"><a class="denied">Epistle of Jude</a></h3>
     </div>
 </div>
 

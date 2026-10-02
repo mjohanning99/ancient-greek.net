@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 15 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 15";
+$page_title = "Revelation 15 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 15 in Greek, with transliteration and my illustrated translation: the seven angels with the seven last plagues.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter15.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

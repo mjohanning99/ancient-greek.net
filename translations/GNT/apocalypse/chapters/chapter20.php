@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 20 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 20";
+$page_title = "Revelation 20 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 20 in Greek, with transliteration and my illustrated translation: the thousand years, the release of Satan and the Last Judgement.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter20.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";
@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/satanfire.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/satanfire.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img src="/media/imgs/GNT/revtrans/satanfire.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/satanfire.jpeg'" alt="Ancient Greek" width="300" height="300">
   <br>
   <i>Satan is cast into the lake of fire — 15<sup>th</sup> century, unknown author</i>
 </div>

@@ -1,6 +1,6 @@
 <?php
-$page_title = "journal/2020/beginning.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "The Beginning of the Journey — ancient-greek.net";
+$page_description = "The first post of my Ancient Greek learning diary: why I took up this rather gargantuan ordeal, and the resources I settled upon as a self-taught student.";
 $page_canonical = "/journal/2020/beginning.php";
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";

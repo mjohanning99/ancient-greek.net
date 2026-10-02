@@ -1,6 +1,6 @@
 <?php
-$page_title = "Ancient Greek audio books — ancient-greek.net";
-$page_description = "Free audio books read in the Lucian pronunciation of Ancient Greek.";
+$page_title = "Ancient Greek Audio — ancient-greek.net";
+$page_description = "Listen to spoken Ancient Greek: free recordings of the Gospel of John, read in the original Greek using the Lucian pronunciation.";
 $page_canonical = "/audio.php";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";
@@ -26,7 +26,7 @@ $page_type = "article";
   <h1>Audio</h1>
   <h3>Ἀκούε τοὺς λόγους τοὺς ἀρχαίους</h3>
   <i>Listen to the ancient words</i>
-  <img src="/media/imgs/audio_editing.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/audio_editing.jpg'" alt="Ancient Greek" width="400" height="400">
+  <img src="/media/imgs/audio_editing.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/audio_editing.png'" alt="Ancient Greek" width="400" height="400">
   <i>A screenshot of my editing audio using Audacity</i>
 </div>
 

@@ -1,6 +1,6 @@
 <?php
 $page_title = "The Didache — Translation and Transliteration — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_description = "My first translation from Ancient Greek: the Didache, a very early Christian treatise whose simple Greek makes it a fine text for a learner.";
 $page_canonical = "/translations/didache/";
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";

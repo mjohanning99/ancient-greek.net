@@ -1,6 +1,6 @@
 <?php
-$page_title = "The Intricacies of Ancient Egyptian Hieroglpyhics — ancient-greek.net";
-$page_description = "Information about 'The Intricacies of Ancient Egyptian Hieroglyphics', a book teaching you the basics of Ancient Egyptian in an accessible manner.";
+$page_title = "The Intricacies of Ancient Egyptian Hieroglyphics — ancient-greek.net";
+$page_description = "My first book, teaching complete beginners how to read Ancient Egyptian hieroglyphs — written before I turned my attention to Greek.";
 $page_canonical = "/books/intricacies.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";
@@ -29,7 +29,7 @@ $page_item_name = "The Intricacies of Ancient Egyptian Hieroglpyhics";
   <h1>The Intricacies of Ancient Egyptian Hieroglpyhics</h1>
   <h3>The Intricacies of Ancient Egyptian Hieroglpyhics</h3>
   <i>Learning the basics of the Ancient Egyptian writing system; for complete beginners</i>
-  <img src="/media/imgs/cover_intricacies.webp" width="250" height="300" onerror="this.onerror=null; this.src='cover_intricacies.jpeg'" alt="Ancient Greek" width="250" height="300">
+  <img src="/media/imgs/cover_intricacies.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/cover_intricacies.jpeg'" alt="Ancient Greek" width="250" height="300">
   <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN</u>: 978-3-752952-49-0</i>
 </div>
 

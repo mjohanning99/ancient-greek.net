@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 4 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 4";
+$page_title = "Revelation 4 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 4 in Greek, with transliteration and my illustrated translation: the throne of God, the twenty-four elders and the four living creatures.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter4.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

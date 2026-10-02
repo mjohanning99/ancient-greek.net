@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 8 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 8 — ancient-greek.net";
+$page_description = "Candaules, believing his wife the most beautiful of all women, wishes his bodyguard Gyges to see her naked.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter8.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
 $page_title = "Contact — ancient-greek.net";
-$page_description = "Information about how you can get in touch with me.";
+$page_description = "How to get in touch with me. I read and reply to every email that I receive — and I rather enjoy doing so.";
 $page_canonical = "/contact.php";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";

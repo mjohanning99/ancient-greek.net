@@ -1,6 +1,6 @@
 <?php
-$page_title = "Marvin’s Greek Letters — ancient-greek.net";
-$page_description = "My own letters written in Ancient Greek with translation and transliteration.";
+$page_title = "Letters Written in Ancient Greek — ancient-greek.net";
+$page_description = "Letters I have written in Ancient Greek on various topics, with translations, transliterations and nicely typeset PDF versions.";
 $page_canonical = "/texts/";
 $page_image = "/media/imgs/logo_about.webp";
 $page_type = "article";

@@ -1,7 +1,8 @@
 <?php
-$page_title = "journal/template.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "Journal template — ancient-greek.net";
+$page_description = "Template for journal posts.";
 $page_canonical = "/journal/template.php";
+$page_noindex = true;
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";
 ?>

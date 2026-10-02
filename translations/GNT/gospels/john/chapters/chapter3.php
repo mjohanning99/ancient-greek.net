@@ -1,6 +1,6 @@
 <?php
-$page_title = "Gospel of John Translation — Chapter 3 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Gospel of John — Chapter 3";
+$page_title = "John 3 — Greek Text and Translation — ancient-greek.net";
+$page_description = "John 3 in Greek, with transliteration and my translation: Nicodemus, being born from above, and “for God so loved the world”.";
 $page_canonical = "/translations/GNT/gospels/john/chapters/chapter3.php";
 $page_image = "/media/books/gospelofjohn/images/tannerjesuswater.webp";
 $page_type = "article";

@@ -1,7 +1,8 @@
 <?php
-$page_title = "First Epistle of John Translation — Chapter 4 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the First Epistle of John — Chapter 4";
+$page_title = "1 John 4 — Translation in Progress — ancient-greek.net";
+$page_description = "Chapter 4 of my translation of the First Epistle of John — not yet translated.";
 $page_canonical = "/translations/GNT/generalepistles/john1/chapters/chapter4.php";
+$page_noindex = true;
 $page_image = "/media/imgs/StJerome.webp";
 $page_type = "article";
 ?>

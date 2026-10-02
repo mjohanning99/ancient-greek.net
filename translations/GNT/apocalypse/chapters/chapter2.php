@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 2 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 2";
+$page_title = "Revelation 2 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 2 in Greek, with transliteration and my illustrated translation: the letters to the churches of Ephesus, Smyrna, Pergamum and Thyatira.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter2.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

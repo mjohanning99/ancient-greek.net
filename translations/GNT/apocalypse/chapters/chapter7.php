@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 7 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 7";
+$page_title = "Revelation 7 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 7 in Greek, with transliteration and my illustrated translation: the 144,000 sealed from the tribes of Israel and the great multitude in white.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter7.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
-$page_title = "Herodotus’ Histories Translation — Chapter 5 — ancient-greek.net";
-$page_description = "A modern and illustrated translation of Herodotus’ Histories";
+$page_title = "Herodotus’ Histories, Book 1 — Chapter 5 — ancient-greek.net";
+$page_description = "The Phoenicians tell a rather different story of Io — and Herodotus turns to the man he knows first wronged the Greeks.";
 $page_canonical = "/translations/histories1/chapters/1-10/chapter5.php";
 $page_image = "/media/imgs/herodold.webp";
 $page_type = "article";

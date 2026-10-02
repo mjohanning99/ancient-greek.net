@@ -1,6 +1,6 @@
 <?php
 $page_title = "About — ancient-greek.net";
-$page_description = "A short introduction to ancient-greek.net";
+$page_description = "Who I am, why I created this little corner of the Web, and how to find your way around it — along with my thoughts on the modern Web.";
 $page_canonical = "/about.php";
 $page_image = "/media/imgs/header.webp";
 $page_type = "article";

@@ -1,6 +1,6 @@
 <?php
 $page_title = "A complaint about bad quality copper, but in Ancient Greek — ancient-greek.net";
-$page_description = "A re-interpretation of the copper complaint, written in Ancient Greek — ancient-greek.net";
+$page_description = "Inspired by an ancient Sumerian complaint about the delivery of the wrong copper, I wrote one of my own — in Ancient Greek.";
 $page_canonical = "/texts/letters/copper.php";
 $page_image = "/media/imgs/logo_about.webp";
 $page_type = "article";

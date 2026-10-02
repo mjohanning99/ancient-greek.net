@@ -1,6 +1,6 @@
 <?php
-$page_title = "Revelation Translation — Chapter 13 — ancient-greek.net";
-$page_description = "Modern illustrated translation of the Revelation — Chapter 13";
+$page_title = "Revelation 13 — Greek Text and Translation — ancient-greek.net";
+$page_description = "Revelation 13 in Greek, with transliteration and my illustrated translation: the beast from the sea, the beast from the earth and the number 666.";
 $page_canonical = "/translations/GNT/apocalypse/chapters/chapter13.php";
 $page_image = "/media/imgs/coverrevelation.webp";
 $page_type = "article";

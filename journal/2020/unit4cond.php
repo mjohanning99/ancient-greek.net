@@ -1,7 +1,8 @@
 <?php
-$page_title = "journal/2020/unit4cond.php — ancient-greek.net";
-$page_description = "A page about Ancient Greek — ancient-greek.net";
+$page_title = "On Conditional Sentences — ancient-greek.net";
+$page_description = "On conditional sentences in Ancient Greek, as introduced in Unit 4 of Hansen and Quinn.";
 $page_canonical = "/journal/2020/unit4cond.php";
+$page_noindex = true;
 $page_image = "/media/imgs/clio_muse_history.webp";
 $page_type = "article";
 ?>
