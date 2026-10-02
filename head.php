@@ -14,7 +14,6 @@
 $site_name = "ancient-greek.net";
 $site_url = "https://ancient-greek.net";
 $default_description = "Learn Ancient Greek with free resources — original texts, translations, audio books, book reviews, vocabulary, and grammar documents from Classical to Byzantine Greek.";
-$twitter_handle = "@ancientgreeknet";
 
 if (!isset($page_title)) $page_title = $site_name;
 if (!isset($page_description)) $page_description = $default_description;
@@ -51,7 +50,6 @@ $full_image_url = $site_url . $page_image;
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="<?php echo $twitter_handle; ?>">
 <meta name="twitter:title" content="<?php echo htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8'); ?>">
 <meta name="twitter:description" content="<?php echo htmlspecialchars($page_description, ENT_QUOTES, 'UTF-8'); ?>">
 <meta name="twitter:image" content="<?php echo $full_image_url; ?>">

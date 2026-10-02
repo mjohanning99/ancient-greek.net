@@ -35,7 +35,7 @@ $page_type = "article";
     <div class="column-2">
       <div class="article">
         <h2>About page</h2>
-        <p>Welcome to the About page. Here you will find some information about me, but also information about the website itself, why it was created, the types of texts and documents you might find, the reason behind its simplistic design and some information regarding the navigating through pages. If you wish to know more about my current projects, please visit the <a href="/projects.php">projects page</a>. This site also has a <a href="https://twitter.com/ancientgreeknet">Twitter</a> account, I recommend you check it out!</p>
+        <p>Welcome to the About page. Here you will find some information about me, but also information about the website itself, why it was created, the types of texts and documents you might find, the reason behind its simplistic design and some information regarding the navigating through pages. If you wish to know more about my current projects, please visit the <a href="/projects.php">projects page</a>.</p>
       </div>
     </div>
     <div class="column-2">
@@ -66,7 +66,7 @@ $page_type = "article";
 
 <div class="article">
   <h2 id="aboutme">About Me</h2>
-  <p>My name is Marvin, a German in his twenties who is currently attending an apprenticeship as an IT systems technician in Bielefeld, which I hope to successfully finish by 2022. I have been interested in learning languages for over a decade now and have recently begun discovering the language of Ancient Greece. When writing texts in Greek, I use the name Κλεόφιλος (Cleophilus) which is the translation of my first name’s Old German meaning.</p>
+  <p>My name is Marvin, a German who has been interested in learning languages for well over a decade, and who began discovering the language of Ancient Greece in 2020. When writing texts in Greek, I use the name Κλεόφιλος (Cleophilus) which is the translation of my first name’s Old German meaning.</p>
 
   <p>Prior to my learning of Ancient Greek, I focussed mainly on the language of Ancient Egypt; but I quickly found out that I preferred the language and culture of the Greeks and, thus, shifted my attention towards the learning of that language — it has since occupied most of my free-time.</p>
 
