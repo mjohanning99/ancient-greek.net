@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/openingoftheseventhseal.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/openingoftheseventhseal.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="John Martin’s painting of the opening of the seventh seal" src="/media/imgs/GNT/revtrans/openingoftheseventhseal.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/openingoftheseventhseal.jpg'" width="300" height="300">
   <br>
   <i>The Opening of the Seventh Seal — 1837, John Martin</i>
 </div>

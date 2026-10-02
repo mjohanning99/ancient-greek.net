@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>My Translations of Ancient Greek Texts</h1>
   <h3>Ἁι τοῦ Κλεοφίλου μεταφράσεις</h3>
   <i>Marvin's translations</i>
-  <img src="/media/imgs/StJerome.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/StJerome.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="Jan Matsys’ painting of Saint Jerome, who translated the Bible into Latin" src="/media/imgs/StJerome.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/StJerome.jpg'" width="250" height="250">
   <i>St. Jerome (translated the Bible into Latin) — Jan Matsys, 1537</i>
 </div>
 

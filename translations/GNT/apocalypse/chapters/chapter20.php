@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/satanfire.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/satanfire.jpeg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="15th-century illustration of Satan being cast into the lake of fire" src="/media/imgs/GNT/revtrans/satanfire.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/satanfire.jpeg'" width="300" height="300">
   <br>
   <i>Satan is cast into the lake of fire — 15<sup>th</sup> century, unknown author</i>
 </div>

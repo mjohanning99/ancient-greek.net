@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>My Ancient Greek Books (Physical)</h1>
   <h3>Τὰ βιβλία μου τῷ τὴν γλῶτταν μαθεῖν καὶ ἀναγνῶσαι</h3>
   <i>My books for learning and reading the language</i>
-  <img src="/media/imgs/shelf.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/shelf.jpg'" alt="Ancient Greek" width="400" height="400">
+  <img alt="A stack of my Ancient Greek textbooks: Athenaze, Reading Greek and Hansen and Quinn" src="/media/imgs/shelf.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/shelf.jpg'" width="400" height="400">
 </div>
 
 

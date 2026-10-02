@@ -19,9 +19,9 @@ $page_item_name = "The Intricacies of Ancient Egyptian Hieroglpyhics";
 
 <fieldset class="separator-styled radius">
   <legend align="center">
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
       ΤΗΝ ΤΗΣ ΑΙΓΥΠΤΟΥ ΓΛΩΤΤΑΝ ΜΑΝΘΑΝΩΜΕΝ
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
   </legend>
 </fieldset>
 
@@ -29,7 +29,7 @@ $page_item_name = "The Intricacies of Ancient Egyptian Hieroglpyhics";
   <h1>The Intricacies of Ancient Egyptian Hieroglpyhics</h1>
   <h3>The Intricacies of Ancient Egyptian Hieroglpyhics</h3>
   <i>Learning the basics of the Ancient Egyptian writing system; for complete beginners</i>
-  <img src="/media/imgs/cover_intricacies.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/cover_intricacies.jpeg'" alt="Ancient Greek" width="250" height="300">
+  <img alt="Cover of my book The Intricacies of Ancient Egyptian Hieroglyphics" src="/media/imgs/cover_intricacies.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/cover_intricacies.jpeg'" width="250" height="300">
   <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN</u>: 978-3-752952-49-0</i>
 </div>
 

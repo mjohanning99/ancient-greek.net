@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/PhoenicianBridge.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/PhoenicianBridge.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Drawing of Phoenicians building pontoon bridges for Xerxes" src="/media/imgs/herodotus/PhoenicianBridge.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/PhoenicianBridge.jpg'" width="200" height="200">
   <br>
   <i>Phoenicians constructing Pontoon Bridges for Xerxes I of Persia during the second Persian invasion of Greece in 480 BC. (1915 drawing by A. C. Weatherstone).</i>
   <br>

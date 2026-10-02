@@ -16,9 +16,9 @@ $page_type = "article";
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
-      <img src="/media/icons/amphora-2.png">
+      <img alt="" src="/media/icons/amphora-2.png">
         ΤΙ ΠΡΑΤΤΩ ΝΥΝ;
-      <img src="/media/icons/amphora-2.png">
+      <img alt="" src="/media/icons/amphora-2.png">
     </legend>
   </fieldset>
 
@@ -26,7 +26,7 @@ $page_type = "article";
     <h1>My projects</h1>
     <h3>Τίνες εἰσὶν ἁι βουλαί μου;</h3>
     <i>What are my projects?</i>
-    <img src="/media/imgs/paul_writing.webp" width="280" height="150" onerror="this.onerror=null; this.src='/media/imgs/paul_writing.jpg'" alt="Ancient Greek" width="280" height="150">
+    <img alt="Valentin de Boulogne’s painting of Saint Paul writing his epistles" src="/media/imgs/paul_writing.webp" width="280" height="150" onerror="this.onerror=null; this.src='/media/imgs/paul_writing.jpg'" width="280" height="150">
     <i>Saint Paul Writing His Epistles — 1618 – 1620, Valentin de Boulogne</i>
 </div>
 
@@ -41,9 +41,9 @@ $page_type = "article";
 </div>
 
 <div class="separator">
-  <img src="/media/icons/shield-1.png">
+  <img alt="" src="/media/icons/shield-1.png">
     ΠΕΡΙ ΤΩΝ ΒΟΥΛΩΝ ΜΟΥ
-  <img src="/media/icons/shield-1.png">
+  <img alt="" src="/media/icons/shield-1.png">
 </div>
 
 <div class="column-center">

@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/beastfromthesea.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/beastfromthesea.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Illustration from the Augsburger Wunderzeichenbuch of the beast rising from the sea" src="/media/imgs/GNT/revtrans/beastfromthesea.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/beastfromthesea.jpg'" width="300" height="300">
   <br>
   <i>The Beast from the Sea — 1550, Augsburger Wunderzeichenbuch</i>
 </div>

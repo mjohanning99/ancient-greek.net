@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/angelsevenjars.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelsevenjars.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Fresco by Giusto de’ Menabuoi of an angel holding seven jars" src="/media/imgs/GNT/revtrans/angelsevenjars.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelsevenjars.jpg'" width="300" height="300">
   <br>
   <i>An Angel Holding Seven Jars — 14<sup>th</sup> century, Frescos in the Baptistry (Padua) by Giusto de' Menabuoi</i>
 </div>

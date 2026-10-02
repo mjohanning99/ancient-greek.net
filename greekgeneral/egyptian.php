@@ -17,9 +17,9 @@ $page_type = "article";
 
   <fieldset class="separator-styled radius">
     <legend align="center">
-      <img src="/media/icons/hieroglyphs.png">
+      <img alt="" src="/media/icons/hieroglyphs.png">
         Η ΓΛΩΤΤΗ ΤΗΣ ΑΙΓΥΠΤΟΥ
-      <img src="/media/icons/hieroglyphs.png">
+      <img alt="" src="/media/icons/hieroglyphs.png">
     </legend>
   </fieldset>
 

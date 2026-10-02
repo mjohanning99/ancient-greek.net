@@ -33,7 +33,7 @@ $page_type = "article";
     <p>People who learn languages that are no longer natively spoken by anyone, however, obviously must have other goals in mind, for it would be impossible for them to speak directly to native speakers — though I do not doubt that students of ancient languages would squander the opportunity to speak with a native speaker of their language of choice — so their role in <q>communicating</q> with native speakers takes a passive, rather than active, approach. Whereas someone learning, for example, French has the ability, and often also desire, to speak to native speakers — to, for instance, improve one’s speaking ability and, thereby, the spontaneous construction of a sentence —, this ability is unavailble the students of ancient languages. We are therefore required to content with reading — and, by extent, also listening — to the words which were spoken by people hundreds upon hundreds of years ago or to read those writings by other students. The aforementioned requirement of improving one’s ability to spontaneously construct a sentence whilst speaking to someone and deciphering the incoming answer at a reasonable pace are, therefore, not important matters to ancient language learners.</p>
 
     <figure style="float: left; margin-top: 0px;">
-      <img src="/media/imgs/platoathens.webp">
+      <img alt="Roman mosaic of Plato teaching his students in the Academy" src="/media/imgs/platoathens.webp">
       <figcaption>Plato with students of his in the <i>Academy</i> (1<sup>st</sup> cenutry BC, Roman mosaic).<sup><a href="https://commons.wikimedia.org/wiki/File:Acad%C3%A9mie_de_Platon_-_Mosaique_romaine_-_Naples_MANN_124545.webp">wikimedia</a></sup></figcaption>
     </figure>
 
@@ -51,7 +51,7 @@ $page_type = "article";
     <p>Reading, for many, has become a chore which is better avoided and which one would never catch oneself doing voluntarily. Even those of a more academic background appear to have no desire whatsoever to pick up a book in their free-time as a means of enjoyment and learning — this, at least, is the case with the majority of university students that I know. It may, thus, come as a surprise that one of the main reasons for my learning Ancient Greek is to obtain the ability to be able to <i>read texts</i> written thousands of years ago. This, once more, comes down to the topic of the two different types of language learners which I have already alluded to above; some people, generally those — though, of course, not exclusively — who are more introverted, tend to enjoy spending time <i>on their own</i> and to them, therefore, reading as a means of spending their free-time is a viable option (though access to the Internet and the various options of entertainment that are thereby unlocked have reduced this number significantly, I would argue).</p>
 
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/libraryofalexandria.webp">
+      <img alt="19th-century depiction of scholars in the Library of Alexandria" src="/media/imgs/libraryofalexandria.webp">
       <figcaption>19<sup>th</sup>-century depiction of the <i>Library of Alexandria.</i><sup><a href="https://en.wikipedia.org/wiki/File:Ancientlibraryalex.webp">wikimedia</a></sup></figcaption>
     </figure>
 

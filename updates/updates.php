@@ -16,9 +16,9 @@ $page_type = "article";
   <?php include('../header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
-      <img src="/media/icons/mandolin.png">
+      <img alt="" src="/media/icons/mandolin.png">
         ΑΝΑΓΙΓΝΟΣΚΩΜΕΝ ΤΑΣ ΑΓΓΕΛΙΑΣ 
-      <img src="/media/icons/mandolin.png">
+      <img alt="" src="/media/icons/mandolin.png">
     </legend>
   </fieldset>
 
@@ -26,7 +26,7 @@ $page_type = "article";
     <h1>Updates</h1>
     <h3>Αὐξανέτω ἡ ἀρχή</h3>
     <i>May the territory expand</i>
-    <img src="/media/imgs/atticredfigured.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" alt="Ancient Greek" width="250" height="250">
+    <img alt="Attic red-figure cup showing a rider on horseback" src="/media/imgs/atticredfigured.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" width="250" height="250">
     <i>Rider, Attic red-figured cup — Middle of 5<sup>th</sup> century BC</i>
 </div>
 
@@ -52,9 +52,9 @@ $page_type = "article";
 </div>
 
 <div class="separator">
-  <img src="/media/icons/scroll.png" class="no">
+  <img alt="" src="/media/icons/scroll.png" class="no">
   ΑΙ ΑΓΓΕΛΙΑΙ
-  <img src="/media/icons/scroll.png" class="no">
+  <img alt="" src="/media/icons/scroll.png" class="no">
 </div>
 
 <div class="article">
@@ -79,7 +79,7 @@ $page_type = "article";
   
   <h2>February 12, 2022 — A New Book!</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/rev_eng.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/rev_eng.jpg'" width="550" alt="Ancient Greek">
+    <img alt="Laying out my new book, the English edition of John’s Revelation" src="/media/imgs/updates/rev_eng.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/rev_eng.jpg'" width="550">
     <figcaption>Working on my new book</figcaption>
   </figure><br>
   <p>Hello there everyone. I have returned with some, hopefully, rather good news. Some time ago, I published my book which has, as of today, actually sold eighteen copies already; however, as I was certain that this number would increase if its price wasn’t as steep, I decided to write and publish and English-only edition of my book with a modern and sleek design and no illustrations.</p>

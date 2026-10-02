@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>The Gospels — Translation and Transliteration</h1>
   <h3>Τὰ εὐαγγέλια Ἰησοῦ Χριστοῦ</h3>
   <i>The good news of Jesus Christ</i>
-  <img src="/media/imgs/GNT/gospels/bedegospel.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/bedegospel.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="J. Doyle Penrose’s painting of the Venerable Bede translating the Gospel of John on his deathbed" src="/media/imgs/GNT/gospels/bedegospel.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/bedegospel.jpg'" width="300" height="300">
   <i><q>The Venerable Bede translating the Gospel of John on his deathbed</q> — J. Doyle Penrose, 1902</i>
 </div>
 

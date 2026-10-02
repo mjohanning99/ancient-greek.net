@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/IonicStoa.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/IonicStoa.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="The Ionic stoa at Miletus" src="/media/imgs/herodotus/IonicStoa.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/IonicStoa.jpg'" width="200" height="200">
   <br>
   <i>Ionic Stoa in Miletus — <a href="https://en.wikipedia.org/wiki/File:Miletus-_Temple_-_panoramio.webp">Raki_Man</a></i>
   <br>

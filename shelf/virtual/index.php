@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>My Ancient Greek Books (Digital)</h1>
   <h3>Τὰ βιβλία μου τὰ εἰκονικὰ τῷ τὴν γλῶτταν μαθεῖν καὶ ἀναγνῶσαι</h3>
   <i>My virtual (false) books for learning and reading the language</i>
-  <img src="/media/imgs/reimer_librarian.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/reimer_librarian.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="Georg Reimer’s painting of a librarian reading at the top of a library ladder" src="/media/imgs/reimer_librarian.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/reimer_librarian.jpg'" width="250" height="250">
   <i>In the Library — 1850 – 1866, Georg Reimer</i>
 </div>
 

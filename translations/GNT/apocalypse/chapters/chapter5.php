@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/namesworthy.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/namesworthy.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="13th-century English Apocalypse illumination of the names of the worthy being read" src="/media/imgs/GNT/revtrans/namesworthy.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/namesworthy.jpg'" width="250" height="250">
   <br>
   <i>Reading the Names of the Worthy — 1265 – 1270, Unknown English artist</i>
 </div>

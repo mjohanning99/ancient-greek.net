@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>General Information on the Ancient Greek Language</h1>
   <h3>Περὶ τῆς Ἑλληνικῆς γλώττης διδαχαὶ καθολικαί</h3>
   <i>General teachings about the Greek language</i>
-  <img src="/media/imgs/general/general_index.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/general/general_index.jpg'" alt="Ancient Greek" width="400" height="400">
+  <img alt="A 19th-century bilingual Bible, opened" src="/media/imgs/general/general_index.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/general/general_index.jpg'" width="400" height="400">
   <i>A bilingual Bible from the 19<sup>th</sup> century</i>
 </div>
 

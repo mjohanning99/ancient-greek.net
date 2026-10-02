@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/angelbook.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelbook.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Benjamin West’s painting of the mighty angel holding the little book" src="/media/imgs/GNT/revtrans/angelbook.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/angelbook.jpg'" width="200" height="200">
   <br>
   <i>The Angel Holding the Book — Benjamin West, 1797</i>
 </div>

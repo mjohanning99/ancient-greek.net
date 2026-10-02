@@ -16,9 +16,9 @@ $page_type = "article";
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
-      <img src="/media/icons/vessel.png">
+      <img alt="" src="/media/icons/vessel.png">
         ΑΚΟΥΕ ΕΜΑΥΤΟΥ
-      <img src="/media/icons/vessel.png">
+      <img alt="" src="/media/icons/vessel.png">
     <legend align="center">
   </fieldset>
 
@@ -26,7 +26,7 @@ $page_type = "article";
   <h1>Audio</h1>
   <h3>Ἀκούε τοὺς λόγους τοὺς ἀρχαίους</h3>
   <i>Listen to the ancient words</i>
-  <img src="/media/imgs/audio_editing.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/audio_editing.png'" alt="Ancient Greek" width="400" height="400">
+  <img alt="Screenshot of Audacity while editing a recording of Ancient Greek" src="/media/imgs/audio_editing.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/audio_editing.png'" width="400" height="400">
   <i>A screenshot of my editing audio using Audacity</i>
 </div>
 
@@ -40,9 +40,9 @@ $page_type = "article";
 </div>
 
 <div class="separator">
-  <img class="no" src="/media/icons/hieroglyphs.png">
+  <img alt="" class="no" src="/media/icons/hieroglyphs.png">
     ΚΑΤΑΛΑΒΟΥ ΤΟΥΣ ΛΟΓΟΥΣ
-  <img class="no" src="/media/icons/hieroglyphs.png">
+  <img alt="" class="no" src="/media/icons/hieroglyphs.png">
 </div>
 
 <div class="row">

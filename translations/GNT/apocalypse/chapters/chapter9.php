@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/locustspit.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/locustspit.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Woodcut from the Zürich Bible of locusts rising from the bottomless pit" src="/media/imgs/GNT/revtrans/locustspit.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/locustspit.jpg'" width="200" height="200">
   <br>
   <i>Locusts coming from the Pit — 1531, Zürcher Bibel</i>
 </div>

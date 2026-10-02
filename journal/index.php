@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>Ancient Greek Journal</h1>
   <h3>Ἱστολόγιον Κλεοφίλου</h3>
   <i>Marvin’s Blog</i>
-  <img src="/media/imgs/clio_muse_history.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/clio_muse_history.jpeg'" alt="Ancient Greek" width="300" height="30">
+  <img alt="Johannes Moreelse’s painting of Clio, Muse of History" src="/media/imgs/clio_muse_history.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/clio_muse_history.jpeg'" width="300" height="30">
   <i>Clio, Muse of History — Johannes Moreelse, early 1600s</i>
 </div>
 

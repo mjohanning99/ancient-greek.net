@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>The Revelation of John — Translation and Transliteration</h1>
   <h3>Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ Θεός …</h3>
   <i>The Revelation of Jesus Christ, which God gave him …</i>
-  <img src="/media/imgs/GNT/FourthAngel.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/FourthAngel.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="10th-century manuscript illumination of the fourth angel sounding his trumpet" src="/media/imgs/GNT/FourthAngel.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/FourthAngel.jpg'" width="250" height="250">
   <i>The Fourth Angel sounds his trumpet, Apocalypse 8 — circa 950. (Commentaria in Apocalypsin)</i>
 </div>
 

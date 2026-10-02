@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/CroesusPortrait.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/CroesusPortrait.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Croesus, wreathed in laurel, painted on a red-figure amphora" src="/media/imgs/herodotus/CroesusPortrait.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/CroesusPortrait.jpg'" width="200" height="200">
   <br>
   <i>Portrait of Croesus, Attic red-figure amphora, painted ca. 500–490 BC.</i>
   <br>

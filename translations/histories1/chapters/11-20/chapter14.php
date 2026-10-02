@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/AthenianTreasury.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/AthenianTreasury.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="The Treasury of the Athenians at Delphi" src="/media/imgs/herodotus/AthenianTreasury.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/AthenianTreasury.jpg'" width="200" height="200">
   <br>
   <i>Treasury house of Athens in Delphi — <a href="https://en.wikipedia.org/wiki/File:Treasury_house_of_Athens_in_Delphi_(July_2018).webp">Szymon Kabalczyk</a></i>
   <br>

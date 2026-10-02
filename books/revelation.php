@@ -19,9 +19,9 @@ $page_item_name = "The Apocalypse of John — A Modern Translation";
 
 <fieldset class="separator-styled radius">
   <legend align="center">
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
       ΤΗΝ ΜΕΤΑΦΡΑΣΙΝ ΜΟΥ ΑΝΑΓΙΓΝΩΣΚΩΜΕΝ
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
   </legend>
 </fieldset>
 
@@ -29,7 +29,7 @@ $page_item_name = "The Apocalypse of John — A Modern Translation";
   <h1>The Apocalypse of John — A Modern Translation</h1>
   <h3>Ἡ Ἀποκάλυψις τοῦ Ἰωάννου — Μετάφρασις καινὴ ζωγράφημασι καὶ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>
   <i>The Apocalypse of John — A Modern Illustrated Translation with Notes and the Original Greek Text</i>
-  <img src="/media/imgs/coverrevelation.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/coverrevelation.png'" alt="Ancient Greek" width="250" height="300">
+  <img alt="Cover of my book The Apocalypse of John: A Modern Translation" src="/media/imgs/coverrevelation.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/coverrevelation.png'" width="250" height="300">
   <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-7543-2897-2</i>
 </div>
 

@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>Old Ancient Greek Books — The Presbyterium</h1>
   <h3>Τὸ πρεσβυτέριον</h3>
   <i>The Presbyterium — The Council of Elders</i>
-  <img src="/media/imgs/presbyterium.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/presbyterium.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Shelves of old books in the Libreria Bardón, Madrid" src="/media/imgs/presbyterium.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/presbyterium.jpg'" width="300" height="300">
   <i>Libreria Bardón — PromoMadrid, author Max Alexander (CC BY-SA 2.0)</i>
 </div>
 

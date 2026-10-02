@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/deathpalehorse.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/deathpalehorse.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Gustave Doré’s engraving of Death riding a pale horse" src="/media/imgs/GNT/revtrans/deathpalehorse.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/deathpalehorse.jpg'" width="200" height="200">
   <br>
   <i>And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. (Rev. 6:8) — 1865, Gustave Doré</i>
 </div>

@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/harvestoftheworld.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/harvestoftheworld.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Woodcut from Luther’s Bible of the harvest of the world" src="/media/imgs/GNT/revtrans/harvestoftheworld.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/harvestoftheworld.jpg'" width="300" height="300">
   <br>
   <i>The Harvest of the World — 1530, illustration from the Lutherbibel</i>
 </div>

@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>Programs for Studying Ancient Greek</h1>
   <h3></h3>
   <i></i>
-  <img src="/media/imgs/apps/heading.webp" width="320" height="320" onerror="this.onerror=null; this.src='/media/imgs/apps/heading.jpg'" alt="Ancient Greek" width="320" height="320">
+  <img alt="My computer at my desk, with a Bible study program open on the screen" src="/media/imgs/apps/heading.webp" width="320" height="320" onerror="this.onerror=null; this.src='/media/imgs/apps/heading.jpg'" width="320" height="320">
   <i>My computer with a program for reading the Bible</i>
 </div>
 

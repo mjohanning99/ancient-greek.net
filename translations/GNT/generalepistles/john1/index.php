@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>The First Epistle of John — Translation and Transliteration</h1>
   <h3>Ἡ πρώτη τοῦ Ἰωάννου ἐπιστολή</h3>
   <i>The First Epistle of John</i>
-  <img src="/media/imgs/GNT/generalepistles/john1/johnpoisoncup.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/john1/johnpoisoncup.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="Alonso Cano’s painting of Saint John the Evangelist with a chalice from which a serpent rises" src="/media/imgs/GNT/generalepistles/john1/johnpoisoncup.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/john1/johnpoisoncup.jpg'" width="250" height="250">
   <i><q>St. John the Evangelist</q> — Alonso Cano, 1635 - 1637</i>
 </div>
 

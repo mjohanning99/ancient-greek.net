@@ -21,7 +21,7 @@ $page_item_name = "Adam Rechenberg’s New Testament";
   <h1>Adam Rechenberg’s New Testament</h1>
   <h3>Ἡ τοῦ Ἀδάμ Ῥέχενβεργ Καινὴ Διαθήκη</h3>
   <i>Adam Rechenberg’s New Testament discussed in detail and with lots of illustrations</i>
-  <img src="/media/imgs/NTRechenberg/IMG_0156.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="My 1736 copy of Adam Rechenberg’s Greek New Testament, standing on a table" src="/media/imgs/NTRechenberg/IMG_0156.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/IMG_0156.jpg'" width="300" height="300">
 </div>
 
 <div class="column-center">
@@ -66,7 +66,7 @@ $page_item_name = "Adam Rechenberg’s New Testament";
     <p>Before I begin my examination of various points of interest in the book itself, I would like to begin highlighting some information about the author — or, rather, the publisher of this particular volume of the New Testament, Adam Rechenberg. I have misspelt his name frequently over the course of writing this website, as it is oddly reminiscent of Sherlock Holmes’ <i>The Reichenbach Fall</i>; my brain appears to have the desire to write Adam’s name not as <i>Rechenberg</i>, but rather as <i>Rechenbach</i>. My frequent consultation of the stories of Sherlock Holmes might have caused this issue.</p>
 
     <figure>
-      <img src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.jpg'" alt="Ancient Greek">
+      <img alt="Engraved portrait of Adam Rechenberg" src="/media/imgs/NTRechenberg/rechenberg_portrait.webp" onerror="this.onerror=null; this.src='/media/imgs/NTRechenberg/rechenberg_portrait.jpg'">
       <figcaption>A portrait of Rechenberg, © The Trustees of the British Museum (CC BY-NC-SA 4.0)</figcaption>
     </figure>
 

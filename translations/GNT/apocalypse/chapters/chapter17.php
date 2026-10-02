@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/grossebabylon.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/grossebabylon.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Gebhard Fugel’s painting of the harlot seated upon the beast" src="/media/imgs/GNT/revtrans/grossebabylon.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/grossebabylon.jpg'" width="300" height="300">
   <br>
   <i>Harlot Seated on the Beast — 1933, Gebhard Fugel</i>
 </div>

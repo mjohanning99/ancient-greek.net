@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/MapLydia.png" width="200" height="200">
+  <img alt="Map of Lydia around the time of Gyges" src="/media/imgs/herodotus/MapLydia.png" width="200" height="200">
   <br>
   <i>Map of Lydia of around the time of this story — by <a href="https://commons.wikimedia.org/wiki/File:Map_of_Lydia_ancient_times-el.svg">Wolfymoza</a>.</i>
   <br>

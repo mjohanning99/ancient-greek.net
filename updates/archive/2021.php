@@ -16,9 +16,9 @@ $page_type = "article";
   <?php include('../../header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
-      <img src="/media/icons/mandolin.png">
+      <img alt="" src="/media/icons/mandolin.png">
         ΑΝΑΓΙΓΝΟΣΚΩΜΕΝ ΤΑΣ ΑΓΓΕΛΙΑΣ 
-      <img src="/media/icons/mandolin.png">
+      <img alt="" src="/media/icons/mandolin.png">
     </legend>
   </fieldset>
 
@@ -26,7 +26,7 @@ $page_type = "article";
     <h1>Updates from 2021</h1>
     <h3>Αὐξανέτω ἡ ἀρχή</h3>
     <i>May the territory expand</i>
-    <img src="/media/imgs/atticredfigured.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" alt="Ancient Greek" width="250" height="250">
+    <img alt="Attic red-figure cup showing a rider on horseback" src="/media/imgs/atticredfigured.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/atticredfigured.jpg'" width="250" height="250">
     <i>Rider, Attic red-figured cup — Middle of 5<sup>th</sup> century BC</i>
 </div>
 
@@ -38,9 +38,9 @@ $page_type = "article";
 </div>
 
 <div class="separator">
-  <img src="/media/icons/scroll.png" class="no">
+  <img alt="" src="/media/icons/scroll.png" class="no">
   ΑΙ ΑΓΓΕΛΙΑΙ
-  <img src="/media/icons/scroll.png" class="no">
+  <img alt="" src="/media/icons/scroll.png" class="no">
 </div>
 
 <div class="article">
@@ -59,7 +59,7 @@ $page_type = "article";
   
   <h2>December 4, 2021 — A New Home</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/newhome.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/newhome.jpg'" width="550" alt="Ancient Greek">
+    <img alt="My home server set-up: a hard-drive dock on a desk" src="/media/imgs/updates/newhome.webp" width="550" onerror="this.onerror=null; this.src='/media/imgs/updates/newhome.jpg'" width="550">
     <figcaption>My website’s new home</figcaption>
   </figure><br>
   <p>Following my recently having upgraded my Internet connection speed to 1 Gbit/s, I decided it was time to move away my website from a third-party hoster and host it myself — and I have now done so. It now resides on the Raspberry Pi you can see in the image just below this update’s title. I have always been someone to prefer independence — not only regarding my website but life in general — and decided that this would be the next logical step in my website’s achieving of independence from third parties. Unfortunately, I am, of course, still dependent on my ISP and the power grid, but I hope to add an additional layer of independence by adding a fallback Internet connection via LTE and a small power bank in case of a power outage. And whilst my current setup is, of course, by no means professional, I am hoping to build upon it and improve it with time so that, at the end, I shall have a mostly independent server setup.</p>
@@ -77,7 +77,7 @@ $page_type = "article";
 
   <h2>November 27, 2021 — And So It Continues</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/gospelnov.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/gospelnov.jpeg'" alt="Ancient Greek">
+    <img alt="My code editor, open whilst working on the website" src="/media/imgs/updates/gospelnov.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/gospelnov.jpeg'">
     <figcaption>Working on my website</figcaption>
   </figure><br>
   <p>… or <q>And so it begins</q>, as a certain Vorlon would say. I have finally taken it upon myself to continue working on my website, albeit slowly. As I have been rather busy as of late — both with school and work — and have not really had the inclination to continue working on my book or my website, I have done but very little work on both my website and my new book. I have, however, slowly begun being more productive concerning this as of late — though God knows why that has happened. This does have the, hopefully positive, implication of my website receiving some more updates.</p>
@@ -88,7 +88,7 @@ $page_type = "article";
 
   <h2>July 30, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/philokalia.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/philokalia.png'" alt="Ancient Greek">
+    <img alt="A printed, nicely typeset edition of one of my letters in Greek" src="/media/imgs/updates/philokalia.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/philokalia.png'">
     <figcaption>Nicely typeset edition of one of my letters</figcaption>
   </figure><br>
   <p>The entirety of the Apocalypse of John is now available on my website! Additionally, I have updated the <a href="/projects.php">projects page</a> so that it now has two sections, one for current, and still on-going, projects; and one for projects that have been finished. As you may have noticed, I have begun a new project, namely the translation of the Gospel of John — this particular project will (or should, in theory) play out in the same manner as that of the Apocalypse of John; I shall write the translation, publish it here and publish it as a physical book as well. I have yet to write something, but you may already check out the newly created page for the Gospel of John <a href="/translations/GNT/gospels/john/index.php">right here</a>.
@@ -97,7 +97,7 @@ $page_type = "article";
 
   <h2>July 29, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/book.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/book.png'" alt="Ancient Greek">
+    <img alt="The title pages of my book, the Apocalypse of John" src="/media/imgs/updates/book.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/book.png'">
     <figcaption>Title pages of my book</figcaption>
   </figure><br>
   <p>I have finally finished my book! Yes indeed, my book containing my own translation of the Apocalypse of John is finally done; considering the text I translated was rather short, I find that it has taken me longer than I had initially expected — but after a month of working on my translation and the design and typesetting of my book, I can finally proclaim that it has, indeed, been finished.</p>
@@ -106,7 +106,7 @@ $page_type = "article";
 
   <h2>June 29, 2021</h2>
   <figure style="width: 100%; border: none;">
-    <img src="/media/imgs/updates/darkmode.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/darkmode.png'" alt="Ancient Greek">
+    <img alt="ancient-greek.net shown in its new dark mode" src="/media/imgs/updates/darkmode.webp" onerror="this.onerror=null; this.src='/media/imgs/updates/darkmode.png'">
     <figcaption>Dark mode</figcaption>
   </figure><br>
   <p>I have finally managed to continue working on my website and have begun implementing a dark mode. It is still being worked on and improved, but it already automatically enables whenever your device‘s theme is set to a dark one. I was able to accomplish this using pure CSS, fortunately, and did not have to resort to my dreaded Javascript just for a dark mode.</p>

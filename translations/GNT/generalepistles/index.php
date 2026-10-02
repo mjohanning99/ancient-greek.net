@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>The General Epistles — Translation and Transliteration</h1>
   <h3>Αἱ καθολικαὶ ἐπιστολαί</h3>
   <i>The Catholic (or General) Epistles</i>
-  <img src="/media/imgs/GNT/generalepistles/manwritingletter.webp" width="280" height="280" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/manwritingletter.jpg'" alt="Ancient Greek" width="280" height="280">
+  <img alt="Gabriël Metsu’s painting of a young man writing a letter by an open window" src="/media/imgs/GNT/generalepistles/manwritingletter.webp" width="280" height="280" onerror="this.onerror=null; this.src='/media/imgs/GNT/generalepistles/manwritingletter.jpg'" width="280" height="280">
   <i><q>Briefschrijvende jongeman bij geopend venster</q> — Gabriël Metsu, 1665</i>
 </div>
 

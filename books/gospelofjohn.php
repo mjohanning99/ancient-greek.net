@@ -19,9 +19,9 @@ $page_item_name = "The Gospel of John — A Modern Translation";
 
   <fieldset class="separator-styled radius">
   <legend align="center">
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
       ΤΗΝ ΜΕΤΑΦΡΑΣΙΝ ΜΟΥ ΑΝΑΓΙΓΝΩΣΚΩΜΕΝ
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
   </legend>
 </fieldset>
 
@@ -29,7 +29,7 @@ $page_item_name = "The Gospel of John — A Modern Translation";
   <h1>The Gospel of John — A Modern Translation</h1>
   <h3>Τὸ εὐαγγέλιον κατὰ Ἰωάννην — Μετάφρασις καινὴ ὑπομνήμασι καὶ δὴ καὶ τοῖς ἀρχαῖοις Ἑλληνικοῖς λόγοις</h3>
   <i>The Apocalypse of John — A Modern Translation with Notes and the Original Greek Text</i>
-  <img src="/media/books/gospelofjohn/images/tannerjesuswater.jpg" width="250" height="300" onerror="this.onerror=null; this.src='/media/books/gospelofjohn/images/tannerjesuswater.jpg'" alt="Ancient Greek" width="250" height="300">
+  <img alt="Painting of Jesus walking on the water towards a small boat on a moonlit sea" src="/media/books/gospelofjohn/images/tannerjesuswater.jpg" width="250" height="300" onerror="this.onerror=null; this.src='/media/books/gospelofjohn/images/tannerjesuswater.jpg'" width="250" height="300">
   <i style="font-variant: small-caps;"><u>ISBN</u>: 978-3-XXXX-XXXX-X (TBD)</i>
 </div>
 

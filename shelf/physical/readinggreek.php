@@ -21,7 +21,7 @@ $page_item_name = "JACT’s Reading Greek — Review";
   <h1>JACT’s Reading Greek — Review</h1>
   <h3>Τὸ τὴν Ἑλληνικὴν γλῶτταν ἀναγνῶσαι βοηθείᾳ γραμματικῇ</h3>
   <i>Reading Greek with grammatical help</i>
-  <img src="/media/imgs/readingtext.webp" width="401" height="400" onerror="this.onerror=null; this.src='/media/imgs/readingtext.jpg'" alt="Ancient Greek" width="400" height="400">
+  <img alt="An open copy of JACT’s Reading Greek, showing Greek text with notes" src="/media/imgs/readingtext.webp" width="401" height="400" onerror="this.onerror=null; this.src='/media/imgs/readingtext.jpg'" width="400" height="400">
 </div>
 
 

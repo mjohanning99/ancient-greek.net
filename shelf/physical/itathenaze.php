@@ -21,7 +21,7 @@ $page_item_name = "Italian Athenaze — Review";
   <h1>Italian Athenaze — Review</h1>
   <h3>Ἴωμεν Ἀθήναζε! Μετὰ βιβλίου τινὸς Ἰταλίαθεν τὴν γλῶτταν μανθάνωμεν;</h3>
   <i>Let's go to Athens! Should we be learning the language with a book from Italy?</i>
-  <img src="/media/imgs/athenazetitle.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/athenazetitle.jpg'" alt="Ancient Greek" width="400" height="400">
+  <img alt="The title page of the Italian Athenaze, reading Ἀθήναζε" src="/media/imgs/athenazetitle.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/athenazetitle.jpg'" width="400" height="400">
 </div>
 
 
@@ -36,7 +36,7 @@ $page_item_name = "Italian Athenaze — Review";
     <p>It should therefore not be surprising to anyone that the study of ancient languages usually revolves around the comprehension of text — prose or poetry — rather than being able to actively communicate in the language. And whilst the comprehension of prose is, I would argue, also a goal for people learning modern languages, it tends to not be their primary goal; their main goal generally being the comprehension of conversations and being able to hold one competently as well.</p>
 
     <figure>
-      <img src="/media/imgs/itath1.webp">
+      <img alt="A page of Greek text from the Italian Athenaze" src="/media/imgs/itath1.webp">
       <figcaption>A page from the book</figcaption>
     </figure>
 

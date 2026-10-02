@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>How to pronounce Ancient Greek?</h1>
   <h3>Τὴν ἀρχαίαν Ἑλληνικὴν γλῶτταν πῶς φθέγγῃ;</h3>
   <i>How should you pronounce the Ancient Greek language?</i>
-  <img src="/media/imgs/general/pronunciation_1_resize.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_1_resize.jpg'" alt="Ancient Greek" width="400" height="400">
+  <img alt="Pronunciation table of the Greek alphabet from Hansen and Quinn’s Greek: An Intensive Course" src="/media/imgs/general/pronunciation_1_resize.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_1_resize.jpg'" width="400" height="400">
   <i>Part of the pronunciation guide found in Hansen and Quinn’s <q>Greek: An Intensive Course</q></i>
 </div>
 
@@ -47,7 +47,7 @@ $page_type = "article";
     <p>Unfortunately, the commonly taught so-called Erasmian pronunciation (which received its name from its inventor, the Dutch theologian and philospher Erasmus of Rotterdam) is nothing of the sort, as it is filled with anachronisms that turn it into a monster which would not have existed at any point of time during the language’s natural life. Pupils are not encouraged to break from their native tongue’s phonology, leading to many varieties of ear torture.</p>
       
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/general/pronunciation_oxford.webp" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_oxford.jpg'" alt="Ancient Greek">
+      <img alt="Pronunciation guide from the Oxford Pocket Classical Greek Dictionary" src="/media/imgs/general/pronunciation_oxford.webp" onerror="this.onerror=null; this.src='/media/imgs/general/pronunciation_oxford.jpg'">
       <figcaption>Pronunciation guide from Oxford’s Pocket Classical Greek Dictionary.</figcaption>
     </figure>
     <p>Indeed, the worst offender I have, as of today, seen was a Bible app I found for my phone. It is a great app and I use it frequently and it consists of videos of Bible passages being read and <q>dissected</q> so that they are easier to comprehend; the presenter is, no doubt, much more proficient in the language than I am, but his pronunciation made me unable to enjoy watching his videos for too long. He is pronouncing the words as if they were English and his American English accent is so pronounced — a pun may or may not be intended —, it is actually <i>difficult</i> for me to make out the words he is saying. </p>

@@ -16,9 +16,9 @@ $page_type = "article";
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
-      <img src="/media/icons/amphora.png">
+      <img alt="" src="/media/icons/amphora.png">
         ΔΙΑΛΕΓΩΜΕΝ
-      <img src="/media/icons/amphora.png">
+      <img alt="" src="/media/icons/amphora.png">
     <legend align="center">
   </fieldset>
 
@@ -26,7 +26,7 @@ $page_type = "article";
   <h1>Contact</h1>
   <h3>Ἐπιστολὴν τινά μοι πέμπε</h3>
   <i>Write me a letter or an email</i>
-  <img src="/media/imgs/cossacks_letter.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/cossacks_letter.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Ilya Repin’s painting of the Zaporozhye Cossacks laughing as they write a letter to the Sultan" src="/media/imgs/cossacks_letter.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/cossacks_letter.jpg'" width="300" height="300">
   <i>The Zaporozhye Cossacks Replying to the Sultan — 1878 – 1891, Ilya Repin</i>
 </div>
 
@@ -38,9 +38,9 @@ $page_type = "article";
 </div>
 
 <div class="separator">
-  <img class="no" src="/media/icons/hieroglyphs.png">
+  <img alt="" class="no" src="/media/icons/hieroglyphs.png">
     ΕΠΙΣΤΟΛΗΝ ΤΙΝΑ ΜΟΙ ΠΕΜΠΕ
-  <img class="no" src="/media/icons/hieroglyphs.png">
+  <img alt="" class="no" src="/media/icons/hieroglyphs.png">
 </div>
 
 <div class="row">

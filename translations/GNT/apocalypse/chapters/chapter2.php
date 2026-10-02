@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/ephesuschurch.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/ephesuschurch.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="Facundus Beatus illumination of an angel giving John the letter for the church of Ephesus" src="/media/imgs/GNT/revtrans/ephesuschurch.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/ephesuschurch.jpg'" width="250" height="250">
   <br>
   <i>The Angel gives John the Letter for the Church of Ephesus — 1047, Facundus</i>
 </div>

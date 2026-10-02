@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/dragonwomansun.webp" width="210" height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/dragonwomansun.jpg'" alt="Ancient Greek" width="210" height="210">
+  <img alt="William Blake’s watercolour of the great red dragon and the woman clothed with the Sun" src="/media/imgs/GNT/revtrans/dragonwomansun.webp" width="210" height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/dragonwomansun.jpg'" width="210" height="210">
   <br>
   <i>The Great Red Dragon and the Woman Clothed with the Sun — 1803 – 1805, Wiliam Blake</i>
 </div>

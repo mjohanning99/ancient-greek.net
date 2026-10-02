@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/twowitnesses.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/twowitnesses.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Illustration from the Augsburger Wunderzeichenbuch of the bodies of the two witnesses" src="/media/imgs/GNT/revtrans/twowitnesses.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/twowitnesses.jpg'" width="300" height="300">
   <br>
   <i>The bodies of the two witnesses — Augsburger Wunderzeichenbuch, 1552</i>
 </div>

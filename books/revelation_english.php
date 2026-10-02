@@ -19,9 +19,9 @@ $page_item_name = "The Apocalypse of John — A Modern Translation — English-o
 
 <fieldset class="separator-styled radius">
   <legend align="center">
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
       ΤΗΝ ΜΕΤΑΦΡΑΣΙΝ ΜΟΥ ΑΝΑΓΙΓΝΩΣΚΩΜΕΝ
-    <img src="/media/icons/olympic-games.png">
+    <img alt="" src="/media/icons/olympic-games.png">
   </legend>
 </fieldset>
 
@@ -29,7 +29,7 @@ $page_item_name = "The Apocalypse of John — A Modern Translation — English-o
   <h1>The Apocalypse of John — A Modern Translation — English-only edition</h1>
   <h3>John's Revelation</h3>
   <i>A Modern Annotated Translation</i>
-  <img src="/media/imgs/coverrev_eng.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/coverrev_eng.jpg'" alt="Ancient Greek" width="250" height="300">
+  <img alt="Cover of my book John’s Revelation: A Modern Annotated Translation" src="/media/imgs/coverrev_eng.webp" width="250" height="300" onerror="this.onerror=null; this.src='/media/imgs/coverrev_eng.jpg'" width="250" height="300">
   <i style="font-variant: small-caps; margin-bottom: 0px;"><u>ISBN Paperback</u>: 978-3-7557-9152-2</i>
   <span><a href="https://commons.wikimedia.org/wiki/File:Carle_Hessay_-_The_Dark_Riders_(1971).jpg">Cover background image</span></a> (Carle Hessay, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>)
 </div>

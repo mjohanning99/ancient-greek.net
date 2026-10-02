@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>The Gospel of John — Translation and Transliteration</h1>
   <h3>Τὸ εὐαγγέλιον κατὰ Ἰωάννην</h3>
   <i>The Gospel according to John</i>
-  <img src="/media/imgs/GNT/gospels/johntheevangelist.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/johntheevangelist.jpg'" alt="Ancient Greek" width="300" height="300">
+  <img alt="Vladimir Borovikovsky’s painting of Saint John the Evangelist" src="/media/imgs/GNT/gospels/johntheevangelist.webp" width="300" height="300" onerror="this.onerror=null; this.src='/media/imgs/GNT/gospels/johntheevangelist.jpg'" width="300" height="300">
   <i><q>St. John the Evangelist</q> — Vladimir Borovikovsky, 1804 - 1809</i>
 </div>
 

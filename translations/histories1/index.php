@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>Herodotus’ Histories — Original Greek Text and Translation</h1>
   <h3>Ἡροδότου Ἁλικαρνησσέος ἱστορίης ἀπόδεξις ἥδε …</h3>
   <i>Herodotus of Halicarnassus here presents his research …</i>
-  <img src="/media/imgs/herodbust.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodbust.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Marble bust of Herodotus" src="/media/imgs/herodbust.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodbust.jpg'" width="200" height="200">
   <i>Bust of Herodotus’</i>
 </div>
 

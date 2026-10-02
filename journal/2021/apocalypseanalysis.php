@@ -20,7 +20,7 @@ $page_type = "article";
   <h3 style="margin-bottom: 0px;">An Amateur Analysis of the Apocalypse of John (Revelation) — Observations by an Intermediate Student</h3>
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/beatos_2.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/beatos_2.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="Medieval Beatus manuscript illumination of the fourth angel pouring his bowl upon the Sun" src="/media/imgs/GNT/beatos_2.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/beatos_2.jpg'" width="250" height="250">
   <br>
   <i>Rev 16:8 — Καὶ ὁ τέταρτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ἥλιον· καὶ ἐδόθη αὐτῷ καυματίσαι τοὺς ἀνθρώπους ἐν πυρί.</i>
   <br>
@@ -37,7 +37,7 @@ $page_type = "article";
       <p>I, thus, decided that it would be a rather interesting matter to explore in what manners this book shows its rather odd lingustic phenomena and what their reasons for existing might be. However, as I am, myself, not an expert on either this subject or the Ancient Greek language in general, I felt that it would be prudent to add a short disclaimer here, stating that any of the below-mentioned opinions and observations may turn out to be utterly false. Should I, over the course of the next few weeks, months and years, be corrected, I will amend the page as needed.</p>
 
       <figure style="float: left; margin-top: 0px;">
-        <img src="/media/imgs/GNT/dragonsevenheads.webp">
+        <img alt="Facundus Beatus illumination of the seven-headed Dragon giving his power to the Beast" src="/media/imgs/GNT/dragonsevenheads.webp">
         <figcaption>The Dragon gives his power to the Beast — Facundus Beatus (1047 AD)</figcaption>
       </figure>
 
@@ -57,7 +57,7 @@ $page_type = "article";
     <p>Indeed, I should begin with a short explanation of aforesaid linguistic phenomena. Ancient Greek, as any language, has a set of rules which govern how the language functions, called grammar. A diversion from said rules will either lead to misunderstanding or no understanding at all; but if aforementioned diversion is one that is not too great, it can, often-times, still be understood by the reader — and the latter is what we find in the Apocalypse of John.</p>
 
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/GNT/whitehorse.webp">
+      <img alt="Facundus Beatus illumination of the rider on the white horse" src="/media/imgs/GNT/whitehorse.webp">
       <figcaption>Now I saw heaven opened, and behold, a white horse. And He who sat on him was called Faithful and True, and in righteousness He judges and makes war. (Rev 19:11) — Facundus Beatus (1047 AD)</figcaption>
     </figure>
 
@@ -73,7 +73,7 @@ $page_type = "article";
     <p>If I were to guess the reason behind his choosing the participle instead of the actual, conjugated verb — especially considering the fact that the author knew of the existence of the 3<sup>rd</sup> pers. sg. pres. act. ind. form of <i>εἰμί</i> (namely ἐστίν) and uses it frequently —, I would postulate that it was chosen to convey the meaning of continuous being.</p>
 
     <figure style="float: left; margin-top: 0px;">
-      <img src="/media/imgs/GNT/fallenstar.webp">
+      <img alt="Henry John Stock’s painting of a star falling from Heaven" src="/media/imgs/GNT/fallenstar.webp">
       <figcaption>And I saw a Star fall from Heaven — Henry John Stock, 1902</figcaption>
     </figure>
 
@@ -99,7 +99,7 @@ $page_type = "article";
     </blockquote>
 
     <figure style="float: right; margin-top: 0px;">
-      <img src="/media/imgs/GNT/fugel2001.webp">
+      <img alt="Gebhard Fugel’s painting of an angel binding the dragon with a great chain" src="/media/imgs/GNT/fugel2001.webp">
       <figcaption>Then I saw an angel coming down from heaven, having the key to the bottomless pit and a great chain in his hand. He laid hold of the dragon, that serpent of old, who is the Devil and Satan, and bound him for a thousand years (Rev 20:1) — Gebhard Fugel, 1933</figcaption>
     </figure>
 

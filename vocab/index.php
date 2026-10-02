@@ -16,9 +16,9 @@ $page_type = "article";
   <?php include('../header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
-    <img src="/media/icons/uvas.png">
+    <img alt="" src="/media/icons/uvas.png">
       ΤΟΥΣ ΛΟΓΟΥΣ ΜΑΝΘΑΝΩΜΕΝ 
-    <img src="/media/icons/uvas.png">
+    <img alt="" src="/media/icons/uvas.png">
     </legend>
   </fieldset>
 

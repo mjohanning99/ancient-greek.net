@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>The Greek New Testament — Translation and Transliteration</h1>
   <h3>Μετάφρασις Κλεοφίλου τῆς Καινῆς Διαθήκης</h3>
   <i>Marvin’s translation of the New Testament</i>
-  <img src="/media/imgs/GNT/DoNotJudge.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/DoNotJudge.jpg'" alt="Ancient Greek" width="250" height="250">
+  <img alt="Matthew 7:1 in the Greek New Testament: Μὴ κρίνετε, ἵνα μὴ κριθῆτε" src="/media/imgs/GNT/DoNotJudge.webp" width="250" height="250" onerror="this.onerror=null; this.src='/media/imgs/GNT/DoNotJudge.jpg'" width="250" height="250">
   <i>Do not judge, so that you will not, yourselves, be judged (Mat. 7:1).</i>
 </div>
 

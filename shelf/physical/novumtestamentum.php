@@ -21,7 +21,7 @@ $page_item_name = "Nestle-Aland’s Novum Testamentum Graece — Review";
   <h1>Nestle-Aland’s Novum Testamentum Graece — Review</h1>
   <h3>Τὴν Καινὴν Διαθήκην ἀναγιγνωσκώμεθα!</h3>
   <i>Let us read the New Testament!</i>
-  <img src="/media/imgs/novum/john.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/novum/john.jpg'" alt="Ancient Greek" width="400" height="400">
+  <img alt="The Nestle-Aland Greek New Testament opened at the Gospel of John" src="/media/imgs/novum/john.webp" width="400" height="400" onerror="this.onerror=null; this.src='/media/imgs/novum/john.jpg'" width="400" height="400">
   <i>The Gospel of John in its original language</i>
 </div>
 
@@ -35,7 +35,7 @@ $page_item_name = "Nestle-Aland’s Novum Testamentum Graece — Review";
     <p>This is mostly due to the aforesaid fact that the New Testament — and the entire Bible, for that matter — are written in a somewhat simple-to-grasp manner with lots of repetitions. I am by no means saying that one will be able to read the Bible fully without any issues whatsoever after only a minor amount of time spent stuying, but it is, I would argue, amongst the easier texts that can be read. This is undoubtedly because of the type of Greek it has been written in — namely Koine — which utilises a much simplified grammar when compared to Attic. </p>
 
     <figure>
-      <img src="/media/imgs/novum/novumcover.webp">
+      <img alt="The cover of Nestle-Aland’s Novum Testamentum Graece" src="/media/imgs/novum/novumcover.webp">
       <figcaption>The book's cover</figcaption>
     </figure>
 

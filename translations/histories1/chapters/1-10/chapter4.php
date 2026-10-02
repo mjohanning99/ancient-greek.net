@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/DasBrennendeTroja.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/DasBrennendeTroja.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Johann Georg Trautmann’s painting of the burning city of Troy" src="/media/imgs/herodotus/DasBrennendeTroja.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/DasBrennendeTroja.jpg'" width="200" height="200">
   <br>
   <i>Blick auf das brennende Troja (A view of the burning city of Troy) by Johann Georg Trautmann (1713–1769).</i>
   <br>

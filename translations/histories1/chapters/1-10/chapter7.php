@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/herodotus/ArtemisSardis.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/ArtemisSardis.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="The ruined columns of the Temple of Artemis at Sardis" src="/media/imgs/herodotus/ArtemisSardis.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/ArtemisSardis.jpg'" width="200" height="200">
   <br>
   <i>The Temple of Artemis outside Sart (ancient Sardis), Turkey (then Lydia) by <a href="https://commons.wikimedia.org/wiki/File:Temple_of_Artemis_Sardis_Turkey4.webp">simonjenkins' photos</a> (CC-BY-SA-2.0)</i>
   <br>

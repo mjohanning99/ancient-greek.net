@@ -19,7 +19,7 @@ $page_type = "article";
   <h1>The Didache — Translation and Transliteration</h1>
   <h3>Διδαχὴ κυρίου διὰ τῶν δώδεκα ἀποστόλων τοῖς ἔθνεσιν</h3>
   <i>The teaching of the Lord as presented to the nations (gentiles) through the twelve apostles</i>
-  <img src="/media/imgs/rev2217.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/rev2217.jpg'" alt="Ancient Greek" width="200" height="200">
+  <img alt="Illuminated text of Revelation 22:17: And the Spirit and the bride say, Come" src="/media/imgs/rev2217.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/rev2217.jpg'" width="200" height="200">
   <i>Revelation 22-17, similar to a prayer found in the Didache</i>
 </div>
 

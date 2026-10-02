@@ -16,9 +16,9 @@ $page_type = "article";
   <?php include('header.php'); ?>
   <fieldset class="separator-styled radius">
     <legend align="center">
-      <img src="/media/icons/grapes.png">
+      <img alt="" src="/media/icons/grapes.png">
         ΛΕΓΩ ΠΕΡΙ ΕΜΑΥΤΟΥ
-      <img src="/media/icons/grapes.png">
+      <img alt="" src="/media/icons/grapes.png">
     </legend>
   </fieldset>
 
@@ -26,7 +26,7 @@ $page_type = "article";
     <h1>About ancient-greek.net</h1>
     <h3>Γράφω λόγους τινὰς περὶ τῆς ταύτης ἀρχῆς</h3>
     <i>I write a few words about this realm</i>
-    <img src="/media/imgs/logo_about.webp" width="280" height="150" onerror="this.onerror=null; this.src='/media/imgs/logo_about.png'" alt="Ancient Greek" width="280" height="150">
+    <img alt="The ancient-greek.net logo: a woman playing a lyre beneath olive branches, with the words ΜΑΝΘΑΝΩΜΕΝ ΤΗΝ ΕΛΛΗΝΙΚΗΝ ΓΛΩΣΣΑΝ" src="/media/imgs/logo_about.webp" width="280" height="150" onerror="this.onerror=null; this.src='/media/imgs/logo_about.png'" width="280" height="150">
     <i>Information about Ancient-Greek.net — The website for information about Ancient Greek</i>
 </div>
 
@@ -59,9 +59,9 @@ $page_type = "article";
 </div>
 
 <div class="separator">
-  <img class="no" src="/media/icons/pottery.png">
+  <img alt="" class="no" src="/media/icons/pottery.png">
     Η ΑΡΧΗ ΜΟΥ
-  <img class="no" src="/media/icons/pottery.png">
+  <img alt="" class="no" src="/media/icons/pottery.png">
 </div>
 
 <div class="article">
@@ -91,7 +91,7 @@ $page_type = "article";
   <p>But what about actual content that might be found on this page? There are numerous things here, actually, and the amount of categories keeps growing. Mainly, however, you will be able to look at my shelves — both physical and virtual — to see what kinds of books I am using to learn the language and read reviews about them; you will be able to read original ancient texts with transliterations and translations; you can find my own compositions in Ancient Greek; and numerous other things, such as my blog or some articles.</p>
 
   <figure style="float: right; margin-top: 0px;">
-    <img src="/media/imgs/creationbosch.webp" onerror="this.onerror=null; this.src='/media/imgs/creationbosch.jpg'" alt="Ancient Greek">
+    <img alt="Hieronymus Bosch’s grisaille of the Creation: a glass globe holding the newly made Earth" src="/media/imgs/creationbosch.webp" onerror="this.onerror=null; this.src='/media/imgs/creationbosch.jpg'">
     <figcaption><q>Creation</q> on the exterior (shutters) of The Garden of Earthly Delights — 1480 – 1490, Hieronymus Bosch</figcaption>
   </figure>
 

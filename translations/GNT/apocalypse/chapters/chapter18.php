@@ -26,7 +26,7 @@ $page_type = "article";
 
   <i>May 2021</i>
   <br><br>
-  <img src="/media/imgs/GNT/revtrans/fallenbabylon.webp" width="210" height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/fallenbabylon.jpg'" alt="Ancient Greek" width="210" height="210">
+  <img alt="Gustave Doré’s engraving of fallen Babylon" src="/media/imgs/GNT/revtrans/fallenbabylon.webp" width="210" height="210" onerror="this.onerror=null; this.src='/media/imgs/GNT/revtrans/fallenbabylon.jpg'" width="210" height="210">
   <br>
   <i>Babylon Fallen — 1866, Gustave Doré</i>
 </div>
