@@ -44,7 +44,7 @@ $page_item_name = "The Gospel of John — A Modern Translation";
     <div class="column">
       <div class="article">
         <h2>Obtaining your copy</h2>
-				<p>The translation is currently still a work in progress. A copy cannot be obtained at present. Check <a href="https://git.marvinjohanning.de/marvinjohanning/">git.marvinjohanning.de</a> for further information. The Git repository contains the LaTeX source code which can be compiled into the finished document, if you so desire.</p>
+				<p>The translation is currently still a work in progress. A copy cannot be obtained at present.</p>
       </div>
     </div>
   <div class="column">

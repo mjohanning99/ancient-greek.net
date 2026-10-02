@@ -34,7 +34,7 @@ $page_type = "article";
 
     <figure style="float: left; margin-top: 0px;">
       <img alt="Roman mosaic of Plato teaching his students in the Academy" src="/media/imgs/platoathens.webp">
-      <figcaption>Plato with students of his in the <i>Academy</i> (1<sup>st</sup> cenutry BC, Roman mosaic).<sup><a href="https://commons.wikimedia.org/wiki/File:Acad%C3%A9mie_de_Platon_-_Mosaique_romaine_-_Naples_MANN_124545.webp">wikimedia</a></sup></figcaption>
+      <figcaption>Plato with students of his in the <i>Academy</i> (1<sup>st</sup> cenutry BC, Roman mosaic).<sup><a href="https://commons.wikimedia.org/wiki/File:Acad%C3%A9mie_de_Platon_-_Mosaique_romaine_-_Naples_MANN_124545.jpg">wikimedia</a></sup></figcaption>
     </figure>
 
     <p>What these things imply should thus — in my mind, at least — be obvious. If not, however, it is firstly imperative to grasp the fact that, because of the above-mentioned differences due to the lack of native speakers of ancient languages, not only do the approaches of learning a modern and ancient language differ significantly; but that, secondly, these languages are often learnt by two different types of people. An out-going person who loves speaking to other people — on, for example, the street or at a bar — in their native language would not want to put in the effort of learning an ancient language unless they had the ability of either time-travel or resurrection; neither would a more introverted person, who barely manages to build up enough courage to speak to people in his native language, want to learn a second language simply to have the ability to talk to more people.</p>
@@ -52,7 +52,7 @@ $page_type = "article";
 
     <figure style="float: right; margin-top: 0px;">
       <img alt="19th-century depiction of scholars in the Library of Alexandria" src="/media/imgs/libraryofalexandria.webp">
-      <figcaption>19<sup>th</sup>-century depiction of the <i>Library of Alexandria.</i><sup><a href="https://en.wikipedia.org/wiki/File:Ancientlibraryalex.webp">wikimedia</a></sup></figcaption>
+      <figcaption>19<sup>th</sup>-century depiction of the <i>Library of Alexandria.</i><sup><a href="https://en.wikipedia.org/wiki/File:Ancientlibraryalex.jpg">wikimedia</a></sup></figcaption>
     </figure>
 
     <p>Returning, somewhat at least, to the topic of <i>communication</i>, I find that I should add that finding a suitable person to practice a living language with has always been a task I found rather difficult. Most people appear to stop speaking to you after a short while or their answers are of such low effort that writing with them is a chore rather than an enjoyable experience. I, thus, found myself practicing my language skills <i>passively</i> rather than <i>actively</i>, which means that I mostly spent my time learning the language by consuming media — printed or otherwise —, instead of actually communicating to people. It, therefore, occurred to me that I might gain more by learning an ancient language, as the majority of my learning was spent reading texts rather than actually speaking to people.

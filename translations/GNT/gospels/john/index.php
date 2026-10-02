@@ -40,14 +40,14 @@ $page_type = "article";
             <h3><a href="chapters/chapter2.php" class="menu">Chapter 2</a>
             <h3><a href="chapters/chapter3.php" class="menu">Chapter 3</a>
             <h3><a href="chapters/chapter4.php" class="menu">Chapter 4</a>
-            <h3><a href="chapters/chapter5.php" class="menu">Chapter 5</a>
+            <h3><a class="denied">Chapter 5</a>
           </div>
           <div class="chapter">
-            <h3><a href="chapters/chapter6.php" class="menu">Chapter 6</a>
-            <h3><a href="chapters/chapter7.php" class="menu">Chapter 7</a>
-            <h3><a href="chapters/chapter8.php" class="menu">Chapter 8</a>
-            <h3><a href="chapters/chapter9.php" class="menu">Chapter 9</a>
-            <h3><a href="chapters/chapter10.php" class="menu">Chapter 10</a>
+            <h3><a class="denied">Chapter 6</a>
+            <h3><a class="denied">Chapter 7</a>
+            <h3><a class="denied">Chapter 8</a>
+            <h3><a class="denied">Chapter 9</a>
+            <h3><a class="denied">Chapter 10</a>
           </div>
         </div>
       </div>
@@ -56,18 +56,18 @@ $page_type = "article";
         <h2 align="center">Chapters 1 – 10</h2>
         <div class="row">
           <div class="chapter">
-            <h3><a href="chapters/chapter11.php" class="menu">Chapter 11</a>
-            <h3><a href="chapters/chapter12.php" class="menu">Chapter 12</a>
-            <h3><a href="chapters/chapter13.php" class="menu">Chapter 13</a>
-            <h3><a href="chapters/chapter14.php" class="menu">Chapter 14</a>
-            <h3><a href="chapters/chapter15.php" class="menu">Chapter 15</a>
+            <h3><a class="denied">Chapter 11</a>
+            <h3><a class="denied">Chapter 12</a>
+            <h3><a class="denied">Chapter 13</a>
+            <h3><a class="denied">Chapter 14</a>
+            <h3><a class="denied">Chapter 15</a>
           </div>
           <div class="chapter">
-            <h3><a href="chapters/chapter16.php" class="menu">Chapter 16</a>
-            <h3><a href="chapters/chapter17.php" class="menu">Chapter 17</a>
-            <h3><a href="chapters/chapter18.php" class="menu">Chapter 18</a>
-            <h3><a href="chapters/chapter19.php" class="menu">Chapter 19</a>
-            <h3><a href="chapters/chapter20.php" class="menu">Chapter 20</a>
+            <h3><a class="denied">Chapter 16</a>
+            <h3><a class="denied">Chapter 17</a>
+            <h3><a class="denied">Chapter 18</a>
+            <h3><a class="denied">Chapter 19</a>
+            <h3><a class="denied">Chapter 20</a>
           </div>
         </div>
       </div>
@@ -76,7 +76,7 @@ $page_type = "article";
     <div class="row">
       <div class="column-center">
         <h2>Chapter 21</h2>
-        <h3><a href="chapters/chapter21.php" class="menu">Chapter 21</a>
+        <h3><a class="denied">Chapter 21</a>
       </div>
     </div>
 

@@ -71,7 +71,7 @@ $page_type = "article";
   <p>And last — but definitely not least — you can now support me over on Ko-fi! Simply click the red button floating around at the bottom left of the page to send me a donation or become a subscriber. Don’t worry, though: the page will remain (ad-)free for now!</p>
 
   <h2>March 10, 2022 — Twitter and new Bible</h2>
-  <p>Hello once again, I have returned with some hopefully good news! Firstly, I would like to mention that I have created a <a href="https://twitter.com/ancientgreeknet">Twitter</a> account for my website, on which I post lots of things about and also <i>in</i> Ancient Greek. It is an attempt at practicing writing in Ancient Greek and I highly recommend you check it out, especially if you are interested in reading daily journal-like posts written in Ancient Greek.</p>
+  <p>Hello once again, I have returned with some hopefully good news! Firstly, I would like to mention that I have created a Twitter account for my website, on which I post lots of things about and also <i>in</i> Ancient Greek. It is an attempt at practicing writing in Ancient Greek and I highly recommend you check it out, especially if you are interested in reading daily journal-like posts written in Ancient Greek.</p>
   <p>Additionally, I have found another, very interesting edition of the Bible which should arrive today. Once it has arrived, I shall begin writing a new article about it which will subsequently reside in my Physical Shelf; so you can look forward to a new article about a most intriguing book soon!</p>
 
   <h2>February 14, 2022 — Wordle but in Ancient Greek</h2>

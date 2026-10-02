@@ -34,14 +34,14 @@ $page_type = "article";
     <h2>Chapters</h2>
     <div class="row">
       <div class="chapter">
-        <h3><a href="chapters/chapter1.php" class="menu">Chapter 1</a>
-        <h3><a href="chapters/chapter2.php" class="menu">Chapter 2</a>
+        <h3><a class="denied">Chapter 1</a>
+        <h3><a class="denied">Chapter 2</a>
       </div>
       <div class="chapter">
-        <h3><a href="chapters/chapter3.php" class="menu">Chapter 3</a>
-        <h3><a href="chapters/chapter4.php" class="menu">Chapter 4</a>
+        <h3><a class="denied">Chapter 3</a>
+        <h3><a class="denied">Chapter 4</a>
       </div>
-        <h3 align="center"><a href="chapters/chapter5.php" class="menu">Chapter 5</a></h3>
+        <h3 align="center"><a class="denied">Chapter 5</a></h3>
     </div>
 </div>
 

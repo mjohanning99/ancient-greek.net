@@ -28,7 +28,7 @@ $page_type = "article";
   <br><br>
   <img alt="View from the Heraion of Argos across the Inachos plain" src="/media/imgs/herodotus/ArgosHeraionPlain.webp" width="200" height="200" onerror="this.onerror=null; this.src='/media/imgs/herodotus/ArgosHeraionPlain.jpg'" width="200" height="200">
   <br>
-  <i>View from the Heraion of Argos into the Inachos plain by <a href="https://commons.wikimedia.org/wiki/File:Argos_Heraion_Plain.webp">Sarah Murray</a> (CC BY-SA 2.0)</i>
+  <i>View from the Heraion of Argos into the Inachos plain by <a href="https://commons.wikimedia.org/wiki/File:Argos_Heraion_Plain.jpg">Sarah Murray</a> (CC BY-SA 2.0)</i>
   <br>
 </div>
 

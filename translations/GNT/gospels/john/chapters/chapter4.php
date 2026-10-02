@@ -21,7 +21,7 @@ $page_type = "article";
 
   <ul class="menu">
     <li class="menu"><a href="chapter3.php">Previous</a></li>
-    <li class="menu"><a href="chapter5.php">Next</a></li>
+    <li class="menu">Next</li>
   </ul>
 
   <i>December 2021</i>
